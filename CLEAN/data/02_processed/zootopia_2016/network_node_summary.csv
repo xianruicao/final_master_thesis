@@ -1,0 +1,25 @@
+character,name,betweenness,degree_centrality,in_degree,out_degree,clustering
+zootopia_2016_hopps,Hopps,0.6344,1.2609,16,13,0.0069
+zootopia_2016_bogo,Bogo,0.1008,0.3478,5,3,0.0266
+zootopia_2016_lionheart,Lionheart,0.0731,0.2609,3,3,0.0101
+zootopia_2016_yax_the_hippie_yak,Yax The Hippie Yak,0.0711,0.1739,2,2,0.0
+zootopia_2016_bellwether,Bellwether,0.0553,0.2174,3,2,0.0698
+zootopia_2016_oryx_pootosser,Oryx Pootosser,0.0336,0.087,1,1,0.0
+zootopia_2016_nick,Nick,0.0316,0.3478,3,5,0.0377
+zootopia_2016_badger_doctor,Badger Doctor,0.0,0.0435,0,1,0.0
+zootopia_2016_flash,Flash,0.0,0.1739,2,2,0.1445
+zootopia_2016_duke_weaselton,Duke Weaselton,0.0,0.087,1,1,0.0
+zootopia_2016_doug,Doug,0.0,0.0435,1,0,0.0
+zootopia_2016_clawhauser,Clawhauser,0.0,0.1739,2,2,0.0905
+zootopia_2016_bonnie_hopps,Bonnie Hopps,0.0,0.1739,2,2,0.1083
+zootopia_2016_gideon_grey,Gideon Grey,0.0,0.087,1,1,0.0
+zootopia_2016_gazelle,Gazelle,0.0,0.0435,0,1,0.0
+zootopia_2016_fru_fru_shrew,Fru Fru Shrew,0.0,0.087,1,1,0.0
+zootopia_2016_mean_kid_animal,Mean Kid Animal,0.0,0.0435,0,1,0.0
+zootopia_2016_major_friedkin,Major Friedkin,0.0,0.0435,0,1,0.0
+zootopia_2016_kudu_pootosser,Kudu Pootosser,0.0,0.0435,0,1,0.0
+zootopia_2016_mr_big,Mr. Big,0.0,0.1304,2,1,0.0967
+zootopia_2016_nangi,Nangi,0.0,0.087,1,1,0.0
+zootopia_2016_mrs_otterton,Mrs. Otterton,0.0,0.087,1,1,0.0
+zootopia_2016_reporter,Reporter,0.0,0.0435,0,1,0.0
+zootopia_2016_stu_hopps,Stu Hopps,0.0,0.1739,2,2,0.1083

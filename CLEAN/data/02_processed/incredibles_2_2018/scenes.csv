@@ -1,0 +1,38 @@
+film_id,scene_id,scene_number,scene_header,marker_type,start_line,end_line,scene_position_pct,utterance_count,spoken_utterance_count,song_utterance_count
+incredibles_2_2018,incredibles_2_2018_s001,1,Scene 1- The Underminer Fight,scene_header,3,199,0.0,69,69,0
+incredibles_2_2018,incredibles_2_2018_s002,2,Scene 2- Interrogation,scene_header,200,240,0.0278,16,16,0
+incredibles_2_2018,incredibles_2_2018_s003,3,Scene 3- Bad News,scene_header,241,267,0.0556,11,11,0
+incredibles_2_2018,incredibles_2_2018_s004,4,Scene 4- Dinner Argument,scene_header,268,390,0.0833,54,54,0
+incredibles_2_2018,incredibles_2_2018_s005,5,Scene 5- What's Next?,scene_header,391,471,0.1111,36,36,0
+incredibles_2_2018,incredibles_2_2018_s006,6,Scene 6- Meeting the Deavors,scene_header,472,590,0.1389,53,53,0
+incredibles_2_2018,incredibles_2_2018_s007,7,Scene 7- Hard Decision,scene_header,591,645,0.1667,23,23,0
+incredibles_2_2018,incredibles_2_2018_s008,8,Scene 8- New House,scene_header,646,730,0.1944,31,30,1
+incredibles_2_2018,incredibles_2_2018_s009,9,Scene 9- New Elasticycle,scene_header,731,791,0.2222,24,24,0
+incredibles_2_2018,incredibles_2_2018_s010,10,Scene 10- The Bus is Here!,scene_header,792,818,0.25,10,10,0
+incredibles_2_2018,incredibles_2_2018_s011,11,Scene 11- Waiting for Crime,scene_header,819,843,0.2778,9,9,0
+incredibles_2_2018,incredibles_2_2018_s012,12,Scene 12- Taking Care of the Kids,scene_header,844,874,0.3056,12,12,0
+incredibles_2_2018,incredibles_2_2018_s013,13,Scene 13- Runaway Train,scene_header,875,949,0.3333,28,27,1
+incredibles_2_2018,incredibles_2_2018_s014,14,Scene 14- Jack-Jack's Powers,scene_header,950,974,0.3611,9,9,0
+incredibles_2_2018,incredibles_2_2018_s015,15,Scene 15- Helen calls Bob,scene_header,975,1051,0.3889,30,30,0
+incredibles_2_2018,incredibles_2_2018_s016,16,Scene 16- Do I Know You?,scene_header,1052,1082,0.4167,11,11,0
+incredibles_2_2018,incredibles_2_2018_s017,17,Scene 17- Ambassador Ambush,scene_header,1083,1197,0.4444,47,47,0
+incredibles_2_2018,incredibles_2_2018_s018,18,Scene 18- Violet Figures it Out,scene_header,1198,1222,0.4722,9,9,0
+incredibles_2_2018,incredibles_2_2018_s019,19,Scene 19- The Wannabe Supers,scene_header,1223,1361,0.5,59,59,0
+incredibles_2_2018,incredibles_2_2018_s020,20,Scene 20- The Happy Platter,scene_header,1362,1468,0.5278,45,44,1
+incredibles_2_2018,incredibles_2_2018_s021,21,Scene 21- Screenslaver Fight,scene_header,1469,1527,0.5556,21,21,0
+incredibles_2_2018,incredibles_2_2018_s022,22,Scene 22- Out of Control Powers,scene_header,1528,1734,0.5833,85,85,0
+incredibles_2_2018,incredibles_2_2018_s023,23,Scene 23- Auntie Edna,scene_header,1735,1765,0.6111,12,11,1
+incredibles_2_2018,incredibles_2_2018_s024,24,Scene 24- The Defeat of Screenslaver,scene_header,1766,1790,0.6389,8,8,0
+incredibles_2_2018,incredibles_2_2018_s025,25,Scene 25- Bob Apologizes,scene_header,1791,1811,0.6667,8,8,0
+incredibles_2_2018,incredibles_2_2018_s026,26,Scene 26- Elastigirl gets Hypnotized,scene_header,1812,1874,0.6944,29,29,0
+incredibles_2_2018,incredibles_2_2018_s027,27,Scene 27- Jack-Jack's New Suit,scene_header,1875,1939,0.7222,27,27,0
+incredibles_2_2018,incredibles_2_2018_s028,28,Scene 28- Evelyn's Monologue,scene_header,1940,1988,0.75,21,21,0
+incredibles_2_2018,incredibles_2_2018_s029,29,Scene 29- Escaping the House,scene_header,1989,2141,0.7778,56,56,0
+incredibles_2_2018,incredibles_2_2018_s030,30,Scene 30- Mr. Incredible gets Hypnotized,scene_header,2142,2160,0.8056,5,5,0
+incredibles_2_2018,incredibles_2_2018_s031,31,Scene 31- Getting on the Ship,scene_header,2161,2219,0.8333,20,20,0
+incredibles_2_2018,incredibles_2_2018_s032,32,Scene 32- Violet Vs. Voyd,scene_header,2220,2262,0.8611,13,13,0
+incredibles_2_2018,incredibles_2_2018_s033,33,Scene 33- Finding Jack-Jack,scene_header,2263,2347,0.8889,30,29,1
+incredibles_2_2018,incredibles_2_2018_s034,34,Scene 34- Turning the Ship,scene_header,2348,2380,0.9167,12,11,1
+incredibles_2_2018,incredibles_2_2018_s035,35,Scene 35- Freeing the Supers,scene_header,2381,2481,0.9444,29,27,2
+incredibles_2_2018,incredibles_2_2018_s036,36,Scene 36- Stopping the Ship and Evelyn,scene_header,2482,2716,0.9722,84,83,1
+incredibles_2_2018,incredibles_2_2018_s037,37,Scene 37- Going to the Movies,scene_header,2717,2762,1.0,19,19,0

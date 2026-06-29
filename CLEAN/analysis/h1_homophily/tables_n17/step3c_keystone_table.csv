@@ -1,0 +1,18 @@
+film_title,year,lead_gender,protagonist,keystone,keystone_gender,keystone_diff_gender,components_after_removal
+Beauty & the Beast (1991),1991,F,Belle,Beast,M,1,1
+Toy Story (1995),1995,M,Woody,Andy,M,0,2
+Mulan (1998),1998,F,Mulan,Shang,M,1,1
+Monsters Inc (2001),2001,M,Sulley,Mike,M,0,3
+Finding Nemo (2003),2003,M,Marlin,Nemo,M,0,4
+Up (2009),2009,M,Carl,Dug,M,0,1
+Toy Story 3 (2010),2010,M,Woody,Buzz,M,0,1
+Cars 2 (2011),2011,M,Mater,Mcqueen,M,0,5
+Frozen (2013),2013,F,Anna,Elsa,F,0,2
+Inside Out (2015),2015,F,Joy,Anger,M,1,2
+Zootopia (2016),2016,F,Hopps,Bogo,M,1,3
+Coco (2017),2017,M,Miguel,Héctor,M,0,3
+Incredibles 2 (2018),2018,M,Bob,Elastigirl,F,1,4
+Onward (2020),2020,M,Ian,Laurel,F,1,1
+Raya (2021),2021,F,Raya,Sisu,F,0,3
+Encanto (2021),2021,F,Mirabel,Isabela,F,0,1
+Elemental (2023),2023,F,Ember,Wade,M,1,2

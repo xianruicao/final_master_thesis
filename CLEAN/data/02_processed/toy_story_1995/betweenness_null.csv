@@ -1,0 +1,13 @@
+film_id,character,gender,betw_obs,null_mean,null_std,z_score,percentile,p_high
+toy_story_1995,toy_story_1995_woody,M,0.9455,0.8964,0.0347,1.412,95.5,0.0455
+toy_story_1995,toy_story_1995_andy,M,0.1818,0.1171,0.0819,0.79,81.8,0.1819
+toy_story_1995,toy_story_1995_mr_potato_head,M,0.1818,0.119,0.0819,0.767,80.8,0.1919
+toy_story_1995,toy_story_1995_sid,M,0.1818,0.1194,0.0824,0.758,81.4,0.1869
+toy_story_1995,toy_story_1995_mrs_davis,F,0.0,0.0239,0.0494,-0.482,0.0,1.0
+toy_story_1995,toy_story_1995_buzz,M,0.0,0.0553,0.066,-0.838,0.0,1.0
+toy_story_1995,toy_story_1995_hannah,F,0.0,0.0229,0.0472,-0.485,0.0,1.0
+toy_story_1995,toy_story_1995_slinky,M,0.0,0.0243,0.0498,-0.488,0.0,1.0
+toy_story_1995,toy_story_1995_rex,M,0.0,0.0691,0.0733,-0.943,0.0,1.0
+toy_story_1995,toy_story_1995_bo_peep,F,0.0,0.0248,0.0494,-0.502,0.0,1.0
+toy_story_1995,toy_story_1995_hamm,M,0.0,0.071,0.0715,-0.993,0.0,1.0
+toy_story_1995,toy_story_1995_sargent,M,0.0,0.0243,0.0502,-0.484,0.0,1.0

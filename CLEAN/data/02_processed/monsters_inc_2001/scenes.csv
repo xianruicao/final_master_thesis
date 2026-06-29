@@ -1,0 +1,29 @@
+film_id,scene_id,scene_number,scene_header,marker_type,start_line,end_line,scene_position_pct,utterance_count,spoken_utterance_count,song_utterance_count
+monsters_inc_2001,monsters_inc_2001_s001,1,Scene 3: Mr. Waternoose,scene_header,9,37,0.0,17,17,0
+monsters_inc_2001,monsters_inc_2001_s002,2,Scene 4: Morning Workout,scene_header,38,100,0.037,35,34,1
+monsters_inc_2001,monsters_inc_2001_s003,3,Scene 5: Monstropolis,scene_header,101,154,0.0741,37,36,1
+monsters_inc_2001,monsters_inc_2001_s004,4,"Scene 6: Monsters, Inc.",scene_header,155,203,0.1111,37,36,1
+monsters_inc_2001,monsters_inc_2001_s005,5,Scene 7: Randall Boggs,scene_header,204,229,0.1481,17,17,0
+monsters_inc_2001,monsters_inc_2001_s006,6,Scene 8: The Scare Floor,scene_header,230,313,0.1852,48,48,0
+monsters_inc_2001,monsters_inc_2001_s007,7,Scene 9: 23-19!,scene_header,314,367,0.2222,36,35,1
+monsters_inc_2001,monsters_inc_2001_s008,8,Scene 10: End of the Day,scene_header,368,417,0.2593,38,38,0
+monsters_inc_2001,monsters_inc_2001_s009,9,Scene 11: Meet Boo,scene_header,418,452,0.2963,17,17,0
+monsters_inc_2001,monsters_inc_2001_s010,10,Scene 12: Harryhausen's,scene_header,453,545,0.3333,57,56,1
+monsters_inc_2001,monsters_inc_2001_s011,11,Scene 13: Back in the Apartment,scene_header,546,608,0.3704,33,32,1
+monsters_inc_2001,monsters_inc_2001_s012,12,Scene 14: Bedtime,scene_header,609,660,0.4074,28,28,0
+monsters_inc_2001,monsters_inc_2001_s013,13,Scene 15: Sneaking Boo to Work,scene_header,661,714,0.4444,32,32,0
+monsters_inc_2001,monsters_inc_2001_s014,14,Scene 16: Potty Break,scene_header,715,747,0.4815,17,16,1
+monsters_inc_2001,monsters_inc_2001_s015,15,Scene 17: Randall's Plot,scene_header,748,777,0.5185,21,20,1
+monsters_inc_2001,monsters_inc_2001_s016,16,Scene 18: The Wrong Door,scene_header,778,856,0.5556,53,49,4
+monsters_inc_2001,monsters_inc_2001_s017,17,Scene 19: Mike on the Run,scene_header,857,909,0.5926,33,32,1
+monsters_inc_2001,monsters_inc_2001_s018,18,Scene 20: The Trash Compactor,scene_header,910,957,0.6296,30,29,1
+monsters_inc_2001,monsters_inc_2001_s019,19,Scene 21: Mike Kidnapped,scene_header,958,999,0.6667,27,27,0
+monsters_inc_2001,monsters_inc_2001_s020,20,Scene 22: The Scream Extractor,scene_header,1000,1053,0.7037,34,34,0
+monsters_inc_2001,monsters_inc_2001_s021,21,Scene 23: Sulley Scares Boo,scene_header,1054,1131,0.7407,53,52,1
+monsters_inc_2001,monsters_inc_2001_s022,22,Scene 24: Banished,scene_header,1132,1205,0.7778,42,41,1
+monsters_inc_2001,monsters_inc_2001_s023,23,Scene 25: Sulley Rescues Boo,scene_header,1206,1270,0.8148,37,34,3
+monsters_inc_2001,monsters_inc_2001_s024,24,"Scene 26: ""Schmoopsie-Poo!""/The Door Vault",scene_header,1271,1458,0.8519,112,108,4
+monsters_inc_2001,monsters_inc_2001_s025,25,Scene 27: Tricking Waternoose,scene_header,1459,1543,0.8889,52,51,1
+monsters_inc_2001,monsters_inc_2001_s026,26,Scene 28: Goodbye,scene_header,1544,1582,0.9259,22,19,3
+monsters_inc_2001,monsters_inc_2001_s027,27,Scene 29: The Laugh Floor,scene_header,1583,1626,0.963,26,25,1
+monsters_inc_2001,monsters_inc_2001_s028,28,Scene 30: Kitty,scene_header,1627,1639,1.0,8,7,1

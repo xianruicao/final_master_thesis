@@ -1,0 +1,7 @@
+film_title,lead_gender,protagonist,rung,stored_pick,max_betweenness,n_tied,tied_keystones,tied_genders,gender_stable
+Inside Out (2015),F,Joy,Co-occurrence (unweighted),Fear,0.059524,2,Fear = Sadness,M = F,False
+Raya (2021),F,Raya,Co-occurrence (unweighted),Namaari,0.25,2,Namaari = Sisu,F = F,True
+Zootopia (2016),F,Hopps,Co-occurrence (unweighted),Bonnie Hopps,0.065934,2,Bonnie Hopps = Stu Hopps,F = M,False
+Toy Story (1995),M,Woody,Directed addressee (unweighted),Andy,0.181818,2,Andy = Sid,M = M,True
+Toy Story (1995),M,Woody,Directed addressee (weighted) — PRIMARY,Andy,0.181818,3,Andy = Mr. Potato Head = Sid,M = M = M,True
+Toy Story 3 (2010),M,Woody,Co-occurrence (unweighted),Jessie,0.030195,2,Jessie = Rex,F = M,False

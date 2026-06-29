@@ -1,0 +1,10 @@
+character,name,betweenness,degree_centrality,in_degree,out_degree,clustering
+raya_and_the_last_dragon_2021_raya,Raya,0.7321,1.25,5,5,0.0637
+raya_and_the_last_dragon_2021_sisu,Sisu,0.4286,1.375,6,5,0.0418
+raya_and_the_last_dragon_2021_namaari,Namaari,0.2321,0.75,3,3,0.0704
+raya_and_the_last_dragon_2021_benja,Benja,0.0,0.25,1,1,0.0
+raya_and_the_last_dragon_2021_boun,Boun,0.0,0.75,3,3,0.1205
+raya_and_the_last_dragon_2021_male_merchant,Male Merchant,0.0,0.125,0,1,0.0
+raya_and_the_last_dragon_2021_dang_hu,Dang Hu,0.0,0.25,1,1,0.0
+raya_and_the_last_dragon_2021_tong,Tong,0.0,0.75,3,3,0.0719
+raya_and_the_last_dragon_2021_virana,Virana,0.0,0.25,1,1,0.0

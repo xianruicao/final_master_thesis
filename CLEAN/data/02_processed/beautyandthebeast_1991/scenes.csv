@@ -1,0 +1,122 @@
+film_id,scene_id,scene_number,scene_header,marker_type,start_line,end_line,scene_position_pct,utterance_count,spoken_utterance_count,song_utterance_count
+beautyandthebeast_1991,beautyandthebeast_1991_s001,1,EXT. THE VILLAGE - A BRISK MORNING IN LATE FALL,slug_line,68,73,0.0,1,1,0
+beautyandthebeast_1991,beautyandthebeast_1991_s002,2,EXT. BELLE'S COTTAGE,slug_line,74,150,0.0083,20,18,2
+beautyandthebeast_1991,beautyandthebeast_1991_s003,3,EXT. THE BOOKSHOP,slug_line,151,152,0.0167,0,0,0
+beautyandthebeast_1991,beautyandthebeast_1991_s004,4,INT. BOOKSHOP,slug_line,153,189,0.025,12,12,0
+beautyandthebeast_1991,beautyandthebeast_1991_s005,5,EXT. VILLAGE,slug_line,190,371,0.0333,41,40,1
+beautyandthebeast_1991,beautyandthebeast_1991_s006,6,EXT. CHINA STORE,slug_line,372,429,0.0417,14,14,0
+beautyandthebeast_1991,beautyandthebeast_1991_s007,7,EXT. BELLE'S COTTAGE,slug_line,430,461,0.05,8,8,0
+beautyandthebeast_1991,beautyandthebeast_1991_s008,8,INT. MAURICE'S WORKSHOP,slug_line,462,482,0.0583,3,3,0
+beautyandthebeast_1991,beautyandthebeast_1991_s009,9,EXT. MAURICE'S WORKSHOP,slug_line,483,488,0.0667,1,1,0
+beautyandthebeast_1991,beautyandthebeast_1991_s010,10,EXT. BELLE'S COTTAGE,slug_line,489,511,0.075,6,6,0
+beautyandthebeast_1991,beautyandthebeast_1991_s011,11,EXT. COUNTRY ROAD,slug_line,512,589,0.0833,2,2,0
+beautyandthebeast_1991,beautyandthebeast_1991_s012,12,EXT. BEAST'S CASTLE,slug_line,590,596,0.0917,0,0,0
+beautyandthebeast_1991,beautyandthebeast_1991_s013,13,EXT. CASTLE,slug_line,597,616,0.1,6,6,0
+beautyandthebeast_1991,beautyandthebeast_1991_s014,14,EXT. CASTLE - MAURICE,slug_line,617,619,0.1083,0,0,0
+beautyandthebeast_1991,beautyandthebeast_1991_s015,15,INT. THE BEAST'S CASTLE,slug_line,620,725,0.1167,25,25,0
+beautyandthebeast_1991,beautyandthebeast_1991_s016,16,INT. THE FOYER,slug_line,726,907,0.125,37,27,10
+beautyandthebeast_1991,beautyandthebeast_1991_s017,17,INT. BELLE'S HOUSE - CLOSE ON CAKE,slug_line,908,919,0.1333,1,1,0
+beautyandthebeast_1991,beautyandthebeast_1991_s018,18,EXT. BELLE'S HOUSE,slug_line,920,953,0.1417,4,4,0
+beautyandthebeast_1991,beautyandthebeast_1991_s019,19,INT. BELLE'S HOUSE,slug_line,954,975,0.15,2,2,0
+beautyandthebeast_1991,beautyandthebeast_1991_s020,20,EXT. LEFOU AND CRONIES,slug_line,976,977,0.1583,0,0,0
+beautyandthebeast_1991,beautyandthebeast_1991_s021,21,INT. BELLE'S HOUSE,slug_line,978,1017,0.1667,5,5,0
+beautyandthebeast_1991,beautyandthebeast_1991_s022,22,EXT. BELLE'S HOUSE,slug_line,1018,1035,0.175,2,2,0
+beautyandthebeast_1991,beautyandthebeast_1991_s023,23,INT. BELLE'S HOUSE,slug_line,1036,1102,0.1833,7,5,2
+beautyandthebeast_1991,beautyandthebeast_1991_s024,24,INT. THE CASTLE,slug_line,1103,1109,0.1917,1,1,0
+beautyandthebeast_1991,beautyandthebeast_1991_s025,25,INT. UPSTAIRS CORRIDOR,slug_line,1110,1113,0.2,1,1,0
+beautyandthebeast_1991,beautyandthebeast_1991_s026,26,INT. CORRIDOR,slug_line,1114,1146,0.2083,8,8,0
+beautyandthebeast_1991,beautyandthebeast_1991_s027,27,INT. KITCHEN,slug_line,1147,1179,0.2167,10,10,0
+beautyandthebeast_1991,beautyandthebeast_1991_s028,28,INT. HALLWAY,slug_line,1180,1192,0.225,4,4,0
+beautyandthebeast_1991,beautyandthebeast_1991_s029,29,INT. THE DUNGEON HALL,slug_line,1193,1299,0.2333,26,26,0
+beautyandthebeast_1991,beautyandthebeast_1991_s030,30,EXT. THE CASTLE - NEAR THE STABLES,slug_line,1300,1307,0.2417,2,2,0
+beautyandthebeast_1991,beautyandthebeast_1991_s031,31,INT. DUNGEON CORRIDOR,slug_line,1308,1340,0.25,5,5,0
+beautyandthebeast_1991,beautyandthebeast_1991_s032,32,INT. BELLE'S ROOM,slug_line,1341,1452,0.2583,28,28,0
+beautyandthebeast_1991,beautyandthebeast_1991_s033,33,INT. DINING HALL,slug_line,1453,1570,0.2667,23,22,1
+beautyandthebeast_1991,beautyandthebeast_1991_s034,34,INT. BELLE'S DOOR,slug_line,1571,1612,0.275,8,8,0
+beautyandthebeast_1991,beautyandthebeast_1991_s035,35,INT. BELLE'S ROOM,slug_line,1613,1652,0.2833,8,8,0
+beautyandthebeast_1991,beautyandthebeast_1991_s036,36,EXT. VILLAGE TAVERN - NIGHT - CONTINUOUS,slug_line,1653,1658,0.2917,1,1,0
+beautyandthebeast_1991,beautyandthebeast_1991_s037,37,INT. TAVERN,slug_line,1659,1912,0.3,58,41,17
+beautyandthebeast_1991,beautyandthebeast_1991_s038,38,EXT. THE VILLAGE,slug_line,1913,2000,0.3083,18,17,1
+beautyandthebeast_1991,beautyandthebeast_1991_s039,39,EXT. BEAST'S CASTLE - LATE THAT NIGHT,slug_line,2001,2001,0.3167,0,0,0
+beautyandthebeast_1991,beautyandthebeast_1991_s040,40,INT. OUTSIDE BELLE'S DOOR,slug_line,2002,2034,0.325,5,5,0
+beautyandthebeast_1991,beautyandthebeast_1991_s041,41,INT. THE KITCHEN,slug_line,2035,2156,0.3333,31,30,1
+beautyandthebeast_1991,beautyandthebeast_1991_s042,42,INT. WEST WING CORRIDOR,slug_line,2157,2169,0.3417,0,0,0
+beautyandthebeast_1991,beautyandthebeast_1991_s043,43,INT. THE BEAST'S LAIR,slug_line,2170,2232,0.35,9,9,0
+beautyandthebeast_1991,beautyandthebeast_1991_s044,44,INT. BELLE'S ROOM,slug_line,2233,2252,0.3583,4,4,0
+beautyandthebeast_1991,beautyandthebeast_1991_s045,45,EXT. CASTLE - NIGHT,slug_line,2253,2254,0.3667,0,0,0
+beautyandthebeast_1991,beautyandthebeast_1991_s046,46,INT. STABLE,slug_line,2255,2267,0.375,2,2,0
+beautyandthebeast_1991,beautyandthebeast_1991_s047,47,EXT. THE MISTY FOREST,slug_line,2268,2343,0.3833,5,5,0
+beautyandthebeast_1991,beautyandthebeast_1991_s048,48,INT. THE BEAST'S CASTLE - MAIN HALL - LATER,slug_line,2344,2434,0.3917,19,18,1
+beautyandthebeast_1991,beautyandthebeast_1991_s049,49,INT. BELLE'S ROOM,slug_line,2435,2451,0.4,3,2,1
+beautyandthebeast_1991,beautyandthebeast_1991_s050,50,INT. THE LIBRARY,slug_line,2452,2472,0.4083,3,1,2
+beautyandthebeast_1991,beautyandthebeast_1991_s051,51,INT. THE MORNING ROOM,slug_line,2473,2514,0.4167,4,3,1
+beautyandthebeast_1991,beautyandthebeast_1991_s052,52,INT. THE BEAST'S LAIR,slug_line,2515,2560,0.425,8,8,0
+beautyandthebeast_1991,beautyandthebeast_1991_s053,53,INT. THE HALLS OF THE CASTLE,slug_line,2561,2577,0.4333,2,1,1
+beautyandthebeast_1991,beautyandthebeast_1991_s054,54,EXT. GARDEN,slug_line,2578,2590,0.4417,3,2,1
+beautyandthebeast_1991,beautyandthebeast_1991_s055,55,INT. THE LIBRARY - NIGHT,slug_line,2591,2641,0.45,9,7,2
+beautyandthebeast_1991,beautyandthebeast_1991_s056,56,INT. KITCHEN - SOME TIME LATER,slug_line,2642,2664,0.4583,6,6,0
+beautyandthebeast_1991,beautyandthebeast_1991_s057,57,EXT. THE CASTLE GROUNDS - SOME TIME LATER,slug_line,2665,2676,0.4667,1,1,0
+beautyandthebeast_1991,beautyandthebeast_1991_s058,58,EXT. ANOTHER PART OF THE GROUNDS,slug_line,2677,2721,0.475,7,6,1
+beautyandthebeast_1991,beautyandthebeast_1991_s059,59,EXT. THE STABLE,slug_line,2722,2728,0.4833,0,0,0
+beautyandthebeast_1991,beautyandthebeast_1991_s060,60,INT. THE BEAST'S ROOM,slug_line,2729,2738,0.4917,0,0,0
+beautyandthebeast_1991,beautyandthebeast_1991_s061,61,EXT. THE GARDENS,slug_line,2739,2780,0.5,4,3,1
+beautyandthebeast_1991,beautyandthebeast_1991_s062,62,INT. BELLE'S ROOM - EARLY EVENING,slug_line,2781,2797,0.5083,3,3,0
+beautyandthebeast_1991,beautyandthebeast_1991_s063,63,INT. CORRIDOR - AT BELLE'S DOOR,slug_line,2798,2804,0.5167,1,1,0
+beautyandthebeast_1991,beautyandthebeast_1991_s064,64,INT. BELLE'S ROOM,slug_line,2805,2809,0.525,0,0,0
+beautyandthebeast_1991,beautyandthebeast_1991_s065,65,INT. CORRIDOR - AT BELLE'S DOOR,slug_line,2810,2811,0.5333,0,0,0
+beautyandthebeast_1991,beautyandthebeast_1991_s066,66,INT. BEAST'S LAIR - ON THE ROSE,slug_line,2812,2818,0.5417,1,1,0
+beautyandthebeast_1991,beautyandthebeast_1991_s067,67,EXT. BELLE'S COTTAGE,slug_line,2819,2821,0.55,0,0,0
+beautyandthebeast_1991,beautyandthebeast_1991_s068,68,INT. BELLE'S COTTAGE,slug_line,2822,2829,0.5583,0,0,0
+beautyandthebeast_1991,beautyandthebeast_1991_s069,69,INT. BELLE'S ROOM,slug_line,2830,2843,0.5667,1,1,0
+beautyandthebeast_1991,beautyandthebeast_1991_s070,70,INT. THE BEAST'S LAIR,slug_line,2844,2847,0.575,0,0,0
+beautyandthebeast_1991,beautyandthebeast_1991_s071,71,EXT. NORTHERN FRANCE - NEAR THE SEA,slug_line,2848,2857,0.5833,2,2,0
+beautyandthebeast_1991,beautyandthebeast_1991_s072,72,EXT. THE MAISON DES LOONS,slug_line,2858,2884,0.5917,4,4,0
+beautyandthebeast_1991,beautyandthebeast_1991_s073,73,EXT. THE FOREST,slug_line,2885,2901,0.6,1,1,0
+beautyandthebeast_1991,beautyandthebeast_1991_s074,74,EXT. THE BEAST'S CASTLE - EVENING,slug_line,2902,2904,0.6083,1,1,0
+beautyandthebeast_1991,beautyandthebeast_1991_s075,75,INT. THE KITCHEN,slug_line,2905,2927,0.6167,6,6,0
+beautyandthebeast_1991,beautyandthebeast_1991_s076,76,INT. THE DINING ROOM,slug_line,2928,2946,0.625,3,3,0
+beautyandthebeast_1991,beautyandthebeast_1991_s077,77,INT. THE BALLROOM,slug_line,2947,2948,0.6333,0,0,0
+beautyandthebeast_1991,beautyandthebeast_1991_s078,78,INT. THE DINING ROOM,slug_line,2949,2952,0.6417,0,0,0
+beautyandthebeast_1991,beautyandthebeast_1991_s079,79,INT. THE BALLROOM,slug_line,2953,3033,0.65,14,14,0
+beautyandthebeast_1991,beautyandthebeast_1991_s080,80,INT. THE WEST WING CORRIDOR,slug_line,3034,3036,0.6583,0,0,0
+beautyandthebeast_1991,beautyandthebeast_1991_s081,81,INT. BEASTS ROOM,slug_line,3037,3076,0.6667,9,9,0
+beautyandthebeast_1991,beautyandthebeast_1991_s082,82,INT. BEASTS ROOM,slug_line,3077,3081,0.675,1,1,0
+beautyandthebeast_1991,beautyandthebeast_1991_s083,83,INT. THE BEAST'S ROOM,slug_line,3082,3160,0.6833,21,21,0
+beautyandthebeast_1991,beautyandthebeast_1991_s084,84,INT. THE HIGHEST TURRET,slug_line,3161,3169,0.6917,2,2,0
+beautyandthebeast_1991,beautyandthebeast_1991_s085,85,EXT. BELLE'S COTTAGE - DAWN,slug_line,3170,3173,0.7,0,0,0
+beautyandthebeast_1991,beautyandthebeast_1991_s086,86,INT. THE COTTAGE,slug_line,3174,3251,0.7083,17,17,0
+beautyandthebeast_1991,beautyandthebeast_1991_s087,87,EXT. BELLE'S COTTAGE - HER POV,slug_line,3252,3262,0.7167,3,3,0
+beautyandthebeast_1991,beautyandthebeast_1991_s088,88,EXT. THE FRONT DOOR,slug_line,3263,3353,0.725,24,24,0
+beautyandthebeast_1991,beautyandthebeast_1991_s089,89,INT. BELLE'S COTTAGE,slug_line,3354,3359,0.7333,1,1,0
+beautyandthebeast_1991,beautyandthebeast_1991_s090,90,EXT. BELLE'S COTTAGE,slug_line,3360,3382,0.7417,6,6,0
+beautyandthebeast_1991,beautyandthebeast_1991_s091,91,INT. THE COTTAGE,slug_line,3383,3385,0.75,0,0,0
+beautyandthebeast_1991,beautyandthebeast_1991_s092,92,EXT. BELLE'S COTTAGE,slug_line,3386,3492,0.7583,28,27,1
+beautyandthebeast_1991,beautyandthebeast_1991_s093,93,INT. BEAST'S CASTLE - THE BALL ROOM,slug_line,3493,3498,0.7667,0,0,0
+beautyandthebeast_1991,beautyandthebeast_1991_s094,94,INT. THE LIBRARY,slug_line,3499,3566,0.775,16,16,0
+beautyandthebeast_1991,beautyandthebeast_1991_s095,95,INT. BELLE'S ROOM,slug_line,3567,3597,0.7833,9,9,0
+beautyandthebeast_1991,beautyandthebeast_1991_s096,96,EXT. THE BEAST'S CASTLE,slug_line,3598,3600,0.7917,0,0,0
+beautyandthebeast_1991,beautyandthebeast_1991_s097,97,INT. THE FOYER,slug_line,3601,3607,0.8,1,1,0
+beautyandthebeast_1991,beautyandthebeast_1991_s098,98,EXT. AT THE DOOR,slug_line,3608,3610,0.8083,1,1,0
+beautyandthebeast_1991,beautyandthebeast_1991_s099,99,INT. THE FOYER,slug_line,3611,3640,0.8167,4,4,0
+beautyandthebeast_1991,beautyandthebeast_1991_s100,100,INT. THE LIBRARY,slug_line,3641,3659,0.825,3,3,0
+beautyandthebeast_1991,beautyandthebeast_1991_s101,101,EXT. BELLE'S COTTAGE,slug_line,3660,3665,0.8333,1,1,0
+beautyandthebeast_1991,beautyandthebeast_1991_s102,102,INT. THE CELLAR,slug_line,3666,3694,0.8417,6,6,0
+beautyandthebeast_1991,beautyandthebeast_1991_s103,103,EXT. CELLAR,slug_line,3695,3698,0.85,0,0,0
+beautyandthebeast_1991,beautyandthebeast_1991_s104,104,INT. THE CELLAR,slug_line,3699,3701,0.8583,0,0,0
+beautyandthebeast_1991,beautyandthebeast_1991_s105,105,EXT. THE CELLAR,slug_line,3702,3708,0.8667,1,1,0
+beautyandthebeast_1991,beautyandthebeast_1991_s106,106,INT. THE CELLAR,slug_line,3709,3762,0.875,11,11,0
+beautyandthebeast_1991,beautyandthebeast_1991_s107,107,EXT. THE CELLAR,slug_line,3763,3771,0.8833,1,1,0
+beautyandthebeast_1991,beautyandthebeast_1991_s108,108,EXT. THE CASTLE,slug_line,3772,3774,0.8917,0,0,0
+beautyandthebeast_1991,beautyandthebeast_1991_s109,109,INT. THE FOYER,slug_line,3775,3789,0.9,2,2,0
+beautyandthebeast_1991,beautyandthebeast_1991_s110,110,INT. THE CORRIDORS,slug_line,3790,3807,0.9083,3,3,0
+beautyandthebeast_1991,beautyandthebeast_1991_s111,111,INT. BELLE'S ROOM,slug_line,3808,3813,0.9167,0,0,0
+beautyandthebeast_1991,beautyandthebeast_1991_s112,112,EXT. THE ENCHANTED MIST,slug_line,3814,3818,0.925,1,1,0
+beautyandthebeast_1991,beautyandthebeast_1991_s113,113,INT. THE CASTLE,slug_line,3819,3821,0.9333,0,0,0
+beautyandthebeast_1991,beautyandthebeast_1991_s114,114,EXT. THE CASTLE GATES,slug_line,3822,3835,0.9417,4,4,0
+beautyandthebeast_1991,beautyandthebeast_1991_s115,115,INT. THE FOYER,slug_line,3836,3872,0.95,7,7,0
+beautyandthebeast_1991,beautyandthebeast_1991_s116,116,EXT. THE CASTLE,slug_line,3873,3913,0.9583,8,8,0
+beautyandthebeast_1991,beautyandthebeast_1991_s117,117,INT. THE FOYER,slug_line,3914,3948,0.9667,8,8,0
+beautyandthebeast_1991,beautyandthebeast_1991_s118,118,INT. THE CASTLE,slug_line,3949,3951,0.975,0,0,0
+beautyandthebeast_1991,beautyandthebeast_1991_s119,119,EXT. THE DUKE'S CASTLE,slug_line,3952,3969,0.9833,1,1,0
+beautyandthebeast_1991,beautyandthebeast_1991_s120,120,INT. MAURICE'S WORKSHOP,slug_line,3970,3974,0.9917,0,0,0
+beautyandthebeast_1991,beautyandthebeast_1991_s121,121,EXT. THE DUKE'S CASTLE,slug_line,3975,4003,1.0,7,7,0

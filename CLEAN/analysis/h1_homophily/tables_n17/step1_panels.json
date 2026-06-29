@@ -1,0 +1,96 @@
+{
+  "raw": {
+    "label": "protag_samesex (raw share)",
+    "n_F": 8,
+    "n_M": 9,
+    "median_F": 0.34285,
+    "median_M": 0.6667,
+    "mean_F": 0.3532625,
+    "mean_M": 0.700088888888889,
+    "mw_two_sided": {
+      "U": 4.0,
+      "p": 0.0009872480460715754
+    },
+    "mw_one_sided_F<M": {
+      "U": 4.0,
+      "p": 0.0004936240230357877
+    },
+    "rank_biserial": 0.8888888888888888,
+    "cliffs_delta": -0.8888888888888888,
+    "perm_median": {
+      "obs_diff": -0.32384999999999997,
+      "p_two_sided": 0.0012,
+      "p_one_sided_x_less_y": 0.0012,
+      "null_mean": -0.0034211049999999816,
+      "null_std": 0.14633533362047446
+    },
+    "perm_mean": {
+      "obs_diff": -0.346826388888889,
+      "p_two_sided": 0.0006,
+      "p_one_sided_x_less_y": 0.0003,
+      "null_mean": -0.0005867277777777839,
+      "null_std": 0.11149253673065875
+    },
+    "boot_median_diff_ci": {
+      "diff_point": -0.32384999999999997,
+      "ci_lo": -0.53215,
+      "ci_hi": -0.1714,
+      "boot_mean": -0.34280824000000004
+    },
+    "boot_mean_diff_ci": {
+      "diff_point": -0.346826388888889,
+      "ci_lo": -0.4801870138888889,
+      "ci_hi": -0.2053592361111113,
+      "boot_mean": -0.34581694097222226
+    }
+  },
+  "z": {
+    "label": "protag_samesex_z (cast-adjusted)",
+    "n_F": 8,
+    "n_M": 9,
+    "median_F": -0.1365,
+    "median_M": 0.442,
+    "mean_F": 0.15449999999999997,
+    "mean_M": 0.37433333333333335,
+    "mw_two_sided": {
+      "U": 36.0,
+      "p": 1.0
+    },
+    "mw_one_sided_F<M": {
+      "U": 36.0,
+      "p": 0.518716577540107
+    },
+    "rank_biserial": 0.0,
+    "cliffs_delta": 0.0,
+    "perm_median": {
+      "obs_diff": -0.5785,
+      "p_two_sided": 0.5585,
+      "p_one_sided_x_less_y": 0.337,
+      "null_mean": -0.04979795000000002,
+      "null_std": 0.9323881382851452
+    },
+    "perm_mean": {
+      "obs_diff": -0.21983333333333338,
+      "p_two_sided": 0.7788,
+      "p_one_sided_x_less_y": 0.3938,
+      "null_mean": -0.008437790277777784,
+      "null_std": 0.7272595160555628
+    },
+    "boot_median_diff_ci": {
+      "diff_point": -0.5785,
+      "ci_lo": -1.6855,
+      "ci_hi": 2.1445,
+      "boot_mean": -0.20630839999999998
+    },
+    "boot_mean_diff_ci": {
+      "diff_point": -0.21983333333333338,
+      "ci_lo": -1.607121875,
+      "ci_hi": 1.1106086805555555,
+      "boot_mean": -0.22346876111111114
+    }
+  },
+  "spearman_homophily_vs_protag_z": {
+    "rho": 0.16911764705882354,
+    "p": 0.5164176230839818
+  }
+}

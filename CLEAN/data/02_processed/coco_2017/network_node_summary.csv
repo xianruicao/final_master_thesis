@@ -1,0 +1,20 @@
+character,name,betweenness,degree_centrality,in_degree,out_degree,clustering
+coco_2017_miguel,Miguel,0.5098,1.2778,14,9,0.0128
+coco_2017_h_ctor,Héctor,0.1144,0.5,5,4,0.0859
+coco_2017_de_la_cruz,De La Cruz,0.0327,0.3889,4,3,0.1167
+coco_2017_abuelita,Abuelita,0.0261,0.2222,2,2,0.155
+coco_2017_chicharr_n,Chicharrón,0.0,0.1111,1,1,0.0
+coco_2017_clerk,Clerk,0.0,0.0556,0,1,0.0
+coco_2017_corrections_officer,Corrections Officer,0.0,0.0556,0,1,0.0
+coco_2017_frida,Frida,0.0,0.1111,1,1,0.0
+coco_2017_mam,Mam,0.0,0.1111,1,1,0.0
+coco_2017_mam_coco,Mam Coco,0.0,0.2222,2,2,0.0901
+coco_2017_mam_imelda,Mam Imelda,0.0,0.3889,4,3,0.1314
+coco_2017_pap,Pap,0.0,0.1667,2,1,0.1154
+coco_2017_pap_julio,Pap Julio,0.0,0.1111,0,2,0.1249
+coco_2017_plaza_mariachi,Plaza Mariachi,0.0,0.0556,0,1,0.0
+coco_2017_security_guard,Security Guard,0.0,0.0556,0,1,0.0
+coco_2017_t_a_rosita,Tía Rosita,0.0,0.0556,0,1,0.0
+coco_2017_t_a_victoria,Tía Victoria,0.0,0.1111,1,1,0.0
+coco_2017_t_o_berto,Tío Berto,0.0,0.0556,0,1,0.0
+coco_2017_t_o_oscar,Tío Oscar,0.0,0.0556,0,1,0.0

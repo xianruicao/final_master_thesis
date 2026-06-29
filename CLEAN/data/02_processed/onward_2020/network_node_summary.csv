@@ -1,0 +1,15 @@
+character,name,betweenness,degree_centrality,in_degree,out_degree,clustering
+onward_2020_ian,Ian,0.641,1.1538,8,7,0.0238
+onward_2020_laurel,Laurel,0.5577,1.0769,7,7,0.0274
+onward_2020_colt,Colt,0.2821,0.7692,5,5,0.0178
+onward_2020_barley,Barley,0.1474,0.8462,5,6,0.0434
+onward_2020_manticore,Manticore,0.0769,0.6923,5,4,0.0258
+onward_2020_dad,Dad,0.0,0.3846,3,2,0.0889
+onward_2020_gaxton,Gaxton,0.0,0.1538,1,1,0.0
+onward_2020_driving_instructor,Driving Instructor,0.0,0.0769,0,1,0.0
+onward_2020_dewdrop,Dewdrop,0.0,0.1538,1,1,0.0
+onward_2020_grecklin,Grecklin,0.0,0.3077,2,2,0.0354
+onward_2020_officer_avel,Officer Avel,0.0,0.2308,1,2,0.0329
+onward_2020_officer_gore,Officer Gore,0.0,0.1538,1,1,0.0
+onward_2020_officer_specter,Officer Specter,0.0,0.1538,1,1,0.0
+onward_2020_sadalia,Sadalia,0.0,0.1538,1,1,0.0

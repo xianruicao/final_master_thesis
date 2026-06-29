@@ -1,0 +1,15 @@
+character,name,betweenness,degree_centrality,in_degree,out_degree,clustering
+incredibles_2_2018_bob,Bob,0.7115,1.4615,9,10,0.0727
+incredibles_2_2018_elastigirl,Elastigirl,0.5577,1.2308,8,8,0.0669
+incredibles_2_2018_violet,Violet,0.1346,0.6923,4,5,0.1763
+incredibles_2_2018_ambassador,Ambassador,0.0,0.0769,0,1,0.0
+incredibles_2_2018_dash,Dash,0.0,0.5385,3,4,0.2133
+incredibles_2_2018_chad,Chad,0.0,0.1538,1,1,0.0
+incredibles_2_2018_edna,Edna,0.0,0.1538,1,1,0.0
+incredibles_2_2018_evelyn,Evelyn,0.0,0.4615,3,3,0.2788
+incredibles_2_2018_jack_jack,Jack-Jack,0.0,0.3077,3,1,0.1526
+incredibles_2_2018_frozone,Frozone,0.0,0.3077,2,2,0.1834
+incredibles_2_2018_rick,Rick,0.0,0.3077,2,2,0.113
+incredibles_2_2018_tony,Tony,0.0,0.3846,3,2,0.1424
+incredibles_2_2018_voyd,Voyd,0.0,0.1538,1,1,0.0
+incredibles_2_2018_winston,Winston,0.0,0.5385,4,3,0.1681

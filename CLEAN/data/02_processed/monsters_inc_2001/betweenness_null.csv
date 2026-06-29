@@ -1,0 +1,15 @@
+film_id,character,gender,betw_obs,null_mean,null_std,z_score,percentile,p_high
+monsters_inc_2001,monsters_inc_2001_mike,M,0.2949,0.4438,0.0794,-1.875,2.7,0.973
+monsters_inc_2001,monsters_inc_2001_sulley,M,0.25,0.4439,0.0792,-2.449,0.5,0.995
+monsters_inc_2001,monsters_inc_2001_randall,M,0.0962,0.1868,0.0962,-0.943,16.9,0.8311
+monsters_inc_2001,monsters_inc_2001_boo,F,0.0,0.0645,0.0759,-0.85,0.0,1.0
+monsters_inc_2001,monsters_inc_2001_waternoose,M,0.0,0.0941,0.0871,-1.081,0.0,1.0
+monsters_inc_2001,monsters_inc_2001_celia,F,0.0,0.039,0.0599,-0.65,0.0,1.0
+monsters_inc_2001,monsters_inc_2001_fungus,M,0.0,0.0193,0.0437,-0.442,0.0,1.0
+monsters_inc_2001,monsters_inc_2001_roz,F,0.0,0.0378,0.0645,-0.586,0.0,1.0
+monsters_inc_2001,monsters_inc_2001_needleman,M,0.0,0.0212,0.0473,-0.448,0.0,1.0
+monsters_inc_2001,monsters_inc_2001_smitty,M,0.0,0.0206,0.0467,-0.442,0.0,1.0
+monsters_inc_2001,monsters_inc_2001_yeti,M,0.0,0.0409,0.0626,-0.654,0.0,1.0
+monsters_inc_2001,monsters_inc_2001_charlie,M,0.0,0.0,0.0,,0.0,1.0
+monsters_inc_2001,monsters_inc_2001_george,M,0.0,0.0,0.0,,0.0,1.0
+monsters_inc_2001,monsters_inc_2001_jerry,M,0.0,0.0,0.0,,0.0,1.0

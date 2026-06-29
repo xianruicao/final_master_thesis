@@ -1,0 +1,12 @@
+film_id,character,gender,betw_obs,null_mean,null_std,z_score,percentile,p_high
+frozen_2013,frozen_2013_anna,F,0.7333,0.4896,0.0913,2.671,100.0,0.001
+frozen_2013,frozen_2013_elsa,F,0.2444,0.2709,0.1183,-0.223,40.3,0.5972
+frozen_2013,frozen_2013_kristoff,M,0.1778,0.142,0.1096,0.327,66.1,0.3388
+frozen_2013,frozen_2013_king,M,0.0889,0.0369,0.0621,0.837,79.9,0.2014
+frozen_2013,frozen_2013_hans,M,0.0,0.143,0.1075,-1.331,0.0,1.0
+frozen_2013,frozen_2013_duke,M,0.0,0.1431,0.106,-1.351,0.0,1.0
+frozen_2013,frozen_2013_olaf,M,0.0,0.1042,0.0978,-1.066,0.0,1.0
+frozen_2013,frozen_2013_oaken,M,0.0,0.0187,0.0465,-0.402,0.0,1.0
+frozen_2013,frozen_2013_kai,M,0.0,0.0194,0.0472,-0.41,0.0,1.0
+frozen_2013,frozen_2013_bulda,F,0.0,0.0,0.0,,0.0,1.0
+frozen_2013,frozen_2013_grand_pabbie,M,0.0,0.0,0.0,,0.0,1.0

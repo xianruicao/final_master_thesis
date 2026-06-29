@@ -1,0 +1,133 @@
+film_id,scene_id,scene_number,scene_header,marker_type,start_line,end_line,scene_position_pct,utterance_count,spoken_utterance_count,song_utterance_count
+toy_story_3_2010,toy_story_3_2010_s001,1,EXT. OLD WEST - DAY,slug_line,10,12,0.0,0,0,0
+toy_story_3_2010,toy_story_3_2010_s002,2,EXT. TRAIN - DAY,slug_line,13,101,0.0076,23,23,0
+toy_story_3_2010,toy_story_3_2010_s003,3,EXT. DESERT PLAINS,slug_line,102,138,0.0153,6,6,0
+toy_story_3_2010,toy_story_3_2010_s004,4,INT. SPACESHIP - DAY,slug_line,139,160,0.0229,2,2,0
+toy_story_3_2010,toy_story_3_2010_s005,5,INT. ANDY’S ROOM - DAY,slug_line,161,204,0.0305,10,10,0
+toy_story_3_2010,toy_story_3_2010_s006,6,INT. ANDY’S KITCHEN - DAY - HANDHELD CAMCORDER POV,slug_line,205,220,0.0382,4,4,0
+toy_story_3_2010,toy_story_3_2010_s007,7,INT. ANDY’S ROOM - DAY - HANDHELD CAMCORDER POV,slug_line,221,226,0.0458,1,1,0
+toy_story_3_2010,toy_story_3_2010_s008,8,INT. ANDY’S ROOM - DAY - HANDHELD CAMCORDER POV,slug_line,227,231,0.0534,0,0,0
+toy_story_3_2010,toy_story_3_2010_s009,9,EXT. FRONT YARD - DAY - HANDHELD CAMCORDER POV,slug_line,232,234,0.0611,0,0,0
+toy_story_3_2010,toy_story_3_2010_s010,10,INT. ANDY’S ROOM - DAY - HANDHELD CAMCORDER POV,slug_line,235,242,0.0687,2,2,0
+toy_story_3_2010,toy_story_3_2010_s011,11,INT. ANDY’S ROOM - NIGHT - HANDHELD CAMCORDER POV,slug_line,243,248,0.0763,0,0,0
+toy_story_3_2010,toy_story_3_2010_s012,12,EXT. ANDY’S FRONT YARD - DAY - HANDHELD CAMCORDER POV,slug_line,249,252,0.084,0,0,0
+toy_story_3_2010,toy_story_3_2010_s013,13,INT. ANDY’S ROOM - DAY - HANDHELD CAMCORDER POV,slug_line,253,261,0.0916,0,0,0
+toy_story_3_2010,toy_story_3_2010_s014,14,"INT. TOY CHEST, ANDY’S ROOM - DAY",slug_line,262,635,0.0992,104,104,0
+toy_story_3_2010,toy_story_3_2010_s015,15,INT. ANDY’S ROOM - DAY,slug_line,636,772,0.1069,32,32,0
+toy_story_3_2010,toy_story_3_2010_s016,16,EXT. ANDY’S HOUSE - DAY,slug_line,773,831,0.1145,16,16,0
+toy_story_3_2010,toy_story_3_2010_s017,17,INT. GARAGE - DAY,slug_line,832,876,0.1221,15,15,0
+toy_story_3_2010,toy_story_3_2010_s018,18,EXT. ANDY’S YARD - DAY,slug_line,877,882,0.1298,1,1,0
+toy_story_3_2010,toy_story_3_2010_s019,19,INT. CAR / GARAGE - DAY,slug_line,883,950,0.1374,20,20,0
+toy_story_3_2010,toy_story_3_2010_s020,20,INT. DONATION BOX / CAR - DAY,slug_line,951,999,0.145,13,13,0
+toy_story_3_2010,toy_story_3_2010_s021,21,"EXT. DAY CARE, PARKING LOT - DAY",slug_line,1000,1002,0.1527,0,0,0
+toy_story_3_2010,toy_story_3_2010_s022,22,INT. / EXT. DONATION BOX / PARKING LOT - DAY,slug_line,1003,1023,0.1603,7,7,0
+toy_story_3_2010,toy_story_3_2010_s023,23,INT. LOBBY - DAY,slug_line,1024,1052,0.1679,10,10,0
+toy_story_3_2010,toy_story_3_2010_s024,24,INT. DONATION BOX / HALLWAY - DAY,slug_line,1053,1058,0.1756,2,2,0
+toy_story_3_2010,toy_story_3_2010_s025,25,INT. DONATION BOX / BUTTERFLY CLASSROOM - CONTINUOUS,slug_line,1059,1295,0.1832,61,61,0
+toy_story_3_2010,toy_story_3_2010_s026,26,INT. BATHROOM - DAY,slug_line,1296,1305,0.1908,2,2,0
+toy_story_3_2010,toy_story_3_2010_s027,27,INT. CATERPILLAR ROOM - DAY,slug_line,1306,1503,0.1985,53,53,0
+toy_story_3_2010,toy_story_3_2010_s028,28,INT. HALLWAY,slug_line,1504,1516,0.2061,2,2,0
+toy_story_3_2010,toy_story_3_2010_s029,29,INT. BATHROOM - CONTINUOUS,slug_line,1517,1531,0.2137,2,2,0
+toy_story_3_2010,toy_story_3_2010_s030,30,EXT. PLAYGROUND - DAY,slug_line,1532,1581,0.2214,6,6,0
+toy_story_3_2010,toy_story_3_2010_s031,31,INT. CATERPILLAR ROOM - DAY,slug_line,1582,1644,0.229,13,13,0
+toy_story_3_2010,toy_story_3_2010_s032,32,INT. BONNIE'S BEDROOM - DAY,slug_line,1645,1741,0.2366,29,29,0
+toy_story_3_2010,toy_story_3_2010_s033,33,INT. BONNIE’S BEDROOM - MOMENTS LATER,slug_line,1742,1744,0.2443,0,0,0
+toy_story_3_2010,toy_story_3_2010_s034,34,INT. TOY BOX - DAY,slug_line,1745,1752,0.2519,2,2,0
+toy_story_3_2010,toy_story_3_2010_s035,35,INT. BONNIE’S BEDROOM - DAY,slug_line,1753,1820,0.2595,16,16,0
+toy_story_3_2010,toy_story_3_2010_s036,36,INT. CATERPILLAR CLASSROOM - DUSK,slug_line,1821,1896,0.2672,24,24,0
+toy_story_3_2010,toy_story_3_2010_s037,37,INT. CATERPILLAR CLASSROOM - LATER,slug_line,1897,1963,0.2748,19,19,0
+toy_story_3_2010,toy_story_3_2010_s038,38,INT. HALLWAY - NIGHT,slug_line,1964,1967,0.2824,0,0,0
+toy_story_3_2010,toy_story_3_2010_s039,39,INT. TEACHERS’ LOUNGE - NIGHT,slug_line,1968,1980,0.2901,1,1,0
+toy_story_3_2010,toy_story_3_2010_s040,40,INT. VENDING MACHINE - NIGHT,slug_line,1981,2062,0.2977,24,24,0
+toy_story_3_2010,toy_story_3_2010_s041,41,INT. BONNIE’S BEDROOM - NIGHT,slug_line,2063,2106,0.3053,13,13,0
+toy_story_3_2010,toy_story_3_2010_s042,42,INT. STORAGE CLOSET - NIGHT,slug_line,2107,2219,0.313,28,28,0
+toy_story_3_2010,toy_story_3_2010_s043,43,INT. CATERPILLAR ROOM - NIGHT,slug_line,2220,2230,0.3206,3,3,0
+toy_story_3_2010,toy_story_3_2010_s044,44,INT. HALLWAY - NIGHT,slug_line,2231,2233,0.3282,0,0,0
+toy_story_3_2010,toy_story_3_2010_s045,45,INT. CATERPILLAR ROOM - NIGHT,slug_line,2234,2253,0.3359,5,5,0
+toy_story_3_2010,toy_story_3_2010_s046,46,INT. ANDY’S ROOM - NIGHT - POV,slug_line,2254,2273,0.3435,4,4,0
+toy_story_3_2010,toy_story_3_2010_s047,47,INT. CATERPILLAR ROOM - NIGHT,slug_line,2274,2455,0.3511,53,53,0
+toy_story_3_2010,toy_story_3_2010_s048,48,EXT. PLAYGROUND - NIGHT,slug_line,2456,2464,0.3588,1,1,0
+toy_story_3_2010,toy_story_3_2010_s049,49,INT. CATERPILLAR ROOM - NIGHT,slug_line,2465,2506,0.3664,7,7,0
+toy_story_3_2010,toy_story_3_2010_s050,50,INT. KITCHEN - NIGHT,slug_line,2507,2574,0.374,17,17,0
+toy_story_3_2010,toy_story_3_2010_s051,51,INT. DAISY’S LIVING ROOM - DAY - FLASHBACK,slug_line,2575,2583,0.3817,2,2,0
+toy_story_3_2010,toy_story_3_2010_s052,52,INT. DAISY’S HOUSE - DAY - FLASHBACKS,slug_line,2584,2591,0.3893,1,1,0
+toy_story_3_2010,toy_story_3_2010_s053,53,EXT. STATION WAGON - DAY - FLASHBACK,slug_line,2592,2596,0.3969,1,1,0
+toy_story_3_2010,toy_story_3_2010_s054,54,EXT. REST STOP - DAY - FLASHBACK,slug_line,2597,2624,0.4046,1,1,0
+toy_story_3_2010,toy_story_3_2010_s055,55,EXT. DAISY’S HOUSE - DUSK,slug_line,2625,2654,0.4122,5,5,0
+toy_story_3_2010,toy_story_3_2010_s056,56,EXT. TRUCK BUMPER - NIGHT,slug_line,2655,2663,0.4198,1,1,0
+toy_story_3_2010,toy_story_3_2010_s057,57,"EXT. SUNNYSIDE DAY CARE, FRONT ENTRANCE - NIGHT",slug_line,2664,2674,0.4275,1,1,0
+toy_story_3_2010,toy_story_3_2010_s058,58,INT. KITCHEN - DAWN,slug_line,2675,2703,0.4351,8,8,0
+toy_story_3_2010,toy_story_3_2010_s059,59,INT. CATERPILLAR ROOM - DAWN,slug_line,2704,2755,0.4427,10,10,0
+toy_story_3_2010,toy_story_3_2010_s060,60,INT. BUTTERFLY ROOM - DAY,slug_line,2756,2760,0.4504,0,0,0
+toy_story_3_2010,toy_story_3_2010_s061,61,"INT. CEILING CRAWL SPACE, BUTTERFLY ROOM - DAY",slug_line,2761,2764,0.458,0,0,0
+toy_story_3_2010,toy_story_3_2010_s062,62,"INT. CEILING CRAWL SPACE, CATERPILLAR ROOM - DAY",slug_line,2765,2766,0.4656,0,0,0
+toy_story_3_2010,toy_story_3_2010_s063,63,INT. CATERPILLAR ROOM - DAY,slug_line,2767,2846,0.4733,15,15,0
+toy_story_3_2010,toy_story_3_2010_s064,64,INT. OFFICE - NIGHT,slug_line,2847,2854,0.4809,1,1,0
+toy_story_3_2010,toy_story_3_2010_s065,65,INT. CATERPILLAR ROOM - NIGHT,slug_line,2855,2859,0.4885,1,1,0
+toy_story_3_2010,toy_story_3_2010_s066,66,INT. OFFICE - NIGHT,slug_line,2860,2863,0.4962,0,0,0
+toy_story_3_2010,toy_story_3_2010_s067,67,INT. CATERPILLAR ROOM - NIGHT,slug_line,2864,2867,0.5038,0,0,0
+toy_story_3_2010,toy_story_3_2010_s068,68,INT. HALLWAY - NIGHT,slug_line,2868,2874,0.5115,1,1,0
+toy_story_3_2010,toy_story_3_2010_s069,69,INT. OFFICE - NIGHT,slug_line,2875,2877,0.5191,0,0,0
+toy_story_3_2010,toy_story_3_2010_s070,70,INT. HALLWAY - NIGHT,slug_line,2878,2881,0.5267,0,0,0
+toy_story_3_2010,toy_story_3_2010_s071,71,EXT. PLAYGROUND - NIGHT,slug_line,2882,2886,0.5344,1,1,0
+toy_story_3_2010,toy_story_3_2010_s072,72,INT. OFFICE - NIGHT,slug_line,2887,2888,0.542,0,0,0
+toy_story_3_2010,toy_story_3_2010_s073,73,EXT. PLAYGROUND - NIGHT,slug_line,2889,2891,0.5496,0,0,0
+toy_story_3_2010,toy_story_3_2010_s074,74,INT. CATERPILLAR ROOM - DAY,slug_line,2892,2900,0.5573,1,1,0
+toy_story_3_2010,toy_story_3_2010_s075,75,INT. CATERPILLAR ROOM - DAY,slug_line,2901,2969,0.5649,23,23,0
+toy_story_3_2010,toy_story_3_2010_s076,76,INT. CATERPILLAR ROOM - NIGHT,slug_line,2970,2983,0.5725,5,5,0
+toy_story_3_2010,toy_story_3_2010_s077,77,"INT. CEILING CRAWL SPACE, CATERPILLAR ROOM - NIGHT",slug_line,2984,2993,0.5802,4,4,0
+toy_story_3_2010,toy_story_3_2010_s078,78,INT. CATERPILLAR ROOM - CONTINUOUS,slug_line,2994,3016,0.5878,4,4,0
+toy_story_3_2010,toy_story_3_2010_s079,79,INT. FRONT OFFICE - NIGHT,slug_line,3017,3030,0.5954,3,3,0
+toy_story_3_2010,toy_story_3_2010_s080,80,INT. CATERPILLAR CLASSROOM - NIGHT,slug_line,3031,3053,0.6031,5,5,0
+toy_story_3_2010,toy_story_3_2010_s081,81,INT. CEILING CRAWL SPACE - NIGHT,slug_line,3054,3058,0.6107,1,1,0
+toy_story_3_2010,toy_story_3_2010_s082,82,INT. CATERPILLAR CLASSROOM - NIGHT,slug_line,3059,3094,0.6183,10,10,0
+toy_story_3_2010,toy_story_3_2010_s083,83,INT. SANDBOX - NIGHT,slug_line,3095,3100,0.626,1,1,0
+toy_story_3_2010,toy_story_3_2010_s084,84,EXT. PLAYGROUND - NIGHT,slug_line,3101,3107,0.6336,0,0,0
+toy_story_3_2010,toy_story_3_2010_s085,85,INT. FRONT OFFICE - NIGHT,slug_line,3108,3128,0.6412,1,1,0
+toy_story_3_2010,toy_story_3_2010_s086,86,"INT. KEN’S DREAM HOUSE, BUTTERFLY ROOM - NIGHT",slug_line,3129,3170,0.6489,7,7,0
+toy_story_3_2010,toy_story_3_2010_s087,87,INT. OFFICE - NIGHT,slug_line,3171,3184,0.6565,3,3,0
+toy_story_3_2010,toy_story_3_2010_s088,88,INT. CATERPILLAR ROOM - NIGHT,slug_line,3185,3230,0.6641,9,9,0
+toy_story_3_2010,toy_story_3_2010_s089,89,EXT. PLAYGROUND - NIGHT,slug_line,3231,3236,0.6718,0,0,0
+toy_story_3_2010,toy_story_3_2010_s090,90,"INT. KEN’S DREAM HOUSE, BUTTERFLY ROOM - NIGHT",slug_line,3237,3262,0.6794,7,7,0
+toy_story_3_2010,toy_story_3_2010_s091,91,INT. HALLWAY - NIGHT,slug_line,3263,3265,0.687,0,0,0
+toy_story_3_2010,toy_story_3_2010_s092,92,INT. OFFICE - NIGHT,slug_line,3266,3270,0.6947,0,0,0
+toy_story_3_2010,toy_story_3_2010_s093,93,INT. CATERPILLAR ROOM - NIGHT,slug_line,3271,3272,0.7023,0,0,0
+toy_story_3_2010,toy_story_3_2010_s094,94,EXT. PLAYGROUND - NIGHT,slug_line,3273,3277,0.7099,0,0,0
+toy_story_3_2010,toy_story_3_2010_s095,95,INT. CATERPILLAR ROOM - NIGHT,slug_line,3278,3280,0.7176,0,0,0
+toy_story_3_2010,toy_story_3_2010_s096,96,EXT. PLAYGROUND - NIGHT,slug_line,3281,3284,0.7252,0,0,0
+toy_story_3_2010,toy_story_3_2010_s097,97,"INT. KEN’S DREAM HOUSE, BUTTERFLY ROOM - NIGHT",slug_line,3285,3322,0.7328,10,10,0
+toy_story_3_2010,toy_story_3_2010_s098,98,INT. UTILITY CLOSET - NIGHT,slug_line,3323,3332,0.7405,1,1,0
+toy_story_3_2010,toy_story_3_2010_s099,99,INT. CLASSROOM CEILING CRAWL SPACE - NIGHT,slug_line,3333,3340,0.7481,2,2,0
+toy_story_3_2010,toy_story_3_2010_s100,100,EXT. PLAYGROUND - NIGHT,slug_line,3341,3343,0.7557,0,0,0
+toy_story_3_2010,toy_story_3_2010_s101,101,INT. CLASSROOM CEILING CRAWL SPACE - NIGHT,slug_line,3344,3346,0.7634,0,0,0
+toy_story_3_2010,toy_story_3_2010_s102,102,EXT. PLAYGROUND - NIGHT,slug_line,3347,3368,0.771,5,5,0
+toy_story_3_2010,toy_story_3_2010_s103,103,INT. CATERPILLAR ROOM - NIGHT,slug_line,3369,3493,0.7786,34,34,0
+toy_story_3_2010,toy_story_3_2010_s104,104,EXT. PLAYGROUND - NIGHT,slug_line,3494,3606,0.7863,23,23,0
+toy_story_3_2010,toy_story_3_2010_s105,105,EXT. TRASH CHUTE - NIGHT,slug_line,3607,3623,0.7939,4,4,0
+toy_story_3_2010,toy_story_3_2010_s106,106,INT. GARBAGE CHUTE - NIGHT,slug_line,3624,3891,0.8015,63,63,0
+toy_story_3_2010,toy_story_3_2010_s107,107,INT. GARBAGE TRUCK - NIGHT,slug_line,3892,3902,0.8092,3,3,0
+toy_story_3_2010,toy_story_3_2010_s108,108,EXT. STREETS - NIGHT,slug_line,3903,3904,0.8168,0,0,0
+toy_story_3_2010,toy_story_3_2010_s109,109,INT. GARBAGE TRUCK - NIGHT,slug_line,3905,3983,0.8244,19,19,0
+toy_story_3_2010,toy_story_3_2010_s110,110,EXT. TRI-COUNTY DUMP - NIGHT,slug_line,3984,3985,0.8321,0,0,0
+toy_story_3_2010,toy_story_3_2010_s111,111,INT. GARBAGE TRUCK - NIGHT,slug_line,3986,3991,0.8397,0,0,0
+toy_story_3_2010,toy_story_3_2010_s112,112,EXT. DUMP - NIGHT,slug_line,3992,3994,0.8473,0,0,0
+toy_story_3_2010,toy_story_3_2010_s113,113,INT. GARBAGE TRUCK - NIGHT,slug_line,3995,4001,0.855,2,2,0
+toy_story_3_2010,toy_story_3_2010_s114,114,EXT. DUMP - NIGHT,slug_line,4002,4004,0.8626,0,0,0
+toy_story_3_2010,toy_story_3_2010_s115,115,INT. GARBAGE TRUCK - NIGHT,slug_line,4005,4007,0.8702,0,0,0
+toy_story_3_2010,toy_story_3_2010_s116,116,EXT. GARBAGE PIT - NIGHT,slug_line,4008,4033,0.8779,5,5,0
+toy_story_3_2010,toy_story_3_2010_s117,117,EXT. CONVEYER BELT - NIGHT,slug_line,4034,4035,0.8855,0,0,0
+toy_story_3_2010,toy_story_3_2010_s118,118,INT. CONVEYER BELT - NIGHT,slug_line,4036,4117,0.8931,21,21,0
+toy_story_3_2010,toy_story_3_2010_s119,119,EXT. DUMP / STAIRWAY TO HEAVEN - NIGHT,slug_line,4118,4170,0.9008,12,12,0
+toy_story_3_2010,toy_story_3_2010_s120,120,EXT. INCINERATOR HOPPER - NIGHT,slug_line,4171,4208,0.9084,3,3,0
+toy_story_3_2010,toy_story_3_2010_s121,121,INT. CRANE OPERATOR’S BOOTH - NIGHT,slug_line,4209,4213,0.916,1,1,0
+toy_story_3_2010,toy_story_3_2010_s122,122,EXT. DUMP - DAWN,slug_line,4214,4251,0.9237,12,12,0
+toy_story_3_2010,toy_story_3_2010_s123,123,"EXT. GARBAGE DUMP, ELSEWHERE - DAY",slug_line,4252,4267,0.9313,4,4,0
+toy_story_3_2010,toy_story_3_2010_s124,124,EXT. GARBAGE DUMP - DAY,slug_line,4268,4307,0.9389,10,10,0
+toy_story_3_2010,toy_story_3_2010_s125,125,EXT. DRIVEWAY - DAY,slug_line,4308,4322,0.9466,4,4,0
+toy_story_3_2010,toy_story_3_2010_s126,126,INT. BACK YARD - DAY,slug_line,4323,4335,0.9542,3,3,0
+toy_story_3_2010,toy_story_3_2010_s127,127,EXT. GARAGE ROOF - DAY,slug_line,4336,4339,0.9618,0,0,0
+toy_story_3_2010,toy_story_3_2010_s128,128,INT. ANDY’S ROOM - DAY,slug_line,4340,4477,0.9695,35,35,0
+toy_story_3_2010,toy_story_3_2010_s129,129,INT. CAR - DAY,slug_line,4478,4480,0.9771,0,0,0
+toy_story_3_2010,toy_story_3_2010_s130,130,EXT. HOUSE - DAY,slug_line,4481,4628,0.9847,20,20,0
+toy_story_3_2010,toy_story_3_2010_s131,131,EXT. BONNIE’S HOUSE - LATE AFTERNOON - MONTAGE,slug_line,4629,4630,0.9924,0,0,0
+toy_story_3_2010,toy_story_3_2010_s132,132,EXT. BONNIE’S HOUSE - DUSK,slug_line,4631,4657,1.0,4,4,0

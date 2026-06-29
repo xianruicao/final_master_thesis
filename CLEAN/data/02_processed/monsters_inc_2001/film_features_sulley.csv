@@ -1,0 +1,2 @@
+film_id,year,protagonist,lead_gender,n_nodes,n_edges,density,reciprocity,avg_path_len,leading_eigenvalue,mean_clustering,homophily_obs,homophily_z,homophily_p,protag_samesex,protag_samesex_z,protag_samesex_p,protag_betweenness,protag_betw_z,protag_betw_p,keystone,keystone_gender,keystone_diff_gender,components_after_removal,n_isolated_after_removal
+monsters_inc_2001,2001,Sulley,M,18,35,0.1144,0.7429,1.8182,117.6795,0.371,0.6364,-0.781,1.0,0.6667,-0.617,0.7781,0.1507,-5.854,1.0,Mike,M,0,4,0

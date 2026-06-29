@@ -1,0 +1,23 @@
+character,name,betweenness,degree_centrality,in_degree,out_degree,clustering
+findingnemo_nemo,Nemo,0.3714,0.8571,12,6,0.0211
+findingnemo_marlin,Marlin,0.3476,0.7619,9,7,0.0209
+findingnemo_gill,Gill,0.0667,0.3333,5,2,0.0663
+findingnemo_darla,Darla,0.0571,0.0952,1,1,0.0
+findingnemo_dory,Dory,0.0524,0.2381,3,2,0.1868
+findingnemo_dentist,Dentist,0.031,0.1429,1,2,0.0
+findingnemo_bruce,Bruce,0.0286,0.1905,2,2,0.0305
+findingnemo_bubbles,Bubbles,0.0,0.0476,0,1,0.0
+findingnemo_bloat,Bloat,0.0,0.2381,1,4,0.063
+findingnemo_barbara,Barbara,0.0,0.0952,1,1,0.0
+findingnemo_anchor,Anchor,0.0,0.0476,0,1,0.0
+findingnemo_bob,Bob,0.0,0.0952,1,1,0.0
+findingnemo_crush,Crush,0.0,0.0952,1,1,0.0
+findingnemo_coral,Coral,0.0,0.0952,1,1,0.0
+findingnemo_deb,Deb,0.0,0.0952,0,2,0.0492
+findingnemo_chum,Chum,0.0,0.0952,0,2,0.0467
+findingnemo_jacques,Jacques,0.0,0.1905,2,2,0.0654
+findingnemo_gurgle,Gurgle,0.0,0.2857,1,5,0.0448
+findingnemo_mr_ray,Mr. Ray,0.0,0.0952,1,1,0.0
+findingnemo_nigel,Nigel,0.0,0.2857,3,3,0.0676
+findingnemo_peach,Peach,0.0,0.381,5,3,0.0331
+findingnemo_squirt,Squirt,0.0,0.0952,1,1,0.0

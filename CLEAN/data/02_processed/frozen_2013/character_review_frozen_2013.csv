@@ -1,0 +1,54 @@
+film_id,parser_character_id,review_character_id,parser_canonical_name,canonical_name,raw_speaker_labels,raw_speaker_label_variant_count,gender,gender_rationale,is_named,is_protagonist,included_in_network,merge_into_character_id,utterance_count,spoken_utterance_count,song_utterance_count,word_count_total,word_count_spoken_only,word_count_song_only,first_scene_id,first_event_id,review_notes
+frozen_2013,frozen_2013_anna,frozen_2013_anna,Anna,Anna,ANNA | ANNA (9) | ANNA (CONT'D) | ANNA (O.S.) | ANNA(CONT'D) | TEEN ANNA | YOUNG ANNA | YOUNG ANNA (CONT'D),8,F,,True,True,True,,329,310,19,2291,1869,422,frozen_2013_s003,9,
+frozen_2013,frozen_2013_kristoff,frozen_2013_kristoff,Kristoff,Kristoff,KRISTOFF | KRISTOFF (CONT'D) | KRISTOFF(CONT'D) | YOUNG KRISTOFF,4,M,,True,False,True,,169,168,1,1046,978,68,frozen_2013_s008,32,
+frozen_2013,frozen_2013_elsa,frozen_2013_elsa,Elsa,Elsa,ELSA | ELSA (12) | ELSA (CONT'D) | ELSA (O.S.) | TEEN ELSA | YOUNG ELSA | YOUNG ELSA (CONT'D) | YOUNG ELSA (O.S.),8,F,,True,False,True,,110,92,18,815,440,375,frozen_2013_s003,11,
+frozen_2013,frozen_2013_olaf,frozen_2013_olaf,Olaf,Olaf,OLAF | OLAF (CONT'D) | OLAF (O.S.),3,M,,True,False,True,,107,97,10,961,773,188,frozen_2013_s033,445,
+frozen_2013,frozen_2013_hans,frozen_2013_hans,Hans,Hans,HANS | HANS (CONT'D),2,M,,True,False,True,,87,85,2,615,587,28,frozen_2013_s015,111,
+frozen_2013,frozen_2013_duke,frozen_2013_duke,Duke,Duke,DUKE | DUKE (CONT'D) | DUKE (O.S.),3,M,,True,False,True,,29,29,0,339,339,0,frozen_2013_s013,79,
+frozen_2013,frozen_2013_oaken,frozen_2013_oaken,Oaken,Oaken,OAKEN | OAKEN (CONT'D) | OAKEN (O.S.),3,M,,True,False,True,,13,13,0,140,140,0,frozen_2013_s026,326,
+frozen_2013,frozen_2013_both,frozen_2013_both,Both,Both,BOTH | BOTH (CONT'D),2,Both,,False,False,False,,12,8,4,83,46,37,frozen_2013_s018,195,combined-speaker label
+frozen_2013,frozen_2013_kai,frozen_2013_kai,Kai,Kai,KAI | KAI (CONT'D) | KAI (O.S.),3,M,,True,False,True,,12,12,0,74,74,0,frozen_2013_s014,82,
+frozen_2013,frozen_2013_king,frozen_2013_king,King,King,KING | KING (CONT'D),2,M,,True,False,True,,11,11,0,66,66,0,frozen_2013_s005,27,
+frozen_2013,frozen_2013_trolls,frozen_2013_trolls,Trolls,Trolls,TROLLS | TROLLS (TOGETHER) | TROLLS (VARIOUS),3,Both,,False,False,False,,11,4,7,320,19,301,frozen_2013_s041,737,collective
+frozen_2013,frozen_2013_bulda,frozen_2013_bulda,Bulda,Bulda,BULDA | BULDA (CONT'D),2,F,,True,False,True,,8,8,0,62,62,0,frozen_2013_s010,36,
+frozen_2013,frozen_2013_grand_pabbie,frozen_2013_grand_pabbie,Grand Pabbie,Grand Pabbie,GRAND PABBIE | GRAND PABBIE (CONT'D),2,M,,True,False,True,,8,8,0,111,111,0,frozen_2013_s010,38,
+frozen_2013,frozen_2013_ice_harvesters,frozen_2013_ice_harvesters,Ice Harvesters,Ice Harvesters,ICE HARVESTERS | ICE HARVESTERS (CONT'D),2,M,,False,False,False,,8,1,7,141,8,133,frozen_2013_s001,1,collective
+frozen_2013,frozen_2013_gerda,frozen_2013_gerda,Gerda,Gerda,GERDA,1,F,,True,False,False,,4,4,0,29,29,0,frozen_2013_s034,513,
+frozen_2013,frozen_2013_spanish_dignitary,frozen_2013_spanish_dignitary,Spanish Dignitary,Spanish Dignitary,SPANISH DIGNITARY,1,M,,False,False,False,,4,4,0,25,25,0,frozen_2013_s013,81,
+frozen_2013,frozen_2013_bishop,frozen_2013_bishop,Bishop,Bishop,BISHOP | BISHOP (CONT'D),2,M,,False,False,False,,3,3,0,27,27,0,frozen_2013_s016,130,
+frozen_2013,frozen_2013_citizen_one,frozen_2013_citizen_one,Citizen One,Citizen One,CITIZEN ONE,1,Unknown,,False,False,False,,3,3,0,18,18,0,frozen_2013_s034,507,
+frozen_2013,frozen_2013_crowd,frozen_2013_crowd,Crowd,Crowd,CROWD,1,Both,,False,False,False,,3,3,0,29,29,0,frozen_2013_s016,133,collective
+frozen_2013,frozen_2013_marshmallow,frozen_2013_marshmallow,Marshmallow,Marshmallow,MARSHMALLOW,1,M,,True,False,False,,3,3,0,7,7,0,frozen_2013_s039,640,
+frozen_2013,frozen_2013_pabbie,frozen_2013_pabbie,Pabbie,Pabbie,PABBIE | PABBIE (CONT'D),2,M,,True,False,False,,3,3,0,24,24,0,frozen_2013_s010,46,possible duplicate of Grand Pabbie
+frozen_2013,frozen_2013_boy,frozen_2013_boy,Boy,Boy,BOY,1,M,,False,False,False,,2,2,0,11,11,0,frozen_2013_s013,71,
+frozen_2013,frozen_2013_citizen_two,frozen_2013_citizen_two,Citizen Two,Citizen Two,CITIZEN TWO,1,Unknown,,False,False,False,,2,2,0,6,6,0,frozen_2013_s034,508,
+frozen_2013,frozen_2013_french_dignitary,frozen_2013_french_dignitary,French Dignitary,French Dignitary,FRENCH DIGNITARY,1,M,,False,False,False,,2,2,0,27,27,0,frozen_2013_s048,826,
+frozen_2013,frozen_2013_guard,frozen_2013_guard,Guard,Guard,GUARD | GUARD (O.S.),2,M,,False,False,False,,2,2,0,10,10,0,frozen_2013_s047,815,
+frozen_2013,frozen_2013_kid_troll,frozen_2013_kid_troll,Kid Troll,Kid Troll,KID TROLL,1,Unknown,,False,False,False,,2,0,2,19,0,19,frozen_2013_s041,762,
+frozen_2013,frozen_2013_queen,frozen_2013_queen,Queen,Queen,QUEEN,1,F,,True,False,False,,2,2,0,4,4,0,frozen_2013_s005,28,
+frozen_2013,frozen_2013_troll_priest,frozen_2013_troll_priest,Troll Priest,Troll Priest,TROLL PRIEST,1,M,,False,False,False,,2,2,0,13,13,0,frozen_2013_s041,774,
+frozen_2013,frozen_2013_aggie,frozen_2013_aggie,Aggie,Aggie,AGGIE,1,F,,True,False,False,,1,1,0,7,7,0,frozen_2013_s013,78,
+frozen_2013,frozen_2013_all_trolls,frozen_2013_all_trolls,All Trolls,All Trolls,ALL TROLLS,1,Both,,False,False,False,,1,0,1,27,0,27,frozen_2013_s041,772,collective
+frozen_2013,frozen_2013_anna_and_elsa,frozen_2013_anna_and_elsa,Anna And Elsa,Anna And Elsa,ANNA AND ELSA (TOGETHER),1,F,,False,False,False,,1,1,0,1,1,0,frozen_2013_s017,145,combined-speaker label
+frozen_2013,frozen_2013_anna_hans,frozen_2013_anna_hans,Anna/Hans,Anna/Hans,ANNA/HANS,1,Both,,False,False,False,,1,1,0,2,2,0,frozen_2013_s019,237,combined-speaker label
+frozen_2013,frozen_2013_bowing_townsman,frozen_2013_bowing_townsman,Bowing Townsman,Bowing Townsman,BOWING TOWNSMAN,1,M,,False,False,False,,1,1,0,2,2,0,frozen_2013_s020,271,
+frozen_2013,frozen_2013_crowd_wallah,frozen_2013_crowd_wallah,Crowd Wallah,Crowd Wallah,CROWD WALLAH,1,Both,,False,False,False,,1,1,0,3,3,0,frozen_2013_s021,282,"film sound term (background crowd murmur), not a character"
+frozen_2013,frozen_2013_dock_master,frozen_2013_dock_master,Dock Master,Dock Master,DOCK MASTER,1,M,,False,False,False,,1,1,0,3,3,0,frozen_2013_s013,70,
+frozen_2013,frozen_2013_duke_s_thug,frozen_2013_duke_s_thug,Duke'S Thug,Duke'S Thug,DUKE'S THUG,1,M,,False,False,False,,1,1,0,2,2,0,frozen_2013_s042,796,
+frozen_2013,frozen_2013_elsa_king,frozen_2013_elsa_king,Elsa & King,Elsa & King,YOUNG ELSA & KING,1,Both,,False,False,False,,1,1,0,4,4,0,frozen_2013_s012,60,combined-speaker label
+frozen_2013,frozen_2013_girl_trolls,frozen_2013_girl_trolls,Girl Trolls,Girl Trolls,GIRL TROLLS,1,F,,False,False,False,,1,1,0,7,7,0,frozen_2013_s041,770,collective
+frozen_2013,frozen_2013_irishman,frozen_2013_irishman,Irishman,Irishman,IRISHMAN,1,M,,False,False,False,,1,1,0,18,18,0,frozen_2013_s013,80,
+frozen_2013,frozen_2013_kidney_stone_troll,frozen_2013_kidney_stone_troll,Kidney Stone Troll,Kidney Stone Troll,KIDNEY STONE TROLL,1,Unknown,,False,False,False,,1,1,0,5,5,0,frozen_2013_s041,746,
+frozen_2013,frozen_2013_mother,frozen_2013_mother,Mother,Mother,MOTHER,1,F,,False,False,False,,1,1,0,10,10,0,frozen_2013_s013,72,
+frozen_2013,frozen_2013_mushroom_kid_troll,frozen_2013_mushroom_kid_troll,Mushroom Kid Troll,Mushroom Kid Troll,MUSHROOM KID TROLL,1,Unknown,,False,False,False,,1,1,0,8,8,0,frozen_2013_s041,744,
+frozen_2013,frozen_2013_naked_family,frozen_2013_naked_family,Naked Family,Naked Family,NAKED FAMILY,1,Both,,False,False,False,,1,1,0,2,2,0,frozen_2013_s026,346,collective
+frozen_2013,frozen_2013_olaf_and_kristoff,frozen_2013_olaf_and_kristoff,Olaf And Kristoff,Olaf And Kristoff,OLAF AND KRISTOFF,1,M,,False,False,False,,1,1,0,1,1,0,frozen_2013_s037,572,combined-speaker label
+frozen_2013,frozen_2013_persi,frozen_2013_persi,Persi,Persi,PERSI,1,Unknown,,True,False,False,,1,1,0,9,9,0,frozen_2013_s013,77,
+frozen_2013,frozen_2013_pick_me_up_troll,frozen_2013_pick_me_up_troll,Pick Me Up Troll,Pick Me Up Troll,PICK ME UP TROLL,1,Unknown,,False,False,False,,1,1,0,3,3,0,frozen_2013_s041,747,
+frozen_2013,frozen_2013_thug,frozen_2013_thug,Thug,Thug,THUG,1,M,,False,False,False,,1,1,0,4,4,0,frozen_2013_s043,799,
+frozen_2013,frozen_2013_townswoman,frozen_2013_townswoman,Townswoman,Townswoman,TOWNSWOMAN (O.S.),1,F,,False,False,False,,1,1,0,3,3,0,frozen_2013_s046,814,
+frozen_2013,frozen_2013_townswoman_with_baby,frozen_2013_townswoman_with_baby,Townswoman With Baby,Townswoman With Baby,TOWNSWOMAN WITH BABY,1,F,,False,False,False,,1,1,0,6,6,0,frozen_2013_s020,272,
+frozen_2013,frozen_2013_troll_one,frozen_2013_troll_one,Troll One,Troll One,TROLL ONE,1,Unknown,,False,False,False,,1,1,0,5,5,0,frozen_2013_s041,740,
+frozen_2013,frozen_2013_troll_scout_kid,frozen_2013_troll_scout_kid,Troll Scout Kid,Troll Scout Kid,TROLL SCOUT KID,1,Unknown,,False,False,False,,1,1,0,6,6,0,frozen_2013_s041,745,
+frozen_2013,frozen_2013_troll_two,frozen_2013_troll_two,Troll Two,Troll Two,TROLL TWO,1,Unknown,,False,False,False,,1,1,0,9,9,0,frozen_2013_s041,741,
+frozen_2013,frozen_2013_various_dignitaries,frozen_2013_various_dignitaries,Various Dignitaries,Various Dignitaries,VARIOUS DIGNITARIES,1,Both,,False,False,False,,1,1,0,4,4,0,frozen_2013_s049,864,collective

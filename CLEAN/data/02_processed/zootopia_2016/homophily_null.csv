@@ -1,0 +1,2 @@
+film_id,protagonist,n_edges,n_null_samples,homophily_obs_edge,null_mean,null_std,z_score,percentile,p_more_same_gender,p_less_same_gender,protag_samesex_obs,protag_samesex_null,protag_samesex_z,protag_samesex_pct,protag_samesex_p_more,protag_samesex_p_less
+zootopia_2016,Hopps,49,2000,0.3469,0.434,0.0518,-1.681,2.0,0.98,0.1009,0.25,0.3015,-1.306,6.3,0.937,0.1294

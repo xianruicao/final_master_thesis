@@ -1,0 +1,704 @@
+film_id,event_id,scene_id,utterance_id,scene_position_pct,speaker,raw_speaker,character_id,canonical_name,text,word_count,utterance_type,addressee,addressee_type,line_number,parenthetical,cue_type,gender,gender_rationale,is_named,is_protagonist,included_in_network,parser_canonical_name
+up,1,up_s001,up_s001_u0001,0.0,NEWSREEL ANNOUNCER,NEWSREEL ANNOUNCER (O.S.),up_newsreel_announcer,Newsreel Announcer,"This lighter-than-air craft was designed by Muntz himself, and is longer than 22 Prohibition paddy- wagons placed end to end.",20,spoken,,,66,,indented,M,,False,False,False,Newsreel Announcer
+up,2,up_s001,up_s001_u0002,0.0,NEWSREEL ANNOUNCER,NEWSREEL ANNOUNCER (V.O.),up_newsreel_announcer,Newsreel Announcer,And here comes the adventurer now!,6,spoken,,,80,,indented,M,,False,False,False,Newsreel Announcer
+up,3,up_s001,up_s001_u0003,0.0,NEWSREEL ANNOUNCER,NEWSREEL ANNOUNCER (V.O.),up_newsreel_announcer,Newsreel Announcer,"Never apart from his faithful dogs, Muntz conceived the craft for canine comfort! It's a veritable floating palace in the sky...",21,spoken,,,89,,indented,M,,False,False,False,Newsreel Announcer
+up,4,up_s001,up_s001_u0004,0.0,NEWSREEL ANNOUNCER,NEWSREEL ANNOUNCER (V.O.),up_newsreel_announcer,Newsreel Announcer,...complete with doggie bath and mechanical canine walker.,8,spoken,,,101,,indented,M,,False,False,False,Newsreel Announcer
+up,5,up_s001,up_s001_u0005,0.0,NEWSREEL ANNOUNCER,NEWSREEL ANNOUNCER (V.O.),up_newsreel_announcer,Newsreel Announcer,"And Jiminy Cricket, do the locals consider Muntz the bee's knees! And how!",13,spoken,,,111,,indented,M,,False,False,False,Newsreel Announcer
+up,6,up_s001,up_s001_u0006,0.0,MUNTZ,MUNTZ,up_muntz,Muntz,"""Adventure is out there!""",4,spoken,,,123,,indented,M,,True,False,True,Muntz
+up,7,up_s001,up_s001_u0007,0.0,NEWSREEL ANNOUNCER,NEWSREEL ANNOUNCER (V.O.),up_newsreel_announcer,Newsreel Announcer,But what has Muntz brought back this time?,8,spoken,,,129,,indented,M,,False,False,False,Newsreel Announcer
+up,8,up_s001,up_s001_u0008,0.0,MUNTZ,MUNTZ,up_muntz,Muntz,"Gentlemen, I give you: the Monster of Paradise Falls!",9,spoken,,,139,,indented,M,,True,False,True,Muntz
+up,9,up_s001,up_s001_u0009,0.0,CROWD,CROWD,up_crowd,Crowd,Ooh!,1,spoken,,,147,,indented,Both,,False,False,False,Crowd
+up,10,up_s001,up_s001_u0010,0.0,NEWSREEL ANNOUNCER,NEWSREEL ANNOUNCER (V.O.),up_newsreel_announcer,Newsreel Announcer,"And golly, what a swell monster this is. But what's this?",11,spoken,,,153,,indented,M,,False,False,False,Newsreel Announcer
+up,11,up_s001,up_s001_u0011,0.0,NEWSREEL ANNOUNCER,NEWSREEL ANNOUNCER (V.O.),up_newsreel_announcer,Newsreel Announcer,Scientists cry foul! The National Explorers Society accuses Muntz of fabricating the skeleton!,13,spoken,,,162,,indented,M,,False,False,False,Newsreel Announcer
+up,12,up_s001,up_s001_u0012,0.0,YOUNG CARL,YOUNG CARL,up_carl,Carl,No!,1,spoken,,,170,,indented,M,,True,True,True,Carl
+up,13,up_s001,up_s001_u0013,0.0,NEWSREEL ANNOUNCER,NEWSREEL ANNOUNCER (V.O.),up_newsreel_announcer,Newsreel Announcer,The organization strips Muntz of his membership.,7,spoken,,,178,,indented,M,,False,False,False,Newsreel Announcer
+up,14,up_s001,up_s001_u0014,0.0,NEWSREEL ANNOUNCER,NEWSREEL ANNOUNCER (V.O.),up_newsreel_announcer,Newsreel Announcer,"Humiliated, Muntz vows a return to Paradise Falls and promises to capture the beast... alive!",15,spoken,,,194,,indented,M,,False,False,False,Newsreel Announcer
+up,15,up_s001,up_s001_u0015,0.0,MUNTZ,MUNTZ,up_muntz,Muntz,I promise to capture the beast... alive!,7,spoken,,,202,,indented,M,,True,False,True,Muntz
+up,16,up_s001,up_s001_u0016,0.0,MUNTZ,MUNTZ,up_muntz,Muntz,And I will not come back until I do!,9,spoken,,,210,,indented,M,,True,False,True,Muntz
+up,17,up_s001,up_s001_u0017,0.0,NEWSREEL ANNOUNCER,NEWSREEL ANNOUNCER (V.O.),up_newsreel_announcer,Newsreel Announcer,"And so the explorer is off to clear his name. Bon voyage Charles Muntz, and good luck capturing the Monster of Paradise Falls!",23,spoken,,,220,,indented,M,,False,False,False,Newsreel Announcer
+up,18,up_s002,up_s002_u0018,0.0056,NEWSREEL ANNOUNCER,NEWSREEL ANNOUNCER (V.O.),up_newsreel_announcer,Newsreel Announcer,Here's Charles Muntz piloting his famous dirigible!!,7,spoken,,,245,,indented,M,,False,False,False,Newsreel Announcer
+up,19,up_s002,up_s002_u0019,0.0056,NEWSREEL ANNOUNCER,NEWSREEL ANNOUNCER (V.O.),up_newsreel_announcer,Newsreel Announcer,He hurdles Pike's Peak!,4,spoken,,,253,,indented,M,,False,False,False,Newsreel Announcer
+up,20,up_s002,up_s002_u0020,0.0056,NEWSREEL ANNOUNCER,NEWSREEL ANNOUNCER (V.O.),up_newsreel_announcer,Newsreel Announcer,He hurdles the Grand Canyon!,5,spoken,,,259,,indented,M,,False,False,False,Newsreel Announcer
+up,21,up_s002,up_s002_u0021,0.0056,NEWSREEL ANNOUNCER,NEWSREEL ANNOUNCER (V.O.),up_newsreel_announcer,Newsreel Announcer,He hurdles Mount Everest!,4,spoken,,,265,,indented,M,,False,False,False,Newsreel Announcer
+up,22,up_s002,up_s002_u0022,0.0056,NEWSREEL ANNOUNCER,NEWSREEL ANNOUNCER (V.O.),up_newsreel_announcer,Newsreel Announcer,He... goes around Mount Everest! Is there nothing he cannot do?,11,spoken,,,271,,indented,M,,False,False,False,Newsreel Announcer
+up,23,up_s002,up_s002_u0023,0.0056,NEWSREEL ANNOUNCER,NEWSREEL ANNOUNCER (V.O.),up_newsreel_announcer,Newsreel Announcer,"Yes, as Muntz himself says: ""Adventure is--""",7,spoken,,,279,,indented,M,,False,False,False,Newsreel Announcer
+up,24,up_s002,up_s002_u0024,0.0056,GIRL'S VOICE,GIRL'S VOICE (O.S.),up_girl_s_voice,Girl'S Voice,"""Adventure is out there!""",4,spoken,,,285,,indented,F,,False,False,False,Girl'S Voice
+up,25,up_s002,up_s002_u0025,0.0056,GIRL'S VOICE,GIRL'S VOICE (O.S.),up_girl_s_voice,Girl'S Voice,Look out! Mount Rushmore! Hard to starboard. Must get the Spirit of Adventure over Mount Rushmore...,16,spoken,,,297,,indented,F,,False,False,False,Girl'S Voice
+up,26,up_s002,up_s002_u0026,0.0056,GIRL'S VOICE,GIRL'S VOICE (O.S.),up_girl_s_voice,Girl'S Voice,Hold together old girl. How're my dogs doing? Ruff ruff!,10,spoken,,,308,,indented,F,,False,False,False,Girl'S Voice
+up,27,up_s003,up_s003_u0027,0.0112,GIRL'S VOICE,GIRL'S VOICE (O.S.),up_girl_s_voice,Girl'S Voice,"All engines ahead full! Let's take her up to 26,000 feet! Rudders eighteen degrees towards the south.",17,spoken,,,320,,indented,F,,False,False,False,Girl'S Voice
+up,28,up_s004,up_s004_u0028,0.0168,YOUNG ELLIE,YOUNG ELLIE,up_ellie,Ellie,"It's a beautiful day, winds out of the east at ten knots. Visibility... unlimited. Enter the weather in the logbook!",20,spoken,,,344,(yells a command),indented,F,,True,False,True,Ellie
+up,29,up_s004,up_s004_u0029,0.0168,YOUNG ELLIE,YOUNG ELLIE,up_ellie,Ellie,"Oh! There's something down there! I will bring it back for science. Awwww, it's a puppy!",16,spoken,,,360,,indented,F,,True,False,True,Ellie
+up,30,up_s004,up_s004_u0030,0.0168,YOUNG ELLIE,YOUNG ELLIE (O.S.),up_ellie,Ellie,No time! A storm! Lightning! Hail!,6,spoken,,,372,,indented,F,,True,False,True,Ellie
+up,31,up_s004,up_s004_u0031,0.0168,YOUNG ELLIE,YOUNG ELLIE,up_ellie,Ellie,What are you doing!?!,4,spoken,,,379,,indented,F,,True,False,True,Ellie
+up,32,up_s004,up_s004_u0032,0.0168,YOUNG ELLIE,YOUNG ELLIE,up_ellie,Ellie,"Don't you know this is an exclusive club? Only explorers get in here. Not just any kid off the street with a helmet and a pair of goggles. Do you think you got what it takes? Well, do you?!?",39,spoken,,,389,,indented,F,,True,False,True,Ellie
+up,33,up_s004,up_s004_u0033,0.0168,YOUNG ELLIE,YOUNG ELLIE,up_ellie,Ellie,"Alright, you're in. Welcome aboard.",5,spoken,,,405,,indented,F,,True,False,True,Ellie
+up,34,up_s004,up_s004_u0034,0.0168,YOUNG ELLIE,YOUNG ELLIE,up_ellie,Ellie,What's wrong? Can't you talk?,5,spoken,,,411,,indented,F,,True,False,True,Ellie
+up,35,up_s004,up_s004_u0035,0.0168,YOUNG ELLIE,YOUNG ELLIE,up_ellie,Ellie,"Hey, I don't bite.",4,spoken,,,417,,indented,F,,True,False,True,Ellie
+up,36,up_s004,up_s004_u0036,0.0168,YOUNG ELLIE,YOUNG ELLIE,up_ellie,Ellie,"You and me, we're in a club now.",8,spoken,,,429,,indented,F,,True,False,True,Ellie
+up,37,up_s004,up_s004_u0037,0.0168,YOUNG ELLIE,YOUNG ELLIE,up_ellie,Ellie,"I saw where your balloon went. Come on, let's go get it!",12,spoken,,,435,,indented,F,,True,False,True,Ellie
+up,38,up_s004,up_s004_u0038,0.0168,YOUNG ELLIE,YOUNG ELLIE,up_ellie,Ellie,My name's Ellie.,3,spoken,,,443,,indented,F,,True,False,True,Ellie
+up,39,up_s005,up_s005_u0039,0.0223,YOUNG ELLIE,YOUNG ELLIE,up_ellie,Ellie,There it is.,3,spoken,,,454,,indented,F,,True,False,True,Ellie
+up,40,up_s005,up_s005_u0040,0.0223,YOUNG ELLIE,YOUNG ELLIE,up_ellie,Ellie,"Well, go ahead.",3,spoken,,,462,,indented,F,,True,False,True,Ellie
+up,41,up_s005,up_s005_u0041,0.0223,YOUNG ELLIE,YOUNG ELLIE,up_ellie,Ellie,Go on.,2,spoken,,,468,,indented,F,,True,False,True,Ellie
+up,42,up_s008,up_s008_u0042,0.0391,YOUNG CARL,YOUNG CARL,up_carl,Carl,Ow!,1,spoken,,,494,(re: arm),indented,M,,True,True,True,Carl
+up,43,up_s008,up_s008_u0043,0.0391,YOUNG ELLIE,YOUNG ELLIE,up_ellie,Ellie,Hey kid!!,2,spoken,,,502,,indented,F,,True,False,True,Ellie
+up,44,up_s008,up_s008_u0044,0.0391,YOUNG CARL,YOUNG CARL,up_carl,Carl,Ow!!,1,spoken,,,508,,indented,M,,True,True,True,Carl
+up,45,up_s008,up_s008_u0045,0.0391,YOUNG ELLIE,YOUNG ELLIE,up_ellie,Ellie,Thought you might need a little cheerin' up. I got somethin' to show ya!,14,spoken,,,515,,indented,F,,True,False,True,Ellie
+up,46,up_s009,up_s009_u0046,0.0447,YOUNG ELLIE,YOUNG ELLIE,up_ellie,Ellie,I am about to let you see something I have never shown to another human being. Ever. In my life.,20,spoken,,,529,,indented,F,,True,False,True,Ellie
+up,47,up_s009,up_s009_u0047,0.0447,YOUNG ELLIE,YOUNG ELLIE,up_ellie,Ellie,You'll have to swear you will not tell anyone.,9,spoken,,,539,,indented,F,,True,False,True,Ellie
+up,48,up_s009,up_s009_u0048,0.0447,YOUNG ELLIE,YOUNG ELLIE,up_ellie,Ellie,Cross your heart. Do it!,5,spoken,,,547,,indented,F,,True,False,True,Ellie
+up,49,up_s009,up_s009_u0049,0.0447,YOUNG ELLIE,YOUNG ELLIE,up_ellie,Ellie,My Adventure Book!,3,spoken,,,553,,indented,F,,True,False,True,Ellie
+up,50,up_s009,up_s009_u0050,0.0447,YOUNG ELLIE,YOUNG ELLIE,up_ellie,Ellie,You know him.,3,spoken,,,561,,indented,F,,True,False,True,Ellie
+up,51,up_s009,up_s009_u0051,0.0447,YOUNG ELLIE,YOUNG ELLIE,up_ellie,Ellie,"Charles Muntz, explorer. When I get big, I'm going where he's going: South America.",14,spoken,,,567,,indented,F,,True,False,True,Ellie
+up,52,up_s009,up_s009_u0052,0.0447,YOUNG ELLIE,YOUNG ELLIE,up_ellie,Ellie,It's like America... but south. Wanna know where I'm gonna live?,11,spoken,,,577,,indented,F,,True,False,True,Ellie
+up,53,up_s009,up_s009_u0053,0.0447,YOUNG ELLIE,YOUNG ELLIE,up_ellie,Ellie,"""Paradise Falls, a land lost in time."" I ripped this right out of a library book.",16,spoken,,,588,(reading caption),indented,F,,True,False,True,Ellie
+up,54,up_s009,up_s009_u0054,0.0447,YOUNG ELLIE,YOUNG ELLIE,up_ellie,Ellie,"I'm gonna move my clubhouse there, and park it right next to the falls. Who knows what lives up there? And once I get there...",25,spoken,,,600,,indented,F,,True,False,True,Ellie
+up,55,up_s009,up_s009_u0055,0.0447,YOUNG ELLIE,YOUNG ELLIE,up_ellie,Ellie,"Well, I'm saving these pages for all the adventures I'm gonna have. Only... I just don't know how I'm gonna get to Paradise Falls.",24,spoken,,,614,,indented,F,,True,False,True,Ellie
+up,56,up_s009,up_s009_u0056,0.0447,YOUNG ELLIE,YOUNG ELLIE,up_ellie,Ellie,That's it! You can take us there in a blimp! Swear you'll take us. Cross your heart! Cross it! Cross your heart.,22,spoken,,,628,,indented,F,,True,False,True,Ellie
+up,57,up_s009,up_s009_u0057,0.0447,YOUNG ELLIE,YOUNG ELLIE,up_ellie,Ellie,Good. You promised. No backing out.,6,spoken,,,640,,indented,F,,True,False,True,Ellie
+up,58,up_s009,up_s009_u0058,0.0447,YOUNG ELLIE,YOUNG ELLIE,up_ellie,Ellie,"Well, see you tomorrow kid! Bye.",6,spoken,,,646,,indented,F,,True,False,True,Ellie
+up,59,up_s009,up_s009_u0059,0.0447,YOUNG ELLIE,YOUNG ELLIE,up_ellie,Ellie,"""Adventure is out there!!""",4,spoken,,,652,,indented,F,,True,False,True,Ellie
+up,60,up_s009,up_s009_u0060,0.0447,YOUNG ELLIE,YOUNG ELLIE,up_ellie,Ellie,"You know, you don't talk very much. I like you.",10,spoken,,,659,,indented,F,,True,False,True,Ellie
+up,61,up_s009,up_s009_u0061,0.0447,YOUNG CARL,YOUNG CARL,up_carl,Carl,Wow.,1,spoken,,,669,,indented,M,,True,True,True,Carl
+up,62,up_s046,up_s046_u0062,0.2514,CARL,CARL,up_carl,Carl,"Quite a sight, huh Ellie? Uhp, mail's here.",8,spoken,,,987,(noticing mailbox),indented,M,,True,True,True,Carl
+up,63,up_s046,up_s046_u0063,0.2514,CARL,CARL,up_carl,Carl,Shady Oaks Retirement. Oh brother.,5,spoken,,,1006,,indented,M,,True,True,True,Carl
+up,64,up_s046,up_s046_u0064,0.2514,CARL,CARL,up_carl,Carl,Hm.,1,spoken,,,1012,,indented,M,,True,True,True,Carl
+up,65,up_s046,up_s046_u0065,0.2514,CONSTRUCTION FOREMAN TOM,CONSTRUCTION FOREMAN TOM,up_construction_foreman_tom,Construction Foreman Tom,"Hey! `Morning, Mr. Fredricksen! Need any help there?",8,spoken,,,1020,,indented,M,,True,False,True,Construction Foreman Tom
+up,66,up_s046,up_s046_u0066,0.2514,CARL,CARL,up_carl,Carl,No. Yes. Tell your boss over there that you boys are ruining our house.,14,spoken,,,1026,,indented,M,,True,True,True,Carl
+up,67,up_s046,up_s046_u0067,0.2514,CONSTRUCTION FOREMAN TOM,CONSTRUCTION FOREMAN TOM,up_construction_foreman_tom,Construction Foreman Tom,"Well just to let you know, my boss would be happy to take this old place off your hands, and for double his last offer. Whaddya say to that?",29,spoken,,,1036,,indented,M,,True,False,True,Construction Foreman Tom
+up,68,up_s046,up_s046_u0068,0.2514,CONSTRUCTION FOREMAN TOM,CONSTRUCTION FOREMAN TOM,up_construction_foreman_tom,Construction Foreman Tom,"Uh, I take that as a no, then.",8,spoken,,,1050,,indented,M,,True,False,True,Construction Foreman Tom
+up,69,up_s046,up_s046_u0069,0.2514,CARL,CARL,up_carl,Carl,I believe I made my position to your boss quite clear.,11,spoken,,,1054,,indented,M,,True,True,True,Carl
+up,70,up_s046,up_s046_u0070,0.2514,CONSTRUCTION FOREMAN TOM,CONSTRUCTION FOREMAN TOM,up_construction_foreman_tom,Construction Foreman Tom,You poured prune juice in his gas tank.,8,spoken,,,1060,,indented,M,,True,False,True,Construction Foreman Tom
+up,71,up_s046,up_s046_u0071,0.2514,CARL,CARL,up_carl,Carl,"Oh yeah, that was good. Here, let me talk to him.",11,spoken,,,1064,,indented,M,,True,True,True,Carl
+up,72,up_s046,up_s046_u0072,0.2514,CARL,CARL,up_carl,Carl,"You in the suit. Yes, you. Take a bath, hippy!",10,spoken,,,1072,(in megaphone),indented,M,,True,True,True,Carl
+up,73,up_s046,up_s046_u0073,0.2514,CONSTRUCTION FOREMAN TOM,CONSTRUCTION FOREMAN TOM,up_construction_foreman_tom,Construction Foreman Tom,I am not with him! This is serious. He's out to get your house!,14,spoken,,,1083,"(to Boss, re Carl) | (to Carl)",indented,M,,True,False,True,Construction Foreman Tom
+up,74,up_s046,up_s046_u0074,0.2514,CARL,CARL,up_carl,Carl,Tell your boss he can have our house.,8,spoken,,,1097,,indented,M,,True,True,True,Carl
+up,75,up_s046,up_s046_u0075,0.2514,CONSTRUCTION FOREMAN TOM,CONSTRUCTION FOREMAN TOM,up_construction_foreman_tom,Construction Foreman Tom,Really?,1,spoken,,,1101,,indented,M,,True,False,True,Construction Foreman Tom
+up,76,up_s046,up_s046_u0076,0.2514,CARL,CARL,up_carl,Carl,When I'm dead!,3,spoken,,,1105,,indented,M,,True,True,True,Carl
+up,77,up_s046,up_s046_u0077,0.2514,CONSTRUCTION FOREMAN TOM,CONSTRUCTION FOREMAN TOM,up_construction_foreman_tom,Construction Foreman Tom,I'll take that as a maybe!,6,spoken,,,1111,,indented,M,,True,False,True,Construction Foreman Tom
+up,78,up_s048,up_s048_u0078,0.2626,RUSSELL,RUSSELL,up_russell,Russell,"""Good afternoon. My name is Russell. And I am a Wilderness Explorer in Tribe 54, Sweatlodge 12. Are you in need of any assistance today, sir?""",26,spoken,,,1135,,indented,M,,True,False,True,Russell
+up,79,up_s048,up_s048_u0079,0.2626,CARL,CARL,up_carl,Carl,No.,1,spoken,,,1149,,indented,M,,True,True,True,Carl
+up,80,up_s048,up_s048_u0080,0.2626,RUSSELL,RUSSELL,up_russell,Russell,I could help you cross the street.,7,spoken,,,1154,,indented,M,,True,False,True,Russell
+up,81,up_s048,up_s048_u0081,0.2626,CARL,CARL,up_carl,Carl,No.,1,spoken,,,1158,,indented,M,,True,True,True,Carl
+up,82,up_s048,up_s048_u0082,0.2626,RUSSELL,RUSSELL,up_russell,Russell,I could help you cross your yard.,7,spoken,,,1162,,indented,M,,True,False,True,Russell
+up,83,up_s048,up_s048_u0083,0.2626,CARL,CARL,up_carl,Carl,No.,1,spoken,,,1166,,indented,M,,True,True,True,Carl
+up,84,up_s048,up_s048_u0084,0.2626,RUSSELL,RUSSELL,up_russell,Russell,I could help you cross your... porch?,7,spoken,,,1170,,indented,M,,True,False,True,Russell
+up,85,up_s048,up_s048_u0085,0.2626,CARL,CARL,up_carl,Carl,No.,1,spoken,,,1174,,indented,M,,True,True,True,Carl
+up,86,up_s048,up_s048_u0086,0.2626,RUSSELL,RUSSELL,up_russell,Russell,"Well, I gotta help you cross something.",7,spoken,,,1178,,indented,M,,True,False,True,Russell
+up,87,up_s048,up_s048_u0087,0.2626,CARL,CARL,up_carl,Carl,"Uh, no. I'm doing fine.",5,spoken,,,1184,,indented,M,,True,True,True,Carl
+up,88,up_s049,up_s049_u0088,0.2682,RUSSELL,RUSSELL,up_russell,Russell,"""Good afternoon. My name is Russell.""",6,spoken,,,1194,,indented,M,,True,False,True,Russell
+up,89,up_s049,up_s049_u0089,0.2682,CARL,CARL,up_carl,Carl,Uh... kid...,2,spoken,,,1200,,indented,M,,True,True,True,Carl
+up,90,up_s049,up_s049_u0090,0.2682,RUSSELL,RUSSELL,up_russell,Russell,"""And I am a Wilderness Explorer in Tribe 54, Sweatlodge 12.""",11,spoken,,,1204,,indented,M,,True,False,True,Russell
+up,91,up_s049,up_s049_u0091,0.2682,CARL,CARL,up_carl,Carl,Kid. KID!!,2,spoken,,,1210,,indented,M,,True,True,True,Carl
+up,92,up_s049,up_s049_u0092,0.2682,RUSSELL,RUSSELL,up_russell,Russell,"""Are you in need of any assistance today Sir?""",9,spoken,,,1216,,indented,M,,True,False,True,Russell
+up,93,up_s049,up_s049_u0093,0.2682,CARL,CARL,up_carl,Carl,"Thank you, but I don't need any help!",8,spoken,,,1222,,indented,M,,True,True,True,Carl
+up,94,up_s049,up_s049_u0094,0.2682,RUSSELL,RUSSELL,up_russell,Russell,Ow.,1,spoken,,,1229,,indented,M,,True,False,True,Russell
+up,95,up_s049,up_s049_u0095,0.2682,CARL,CARL,up_carl,Carl,Proceed.,1,spoken,,,1235,(RESIGNED),indented,M,,True,True,True,Carl
+up,96,up_s049,up_s049_u0096,0.2682,RUSSELL,RUSSELL,up_russell,Russell,"""Good afternoon. My-""",3,spoken,,,1241,,indented,M,,True,False,True,Russell
+up,97,up_s049,up_s049_u0097,0.2682,CARL,CARL,up_carl,Carl,But skip to the end!,5,spoken,,,1245,,indented,M,,True,True,True,Carl
+up,98,up_s049,up_s049_u0098,0.2682,RUSSELL,RUSSELL,up_russell,Russell,See these? These are my Wilderness Explorer badges. You may notice one is missing. It's my Assisting the Elderly badge. If I get it I will become a Senior Wilderness Explorer!,31,spoken,,,1253,,indented,M,,True,False,True,Russell
+up,99,up_s049,up_s049_u0099,0.2682,RUSSELL,RUSSELL,up_russell,Russell,"""The wilderness must be explored! CAW-CAW! RAAAR!""",7,spoken,,,1271,,indented,M,,True,False,True,Russell
+up,100,up_s049,up_s049_u0100,0.2682,RUSSELL,RUSSELL,up_russell,Russell,"It's gonna be great! There's a big ceremony, and all the dads come, and they pin on our badges...",19,spoken,,,1279,,indented,M,,True,False,True,Russell
+up,101,up_s049,up_s049_u0101,0.2682,CARL,CARL,up_carl,Carl,So you want to assist an old person?,8,spoken,,,1287,,indented,M,,True,True,True,Carl
+up,102,up_s049,up_s049_u0102,0.2682,RUSSELL,RUSSELL,up_russell,Russell,Yep! Then I will be a Senior Wilderness Explorer!,9,spoken,,,1293,,indented,M,,True,False,True,Russell
+up,103,up_s049,up_s049_u0103,0.2682,CARL,CARL,up_carl,Carl,You ever heard of a snipe?,6,spoken,,,1302,(CONSPIRATORIALLY),indented,M,,True,True,True,Carl
+up,104,up_s049,up_s049_u0104,0.2682,RUSSELL,RUSSELL,up_russell,Russell,Snipe?,1,spoken,,,1308,,indented,M,,True,False,True,Russell
+up,105,up_s049,up_s049_u0105,0.2682,CARL,CARL,up_carl,Carl,Bird. Beady eyes. Every night it sneaks in my yard and gobbles my poor azaleas. I'm elderly and infirm. I can't catch it. If only someone could help me...,29,spoken,,,1312,,indented,M,,True,True,True,Carl
+up,106,up_s049,up_s049_u0106,0.2682,RUSSELL,RUSSELL,up_russell,Russell,Me! Me! I'll do it!,5,spoken,,,1324,,indented,M,,True,False,True,Russell
+up,107,up_s049,up_s049_u0107,0.2682,CARL,CARL,up_carl,Carl,"Oh, I don't know, it's awfully crafty. You'd have to clap your hands three times to lure it in.",19,spoken,,,1328,,indented,M,,True,True,True,Carl
+up,108,up_s049,up_s049_u0108,0.2682,RUSSELL,RUSSELL,up_russell,Russell,"I'll find it, Mr. Fredricksen!",5,spoken,,,1336,,indented,M,,True,False,True,Russell
+up,109,up_s049,up_s049_u0109,0.2682,CARL,CARL,up_carl,Carl,I think its burrow is two blocks down. If you go past --,13,spoken,,,1340,,indented,M,,True,True,True,Carl
+up,110,up_s049,up_s049_u0110,0.2682,RUSSELL,RUSSELL,up_russell,Russell,Two blocks down! Got it!,5,spoken,,,1346,,indented,M,,True,False,True,Russell
+up,111,up_s049,up_s049_u0111,0.2682,RUSSELL,RUSSELL,up_russell,Russell,Sniiiipe! Here Snipey Snipey...,4,spoken,,,1352,,indented,M,,True,False,True,Russell
+up,112,up_s049,up_s049_u0112,0.2682,CARL,CARL,up_carl,Carl,Bring it back here when you find it!,8,spoken,,,1356,(calls after Russell),indented,M,,True,True,True,Carl
+up,113,up_s049,up_s049_u0113,0.2682,CONSTRUCTION WORKER STEVE,CONSTRUCTION WORKER STEVE,up_construction_worker_steve,Construction Worker Steve,"Okay, keep her coming... And... stop. Stop! STOP!!",8,spoken,,,1372,,indented,M,,True,False,False,Construction Worker Steve
+up,114,up_s049,up_s049_u0114,0.2682,CARL,CARL,up_carl,Carl,What? Hey! Hey you! What do you think you're doing?,10,spoken,,,1383,,indented,M,,True,True,True,Carl
+up,115,up_s049,up_s049_u0115,0.2682,CONSTRUCTION WORKER STEVE,CONSTRUCTION WORKER STEVE,up_construction_worker_steve,Construction Worker Steve,"I am so sorry, sir...",5,spoken,,,1389,,indented,M,,True,False,False,Construction Worker Steve
+up,116,up_s049,up_s049_u0116,0.2682,CARL,CARL,up_carl,Carl,Don't touch that!,3,spoken,,,1395,,indented,M,,True,True,True,Carl
+up,117,up_s049,up_s049_u0117,0.2682,CONSTRUCTION WORKER STEVE,CONSTRUCTION WORKER STEVE,up_construction_worker_steve,Construction Worker Steve,"No no, let me take care of that for you.",10,spoken,,,1399,,indented,M,,True,False,False,Construction Worker Steve
+up,118,up_s049,up_s049_u0118,0.2682,CARL,CARL,up_carl,Carl,Get away from our mailbox!,5,spoken,,,1405,(STRUGGLING),indented,M,,True,True,True,Carl
+up,119,up_s049,up_s049_u0119,0.2682,CONSTRUCTION WORKER STEVE,CONSTRUCTION WORKER STEVE,up_construction_worker_steve,Construction Worker Steve,"Hey sir, I...",3,spoken,,,1411,,indented,M,,True,False,False,Construction Worker Steve
+up,120,up_s049,up_s049_u0120,0.2682,CARL,CARL,up_carl,Carl,I don't want you to touch it!,7,spoken,,,1415,,indented,M,,True,True,True,Carl
+up,121,up_s053,up_s053_u0121,0.2905,OFFICER EDITH,OFFICER EDITH,up_officer_edith,Officer Edith,Sorry Mr. Fredricksen. You don't seem like a public menace to me. Take this.,14,spoken,,,1460,,indented,F,,True,False,False,Officer Edith
+up,122,up_s053,up_s053_u0122,0.2905,OFFICER EDITH,OFFICER EDITH,up_officer_edith,Officer Edith,"The guys from Shady Oaks will be by to pick you up in the morning, okay?",16,spoken,,,1470,,indented,F,,True,False,False,Officer Edith
+up,123,up_s053,up_s053_u0123,0.2905,CARL,CARL,up_carl,Carl,"What do I do now, Ellie?",6,spoken,,,1480,,indented,M,,True,True,True,Carl
+up,124,up_s058,up_s058_u0124,0.3184,CARL,CARL,up_carl,Carl,Morning gentlemen.,2,spoken,,,1535,,indented,M,,True,True,True,Carl
+up,125,up_s058,up_s058_u0125,0.3184,NURSE GEORGE,NURSE GEORGE,up_nurse_george,Nurse George,"Good morning, Mr. Fredricksen. You ready to go?",8,spoken,,,1539,,indented,M,,True,False,False,Nurse George
+up,126,up_s058,up_s058_u0126,0.3184,CARL,CARL,up_carl,Carl,Ready as I'll ever be. Would you do me a favor and take this?,14,spoken,,,1545,,indented,M,,True,True,True,Carl
+up,127,up_s058,up_s058_u0127,0.3184,CARL,CARL,up_carl,Carl,I'll meet you at the van in just a minute. I... want to say one last goodbye to the old place.,21,spoken,,,1553,,indented,M,,True,True,True,Carl
+up,128,up_s058,up_s058_u0128,0.3184,NURSE GEORGE,NURSE GEORGE,up_nurse_george,Nurse George,"Sure. Take all the time you need, sir.",8,spoken,,,1561,,indented,M,,True,False,False,Nurse George
+up,129,up_s058,up_s058_u0129,0.3184,NURSE A.J.,NURSE A.J.,up_nurse_a_j,Nurse A.J.,Typical. He's probably going to the bathroom for the eightieth time.,11,spoken,,,1570,,indented,M,,True,False,False,Nurse A.J.
+up,130,up_s058,up_s058_u0130,0.3184,NURSE GEORGE,NURSE GEORGE,up_nurse_george,Nurse George,You'd think he'd take better care of his house.,9,spoken,,,1578,,indented,M,,True,False,False,Nurse George
+up,131,up_s058,up_s058_u0131,0.3184,CARL,CARL,up_carl,Carl,So long boys! I'll send you a postcard from Paradise Falls!,11,spoken,,,1604,,indented,M,,True,True,True,Carl
+up,132,up_s067,up_s067_u0132,0.3687,CARL,CARL,up_carl,Carl,"We're on our way, Ellie.",5,spoken,,,1661,,indented,M,,True,True,True,Carl
+up,133,up_s069,up_s069_u0133,0.3799,CARL,CARL,up_carl,Carl,Huh?,1,spoken,,,1685,,indented,M,,True,True,True,Carl
+up,134,up_s069,up_s069_u0134,0.3799,CARL,CARL,up_carl,Carl,Hm.,1,spoken,,,1692,,indented,M,,True,True,True,Carl
+up,135,up_s070,up_s070_u0135,0.3855,RUSSELL,RUSSELL,up_russell,Russell,"Hi, Mr. Fredricksen. It's me, Russell.",6,spoken,,,1708,,indented,M,,True,False,True,Russell
+up,136,up_s070,up_s070_u0136,0.3855,CARL,CARL,up_carl,Carl,"What are you doing out here, kid?",7,spoken,,,1714,,indented,M,,True,True,True,Carl
+up,137,up_s070,up_s070_u0137,0.3855,RUSSELL,RUSSELL,up_russell,Russell,"I found the snipe and I followed it under your porch, but this snipe had a long tail and looked more like a large mouse.",25,spoken,,,1722,,indented,M,,True,False,True,Russell
+up,138,up_s070,up_s070_u0138,0.3855,RUSSELL,RUSSELL,up_russell,Russell,Please let me in?,4,spoken,,,1736,,indented,M,,True,False,True,Russell
+up,139,up_s070,up_s070_u0139,0.3855,CARL,CARL,up_carl,Carl,No.,1,spoken,,,1740,,indented,M,,True,True,True,Carl
+up,140,up_s070,up_s070_u0140,0.3855,CARL,CARL,up_carl,Carl,"Oh, alright, you can come...",5,spoken,,,1748,,indented,M,,True,True,True,Carl
+up,141,up_s070,up_s070_u0141,0.3855,CARL,CARL,up_carl,Carl,...in.,1,spoken,,,1754,,indented,M,,True,True,True,Carl
+up,142,up_s071,up_s071_u0142,0.3911,RUSSELL,RUSSELL,up_russell,Russell,Huh. I've never been in a floating house before.,9,spoken,,,1763,,indented,M,,True,False,True,Russell
+up,143,up_s071,up_s071_u0143,0.3911,RUSSELL,RUSSELL,up_russell,Russell,Goggles. Look at this stuff!,5,spoken,,,1773,,indented,M,,True,False,True,Russell
+up,144,up_s071,up_s071_u0144,0.3911,RUSSELL,RUSSELL,up_russell,Russell,"Wow, you going on a trip? ""Paradise Falls: A Land Lost in Time."" You going to South America, Mr. Fredricksen?",20,spoken,,,1781,(reads from the engraving),indented,M,,True,False,True,Russell
+up,145,up_s071,up_s071_u0145,0.3911,CARL,CARL,up_carl,Carl,Don't touch that. You'll soil it.,6,spoken,,,1795,,indented,M,,True,True,True,Carl
+up,146,up_s071,up_s071_u0146,0.3911,RUSSELL,RUSSELL,up_russell,Russell,"You know, most people take a plane, but you're smart because you'll have all your TV and clocks and stuff.",20,spoken,,,1799,,indented,M,,True,False,True,Russell
+up,147,up_s071,up_s071_u0147,0.3911,RUSSELL,RUSSELL,up_russell,Russell,Whoah. Is this how you steer your house? Does it really work?,12,spoken,,,1809,,indented,M,,True,False,True,Russell
+up,148,up_s071,up_s071_u0148,0.3911,CARL,CARL,up_carl,Carl,"Kid, would you stop with the --",7,spoken,,,1815,,indented,M,,True,True,True,Carl
+up,149,up_s071,up_s071_u0149,0.3911,RUSSELL,RUSSELL,up_russell,Russell,"Oh, this makes it go right, and that way's left.",10,spoken,,,1823,,indented,M,,True,False,True,Russell
+up,150,up_s071,up_s071_u0150,0.3911,RUSSELL,RUSSELL,up_russell,Russell,"Hey look, buildings!",3,spoken,,,1836,,indented,M,,True,False,True,Russell
+up,151,up_s072,up_s072_u0151,0.3966,RUSSELL,RUSSELL,up_russell,Russell,That building's so close I could almost touch it.,9,spoken,,,1844,,indented,M,,True,False,True,Russell
+up,152,up_s072,up_s072_u0152,0.3966,RUSSELL,RUSSELL,up_russell,Russell,"Wow! This is great! You should try this, Mr. Fredricksen! Look, there's a bus that could take me home two blocks away! Hey, I can see your house from here!",30,spoken,,,1856,(looking up),indented,M,,True,False,True,Russell
+up,153,up_s072,up_s072_u0153,0.3966,CARL,CARL,up_carl,Carl,"Don't jerk around so much, kid!",6,spoken,,,1870,(struggling to hold on),indented,M,,True,True,True,Carl
+up,154,up_s072,up_s072_u0154,0.3966,CARL,CARL,up_carl,Carl,"Well, that's not gonna work.",5,spoken,,,1884,,indented,M,,True,True,True,Carl
+up,155,up_s072,up_s072_u0155,0.3966,RUSSELL,RUSSELL,up_russell,Russell,"I know that cloud, it's a Cumulo Nimbus. Did you know that the Cumulo Nimbus...",15,spoken,,,1890,,indented,M,,True,False,True,Russell
+up,156,up_s073,up_s073_u0156,0.4022,CARL,CARL,up_carl,Carl,"Stayed up all night blowing up balloons, for what?",9,spoken,,,1905,,indented,M,,True,True,True,Carl
+up,157,up_s073,up_s073_u0157,0.4022,RUSSELL,RUSSELL,up_russell,Russell,"...warm air goes by cool air, and the airs go by each other and that's how we get lightning.",19,spoken,,,1911,,indented,M,,True,False,True,Russell
+up,158,up_s073,up_s073_u0158,0.4022,CARL,CARL,up_carl,Carl,"That's nice, kid.",3,spoken,,,1919,,indented,M,,True,True,True,Carl
+up,159,up_s073,up_s073_u0159,0.4022,RUSSELL,RUSSELL,up_russell,Russell,"Mr. Fredricksen, there's a big storm coming. It's starting to get scary. We're gonna get blown to bits! We're in big trouble, Mr. Fredricksen!",24,spoken,,,1929,(nearly silent),indented,M,,True,False,True,Russell
+up,160,up_s073,up_s073_u0160,0.4022,CARL,CARL,up_carl,Carl,What are you doing over there?,6,spoken,,,1947,,indented,M,,True,True,True,Carl
+up,161,up_s073,up_s073_u0161,0.4022,RUSSELL,RUSSELL,up_russell,Russell,Look!,1,spoken,,,1951,,indented,M,,True,False,True,Russell
+up,162,up_s074,up_s074_u0162,0.4078,RUSSELL,RUSSELL,up_russell,Russell,See? Cumulo Nimbus.,3,spoken,,,1959,,indented,M,,True,False,True,Russell
+up,163,up_s075,up_s075_u0163,0.4134,RUSSELL,RUSSELL,up_russell,Russell,My pack!,2,spoken,,,1978,,indented,M,,True,False,True,Russell
+up,164,up_s075,up_s075_u0164,0.4134,RUSSELL,RUSSELL,up_russell,Russell,Got ya!,2,spoken,,,1984,,indented,M,,True,False,True,Russell
+up,165,up_s077,up_s077_u0165,0.4246,RUSSELL,RUSSELL,up_russell,Russell,Whew! I thought you were dead.,6,spoken,,,2018,,indented,M,,True,False,True,Russell
+up,166,up_s077,up_s077_u0166,0.4246,CARL,CARL,up_carl,Carl,Wha... what happened?,3,spoken,,,2022,,indented,M,,True,True,True,Carl
+up,167,up_s077,up_s077_u0167,0.4246,RUSSELL,RUSSELL,up_russell,Russell,I steered us. I did! I steered the house!,9,spoken,,,2030,,indented,M,,True,False,True,Russell
+up,168,up_s077,up_s077_u0168,0.4246,CARL,CARL,up_carl,Carl,Steered us?,2,spoken,,,2036,,indented,M,,True,True,True,Carl
+up,169,up_s077,up_s077_u0169,0.4246,RUSSELL,RUSSELL,up_russell,Russell,"After you tied your stuff down you took a nap, so I went ahead and steered us down here.",19,spoken,,,2041,,indented,M,,True,False,True,Russell
+up,170,up_s078,up_s078_u0170,0.4302,CARL,CARL,up_carl,Carl,Huh?,1,spoken,,,2053,,indented,M,,True,True,True,Carl
+up,171,up_s080,up_s080_u0171,0.4413,CARL,CARL,up_carl,Carl,Can't tell where we are.,5,spoken,,,2063,,indented,M,,True,True,True,Carl
+up,172,up_s081,up_s081_u0172,0.4469,RUSSELL,RUSSELL,up_russell,Russell,"Oh we're in South America all right. It was a cinch, with my Wilderness Explorer GPS.",16,spoken,,,2069,,indented,M,,True,False,True,Russell
+up,173,up_s081,up_s081_u0173,0.4469,CARL,CARL,up_carl,Carl,GP-what?,1,spoken,,,2079,,indented,M,,True,True,True,Carl
+up,174,up_s081,up_s081_u0174,0.4469,RUSSELL,RUSSELL,up_russell,Russell,"My dad gave it to me. It shows exactly where we are on the planet. With this baby, we'll never be lost!",22,spoken,,,2083,,indented,M,,True,False,True,Russell
+up,175,up_s082,up_s082_u0175,0.4525,RUSSELL,RUSSELL,up_russell,Russell,Oops.,1,spoken,,,2099,,indented,M,,True,False,True,Russell
+up,176,up_s083,up_s083_u0176,0.4581,CARL,CARL,up_carl,Carl,"We'll get you down, find a bus stop. You just tell the man you want to go back to your mother.",21,spoken,,,2108,,indented,M,,True,True,True,Carl
+up,177,up_s083,up_s083_u0177,0.4581,RUSSELL,RUSSELL,up_russell,Russell,"Sure, but I don't think they have busses in Paradise Falls.",11,spoken,,,2116,,indented,M,,True,False,True,Russell
+up,178,up_s085,up_s085_u0178,0.4693,CARL,CARL,up_carl,Carl,"There. That ought to do it. Here, I'll give you some change for bus fare.",15,spoken,,,2128,,indented,M,,True,True,True,Carl
+up,179,up_s085,up_s085_u0179,0.4693,RUSSELL,RUSSELL,up_russell,Russell,"Nah, I'll just use my city bus pass.",8,spoken,,,2136,,indented,M,,True,False,True,Russell
+up,180,up_s086,up_s086_u0180,0.4749,RUSSELL,RUSSELL (O.S.),up_russell,Russell,"Whoah, that's gonna be like a billion transfers to get back to my house.",14,spoken,,,2144,,indented,M,,True,False,True,Russell
+up,181,up_s087,up_s087_u0181,0.4804,RUSSELL,RUSSELL,up_russell,Russell,"Mr. Fredricksen, how much longer?",5,spoken,,,2158,,indented,M,,True,False,True,Russell
+up,182,up_s087,up_s087_u0182,0.4804,CARL,CARL,up_carl,Carl,"Well, we're up pretty high. Could take hours to get down.",11,spoken,,,2162,,indented,M,,True,True,True,Carl
+up,183,up_s087,up_s087_u0183,0.4804,CARL,CARL,up_carl,Carl,...that thing was...building or something.,5,spoken,,,2171,(MUMBLING),indented,M,,True,True,True,Carl
+up,184,up_s087,up_s087_u0184,0.4804,RUSSELL,RUSSELL,up_russell,Russell,"What was that, Mr. Fredricksen?",5,spoken,,,2181,,indented,M,,True,False,True,Russell
+up,185,up_s087,up_s087_u0185,0.4804,CARL,CARL,up_carl,Carl,We can't be close to the ground yet.,8,spoken,,,2185,,indented,M,,True,True,True,Carl
+up,186,up_s088,up_s088_u0186,0.486,CARL,CARL,up_carl,Carl,"Wait, wait! No don't, don't, don't!",6,spoken,,,2205,,indented,M,,True,True,True,Carl
+up,187,up_s088,up_s088_u0187,0.486,CARL,CARL,up_carl,Carl,"Whoah! Hey, hey!",3,spoken,,,2211,,indented,M,,True,True,True,Carl
+up,188,up_s088,up_s088_u0188,0.486,CARL,CARL,up_carl,Carl,"Russell, hang on!",3,spoken,,,2219,,indented,M,,True,True,True,Carl
+up,189,up_s088,up_s088_u0189,0.486,RUSSELL,RUSSELL,up_russell,Russell,Whoah!,1,spoken,,,2225,,indented,M,,True,False,True,Russell
+up,190,up_s088,up_s088_u0190,0.486,CARL,CARL,up_carl,Carl,Walk back! Walk back!,4,spoken,,,2233,,indented,M,,True,True,True,Carl
+up,191,up_s088,up_s088_u0191,0.486,RUSSELL,RUSSELL,up_russell,Russell,Okay!,1,spoken,,,2238,,indented,M,,True,False,True,Russell
+up,192,up_s088,up_s088_u0192,0.486,CARL,CARL,up_carl,Carl,Where... where are we?,4,spoken,,,2250,(out of breath),indented,M,,True,True,True,Carl
+up,193,up_s088,up_s088_u0193,0.486,RUSSELL,RUSSELL,up_russell,Russell,"This doesn't look like the city or the jungle, Mr. Fredricksen.",11,spoken,,,2256,,indented,M,,True,False,True,Russell
+up,194,up_s088,up_s088_u0194,0.486,CARL,CARL,up_carl,Carl,"Don't worry, Ellie. I got it.",6,spoken,,,2264,(to house),indented,M,,True,True,True,Carl
+up,195,up_s088,up_s088_u0195,0.486,CARL,CARL,up_carl,Carl,"There it is. Ellie, it's so beautiful.",7,spoken,,,2278,,indented,M,,True,True,True,Carl
+up,196,up_s088,up_s088_u0196,0.486,CARL,CARL,up_carl,Carl,"We made it. We made it! Russell, we could float right over there. Climb up. Climb up!",17,spoken,,,2290,,indented,M,,True,True,True,Carl
+up,197,up_s088,up_s088_u0197,0.486,RUSSELL,RUSSELL,up_russell,Russell,You mean assist you?,4,spoken,,,2298,,indented,M,,True,False,True,Russell
+up,198,up_s088,up_s088_u0198,0.486,CARL,CARL,up_carl,Carl,"Yeah, yeah. Whatever.",3,spoken,,,2302,,indented,M,,True,True,True,Carl
+up,199,up_s088,up_s088_u0199,0.486,RUSSELL,RUSSELL,up_russell,Russell,"Okay, I'll climb up!",4,spoken,,,2306,,indented,M,,True,False,True,Russell
+up,200,up_s088,up_s088_u0200,0.486,CARL,CARL,up_carl,Carl,Watch it.,2,spoken,,,2313,,indented,M,,True,True,True,Carl
+up,201,up_s088,up_s088_u0201,0.486,RUSSELL,RUSSELL,up_russell,Russell,Sorry.,1,spoken,,,2317,,indented,M,,True,False,True,Russell
+up,202,up_s088,up_s088_u0202,0.486,CARL,CARL,up_carl,Carl,"Now, when you get up there, go ahead and hoist me up! Got it?!",14,spoken,,,2323,,indented,M,,True,True,True,Carl
+up,203,up_s088,up_s088_u0203,0.486,CARL,CARL,up_carl,Carl,You on the porch yet?!,5,spoken,,,2331,,indented,M,,True,True,True,Carl
+up,204,up_s088,up_s088_u0204,0.486,CARL,CARL,up_carl,Carl,"What? That's it?! I came all this way just to get stuck at the wrong end of this rock pile? Aw, great!",22,spoken,,,2339,,indented,M,,True,True,True,Carl
+up,205,up_s088,up_s088_u0205,0.486,RUSSELL,RUSSELL,up_russell,Russell,"Hey, if I could assist you over there, would you sign off on my badge?",15,spoken,,,2349,,indented,M,,True,False,True,Russell
+up,206,up_s088,up_s088_u0206,0.486,CARL,CARL,up_carl,Carl,What are you talking about?,5,spoken,,,2357,,indented,M,,True,True,True,Carl
+up,207,up_s088,up_s088_u0207,0.486,RUSSELL,RUSSELL,up_russell,Russell,We could walk your house to the falls!,8,spoken,,,2361,,indented,M,,True,False,True,Russell
+up,208,up_s088,up_s088_u0208,0.486,CARL,CARL,up_carl,Carl,Walk it?,2,spoken,,,2367,,indented,M,,True,True,True,Carl
+up,209,up_s088,up_s088_u0209,0.486,RUSSELL,RUSSELL,up_russell,Russell,"Yeah, after all, we weigh it down. We could walk it right over there. Like a parade balloon.",18,spoken,,,2371,,indented,M,,True,False,True,Russell
+up,210,up_s089,up_s089_u0210,0.4916,CARL,CARL,up_carl,Carl,"Now, we're gonna walk to the falls quickly and quietly, with no rap music or flash-dancing.",16,spoken,,,2390,,indented,M,,True,True,True,Carl
+up,211,up_s089,up_s089_u0211,0.4916,RUSSELL,RUSSELL,up_russell,Russell,Uh-huh.,1,spoken,,,2400,(DISTRACTED),indented,M,,True,False,True,Russell
+up,212,up_s089,up_s089_u0212,0.4916,CARL,CARL,up_carl,Carl,"We have three days, at best, before the helium leaks out of those balloons. And if we're not at the falls when that happens...",24,spoken,,,2406,,indented,M,,True,True,True,Carl
+up,213,up_s089,up_s089_u0213,0.4916,RUSSELL,RUSSELL,up_russell,Russell,Sand!,1,spoken,,,2416,,indented,M,,True,False,True,Russell
+up,214,up_s089,up_s089_u0214,0.4916,CARL,CARL,up_carl,Carl,...we're not getting to the falls!,6,spoken,,,2420,,indented,M,,True,True,True,Carl
+up,215,up_s089,up_s089_u0215,0.4916,RUSSELL,RUSSELL,up_russell,Russell,I found sand!,3,spoken,,,2424,,indented,M,,True,False,True,Russell
+up,216,up_s089,up_s089_u0216,0.4916,CARL,CARL,up_carl,Carl,"Don't you worry, Ellie. We'll get our house over there.",10,spoken,,,2430,,indented,M,,True,True,True,Carl
+up,217,up_s089,up_s089_u0217,0.4916,RUSSELL,RUSSELL,up_russell,Russell,"Huh. This is fun already, isn't it? By the time we get there, you're gonna feel so assisted... Oh, Mr. Fredricksen, if we happen to get separated, use the Wilderness Explorer call. Caw caw, raaar!!",35,spoken,,,2438,(shrugs it off),indented,M,,True,False,True,Russell
+up,218,up_s089,up_s089_u0218,0.4916,RUSSELL,RUSSELL,up_russell,Russell,Wait. Why are we going to Paradise Falls again?,9,spoken,,,2459,,indented,M,,True,False,True,Russell
+up,219,up_s089,up_s089_u0219,0.4916,CARL,CARL,up_carl,Carl,"Hey, let's play a game. It's called: ""See who can be quiet the longest.""",14,spoken,,,2465,,indented,M,,True,True,True,Carl
+up,220,up_s089,up_s089_u0220,0.4916,RUSSELL,RUSSELL,up_russell,Russell,Cool! My mom loves that game!,6,spoken,,,2473,,indented,M,,True,False,True,Russell
+up,221,up_s093,up_s093_u0221,0.514,CARL,CARL,up_carl,Carl,"Darn thing. C'mon, Russell, would you hurry it up?",9,spoken,,,2526,(calling back),indented,M,,True,True,True,Carl
+up,222,up_s093,up_s093_u0222,0.514,RUSSELL,RUSSELL,up_russell,Russell,I'm tiiiired. And my knee hurts.,6,spoken,,,2536,,indented,M,,True,False,True,Russell
+up,223,up_s093,up_s093_u0223,0.514,CARL,CARL,up_carl,Carl,Which knee?,2,spoken,,,2540,,indented,M,,True,True,True,Carl
+up,224,up_s093,up_s093_u0224,0.514,RUSSELL,RUSSELL,up_russell,Russell,My elbow hurts and I have to go to the bathroom.,11,spoken,,,2544,,indented,M,,True,False,True,Russell
+up,225,up_s093,up_s093_u0225,0.514,CARL,CARL,up_carl,Carl,I asked you about that five minutes ago!,8,spoken,,,2550,,indented,M,,True,True,True,Carl
+up,226,up_s093,up_s093_u0226,0.514,RUSSELL,RUSSELL,up_russell,Russell,"Well, I didn't have to go then!",7,spoken,,,2556,,indented,M,,True,False,True,Russell
+up,227,up_s093,up_s093_u0227,0.514,RUSSELL,RUSSELL,up_russell,Russell,I don't want to walk anymore. Can we stop?,9,spoken,,,2562,,indented,M,,True,False,True,Russell
+up,228,up_s093,up_s093_u0228,0.514,CARL,CARL,up_carl,Carl,"Russell! If you don't hurry up, the tigers will eat you.",11,spoken,,,2568,,indented,M,,True,True,True,Carl
+up,229,up_s093,up_s093_u0229,0.514,RUSSELL,RUSSELL,up_russell,Russell,There's no tigers in South America.,6,spoken,,,2574,,indented,M,,True,False,True,Russell
+up,230,up_s093,up_s093_u0230,0.514,RUSSELL,RUSSELL,up_russell,Russell,Zoology.,1,spoken,,,2580,,indented,M,,True,False,True,Russell
+up,231,up_s093,up_s093_u0231,0.514,CARL,CARL,up_carl,Carl,"Oh, for the love of Pete. Go on into the bushes and do your business.",15,spoken,,,2584,,indented,M,,True,True,True,Carl
+up,232,up_s093,up_s093_u0232,0.514,RUSSELL,RUSSELL,up_russell,Russell,"Okay! Here, hold my stuff.",5,spoken,,,2590,,indented,M,,True,False,True,Russell
+up,233,up_s093,up_s093_u0233,0.514,RUSSELL,RUSSELL,up_russell,Russell,I've always wanted to try this!,6,spoken,,,2603,,indented,M,,True,False,True,Russell
+up,234,up_s093,up_s093_u0234,0.514,RUSSELL,RUSSELL (O.S.),up_russell,Russell,Mr. Fredricksen? Am I supposed to dig the hole before or after?,12,spoken,,,2609,,indented,M,,True,False,True,Russell
+up,235,up_s093,up_s093_u0235,0.514,CARL,CARL,up_carl,Carl,Eugh! None of my concern!,5,spoken,,,2615,,indented,M,,True,True,True,Carl
+up,236,up_s093,up_s093_u0236,0.514,RUSSELL,RUSSELL (O.S.),up_russell,Russell,Oh. It's before!,3,spoken,,,2621,,indented,M,,True,False,True,Russell
+up,237,up_s094,up_s094_u0237,0.5196,RUSSELL,RUSSELL,up_russell,Russell,Huh? Tracks?! Snipe!,3,spoken,,,2633,(REALIZING),indented,M,,True,False,True,Russell
+up,238,up_s094,up_s094_u0238,0.5196,RUSSELL,RUSSELL,up_russell,Russell,"Here, snipe... Come on out, snipe. Snipe!",7,spoken,,,2643,,indented,M,,True,False,True,Russell
+up,239,up_s094,up_s094_u0239,0.5196,RUSSELL,RUSSELL,up_russell,Russell,Huh.,1,spoken,,,2651,,indented,M,,True,False,True,Russell
+up,240,up_s094,up_s094_u0240,0.5196,RUSSELL,RUSSELL,up_russell,Russell,Ha! Gotcha!,2,spoken,,,2668,,indented,M,,True,False,True,Russell
+up,241,up_s094,up_s094_u0241,0.5196,RUSSELL,RUSSELL,up_russell,Russell,"Don't be afraid, little snipe. I am a Wilderness Explorer so I am a friend to all of nature. Want some more?",22,spoken,,,2674,,indented,M,,True,False,True,Russell
+up,242,up_s094,up_s094_u0242,0.5196,RUSSELL,RUSSELL,up_russell,Russell,Hi boy. Don't eat it all. Come on out.,9,spoken,,,2688,,indented,M,,True,False,True,Russell
+up,243,up_s094,up_s094_u0243,0.5196,RUSSELL,RUSSELL,up_russell,Russell,...giant snipe!,2,spoken,,,2706,,indented,M,,True,False,True,Russell
+up,244,up_s095,up_s095_u0244,0.5251,RUSSELL,RUSSELL,up_russell,Russell,I found the snipe!,4,spoken,,,2716,,indented,M,,True,False,True,Russell
+up,245,up_s095,up_s095_u0245,0.5251,CARL,CARL,up_carl,Carl,"Oh, did you?",3,spoken,,,2720,(humoring him),indented,M,,True,True,True,Carl
+up,246,up_s095,up_s095_u0246,0.5251,RUSSELL,RUSSELL,up_russell,Russell,Are they tall?,3,spoken,,,2726,,indented,M,,True,False,True,Russell
+up,247,up_s095,up_s095_u0247,0.5251,CARL,CARL,up_carl,Carl,"Oh yes, they're very tall.",5,spoken,,,2730,,indented,M,,True,True,True,Carl
+up,248,up_s095,up_s095_u0248,0.5251,RUSSELL,RUSSELL,up_russell,Russell,Do they have a lot of colors?,7,spoken,,,2735,,indented,M,,True,False,True,Russell
+up,249,up_s095,up_s095_u0249,0.5251,CARL,CARL,up_carl,Carl,They do indeed.,3,spoken,,,2739,,indented,M,,True,True,True,Carl
+up,250,up_s095,up_s095_u0250,0.5251,RUSSELL,RUSSELL,up_russell,Russell,Do they like chocolate?,4,spoken,,,2743,,indented,M,,True,False,True,Russell
+up,251,up_s095,up_s095_u0251,0.5251,CARL,CARL,up_carl,Carl,Oh ye- Chocolate?,3,spoken,,,2747,,indented,M,,True,True,True,Carl
+up,252,up_s095,up_s095_u0252,0.5251,CARL,CARL,up_carl,Carl,What is that thing?!,4,spoken,,,2757,,indented,M,,True,True,True,Carl
+up,253,up_s095,up_s095_u0253,0.5251,RUSSELL,RUSSELL,up_russell,Russell,It's a snipe!,3,spoken,,,2761,,indented,M,,True,False,True,Russell
+up,254,up_s095,up_s095_u0254,0.5251,CARL,CARL,up_carl,Carl,There's no such thing as a snipe!,7,spoken,,,2765,,indented,M,,True,True,True,Carl
+up,255,up_s095,up_s095_u0255,0.5251,RUSSELL,RUSSELL,up_russell,Russell,But you said snipes eat--,5,spoken,,,2769,,indented,M,,True,False,True,Russell
+up,256,up_s095,up_s095_u0256,0.5251,RUSSELL,RUSSELL,up_russell,Russell,Whoah!,1,spoken,,,2779,,indented,M,,True,False,True,Russell
+up,257,up_s095,up_s095_u0257,0.5251,CARL,CARL,up_carl,Carl,"Go on, get out of here. Go on! Shoo!",9,spoken,,,2787,,indented,M,,True,True,True,Carl
+up,258,up_s095,up_s095_u0258,0.5251,RUSSELL,RUSSELL,up_russell,Russell,Whoah! Whoah!,2,spoken,,,2799,(LAUGHING),indented,M,,True,False,True,Russell
+up,259,up_s095,up_s095_u0259,0.5251,CARL,CARL,up_carl,Carl,"Careful, Russell!",2,spoken,,,2806,,indented,M,,True,True,True,Carl
+up,260,up_s095,up_s095_u0260,0.5251,RUSSELL,RUSSELL,up_russell,Russell,"Hey, look Mr. Fredricksen, it likes me!",7,spoken,,,2810,(LAUGHING),indented,M,,True,False,True,Russell
+up,261,up_s095,up_s095_u0261,0.5251,CARL,CARL,up_carl,Carl,Russell!,1,spoken,,,2818,,indented,M,,True,True,True,Carl
+up,262,up_s095,up_s095_u0262,0.5251,RUSSELL,RUSSELL,up_russell,Russell,"No stop, that tickles!",4,spoken,,,2824,(LAUGHING),indented,M,,True,False,True,Russell
+up,263,up_s095,up_s095_u0263,0.5251,CARL,CARL,up_carl,Carl,"Get out of here. Go on, git!",7,spoken,,,2832,,indented,M,,True,True,True,Carl
+up,264,up_s095,up_s095_u0264,0.5251,CARL,CARL,up_carl,Carl,Aaaah!,1,spoken,,,2840,,indented,M,,True,True,True,Carl
+up,265,up_s095,up_s095_u0265,0.5251,RUSSELL,RUSSELL,up_russell,Russell,"Uh-oh! No no no no no Kevin, it's okay. Mr. Fredricksen is nice!",13,spoken,,,2844,,indented,M,,True,False,True,Russell
+up,266,up_s095,up_s095_u0266,0.5251,CARL,CARL,up_carl,Carl,"""Kevin""?",1,spoken,,,2852,,indented,M,,True,True,True,Carl
+up,267,up_s095,up_s095_u0267,0.5251,RUSSELL,RUSSELL,up_russell,Russell,"Yeah, that's his name I just gave him.",8,spoken,,,2856,,indented,M,,True,False,True,Russell
+up,268,up_s095,up_s095_u0268,0.5251,CARL,CARL,up_carl,Carl,Hey. Beat it! Vamoose! Scram!,5,spoken,,,2864,,indented,M,,True,True,True,Carl
+up,269,up_s095,up_s095_u0269,0.5251,CARL,CARL,up_carl,Carl,Hey! That's mine!,3,spoken,,,2870,,indented,M,,True,True,True,Carl
+up,270,up_s095,up_s095_u0270,0.5251,CARL,CARL,up_carl,Carl,"Aaah! Shoo, shoo! Get out of here.",7,spoken,,,2877,,indented,M,,True,True,True,Carl
+up,271,up_s095,up_s095_u0271,0.5251,CARL,CARL,up_carl,Carl,"Go on, beat it.",4,spoken,,,2883,,indented,M,,True,True,True,Carl
+up,272,up_s095,up_s095_u0272,0.5251,RUSSELL,RUSSELL,up_russell,Russell,"Can we keep him? Please?? I'll get the food for him, I'll walk him, I'll change his newspapers...",18,spoken,,,2891,,indented,M,,True,False,True,Russell
+up,273,up_s095,up_s095_u0273,0.5251,CARL,CARL,up_carl,Carl,No.,1,spoken,,,2899,,indented,M,,True,True,True,Carl
+up,274,up_s095,up_s095_u0274,0.5251,RUSSELL,RUSSELL,up_russell,Russell,"""An Explorer is a friend to all, be it plants or fish or tiny mole.""",15,spoken,,,2903,(RECITING),indented,M,,True,False,True,Russell
+up,275,up_s095,up_s095_u0275,0.5251,CARL,CARL,up_carl,Carl,That doesn't even rhyme.,4,spoken,,,2911,,indented,M,,True,True,True,Carl
+up,276,up_s095,up_s095_u0276,0.5251,RUSSELL,RUSSELL,up_russell,Russell,Yeah it does.,3,spoken,,,2915,,indented,M,,True,False,True,Russell
+up,277,up_s095,up_s095_u0277,0.5251,RUSSELL,RUSSELL,up_russell,Russell,"Hey, look! Kevin!",3,spoken,,,2921,,indented,M,,True,False,True,Russell
+up,278,up_s095,up_s095_u0278,0.5251,CARL,CARL,up_carl,Carl,What? Get down! You're not allowed up there!,8,spoken,,,2925,,indented,M,,True,True,True,Carl
+up,279,up_s095,up_s095_u0279,0.5251,CARL,CARL,up_carl,Carl,You come down here right now!,6,spoken,,,2935,,indented,M,,True,True,True,Carl
+up,280,up_s095,up_s095_u0280,0.5251,CARL,CARL,up_carl,Carl,"Sheesh! Can you believe this, Ellie?",6,spoken,,,2941,,indented,M,,True,True,True,Carl
+up,281,up_s095,up_s095_u0281,0.5251,RUSSELL,RUSSELL,up_russell,Russell,"Ellie? RUSSELL Uh, hey Ellie, could I keep the bird? Uh-huh. Uh-huh. She said for you to let me.",19,spoken,,,2945,(gets idea) | (MORE) | (to Carl),indented,M,,True,False,True,Russell
+up,282,up_s095,up_s095_u0282,0.5251,CARL,CARL,up_carl,Carl,But I told him no -- I told you no! N-O.,11,spoken,,,2964,(to Ellie) | (catches himself),indented,M,,True,True,True,Carl
+up,283,up_s096,up_s096_u0283,0.5307,CARL,CARL,up_carl,Carl,I see you back there!,5,spoken,,,2984,,indented,M,,True,True,True,Carl
+up,284,up_s096,up_s096_u0284,0.5307,CARL,CARL,up_carl,Carl,"Go on, get out of here. Shoo! Go annoy someone else for a while.",14,spoken,,,2990,,indented,M,,True,True,True,Carl
+up,285,up_s096,up_s096_u0285,0.5307,VOICE,VOICE (O.S.),up_voice,Voice,"Hey, are you okay over there?",6,spoken,,,2996,,indented,Unknown,,False,False,False,Voice
+up,286,up_s096,up_s096_u0286,0.5307,CARL,CARL,up_carl,Carl,"Uh, hello?",2,spoken,,,3002,,indented,M,,True,True,True,Carl
+up,287,up_s096,up_s096_u0287,0.5307,CARL,CARL,up_carl,Carl,Oh! Hello sir! Thank goodness.,5,spoken,,,3010,,indented,M,,True,True,True,Carl
+up,288,up_s096,up_s096_u0288,0.5307,CARL,CARL,up_carl,Carl,It's nice to know someone else is,7,spoken,,,3016,,indented,M,,True,True,True,Carl
+up,289,up_s096,up_s096_u0289,0.5307,VOICE,VOICE,up_voice,Voice,I can smell you.,4,spoken,,,3021,,indented,Unknown,,False,False,False,Voice
+up,290,up_s096,up_s096_u0290,0.5307,CARL,CARL,up_carl,Carl,What? You can smell us?,5,spoken,,,3028,,indented,M,,True,True,True,Carl
+up,291,up_s096,up_s096_u0291,0.5307,VOICE,VOICE,up_voice,Voice,I can smell you.,4,spoken,,,3032,,indented,Unknown,,False,False,False,Voice
+up,292,up_s096,up_s096_u0292,0.5307,CARL,CARL,up_carl,Carl,Hey.,1,spoken,,,3038,,indented,M,,True,True,True,Carl
+up,293,up_s096,up_s096_u0293,0.5307,RUSSELL,RUSSELL,up_russell,Russell,You were talking to a rock.,6,spoken,,,3044,,indented,M,,True,False,True,Russell
+up,294,up_s096,up_s096_u0294,0.5307,RUSSELL,RUSSELL,up_russell,Russell,"Hey, that one looks like a turtle!",7,spoken,,,3050,,indented,M,,True,False,True,Russell
+up,295,up_s096,up_s096_u0295,0.5307,RUSSELL,RUSSELL,up_russell,Russell,Look at that one! That one looks like a dog!,10,spoken,,,3056,,indented,M,,True,False,True,Russell
+up,296,up_s096,up_s096_u0296,0.5307,RUSSELL,RUSSELL,up_russell,Russell,It is a dog!,4,spoken,,,3064,,indented,M,,True,False,True,Russell
+up,297,up_s096,up_s096_u0297,0.5307,CARL,CARL,up_carl,Carl,What?,1,spoken,,,3068,,indented,M,,True,True,True,Carl
+up,298,up_s096,up_s096_u0298,0.5307,RUSSELL,RUSSELL,up_russell,Russell,"Uh, we're not allowed to have dogs in my apartment.",10,spoken,,,3072,,indented,M,,True,False,True,Russell
+up,299,up_s096,up_s096_u0299,0.5307,RUSSELL,RUSSELL,up_russell,Russell,"Hey, I like dogs!",4,spoken,,,3080,,indented,M,,True,False,True,Russell
+up,300,up_s096,up_s096_u0300,0.5307,CARL,CARL,up_carl,Carl,We have your dog! Wonder who he belongs to?,9,spoken,,,3084,(calls out) | (to self),indented,M,,True,True,True,Carl
+up,301,up_s096,up_s096_u0301,0.5307,RUSSELL,RUSSELL,up_russell,Russell,Sit boy.,2,spoken,,,3094,,indented,M,,True,False,True,Russell
+up,302,up_s096,up_s096_u0302,0.5307,RUSSELL,RUSSELL,up_russell,Russell,"Hey look, he's trained! Shake!",5,spoken,,,3101,,indented,M,,True,False,True,Russell
+up,303,up_s096,up_s096_u0303,0.5307,RUSSELL,RUSSELL,up_russell,Russell,Uh-huh. Speak.,2,spoken,,,3107,,indented,M,,True,False,True,Russell
+up,304,up_s096,up_s096_u0304,0.5307,DUG,DUG,up_dug,Dug,Hi there.,2,spoken,,,3111,,indented,M,,True,False,True,Dug
+up,305,up_s096,up_s096_u0305,0.5307,CARL,CARL,up_carl,Carl,"Did that dog just say ""Hi there?""",7,spoken,,,3117,,indented,M,,True,True,True,Carl
+up,306,up_s096,up_s096_u0306,0.5307,DUG,DUG,up_dug,Dug,Oh yes.,2,spoken,,,3121,,indented,M,,True,False,True,Dug
+up,307,up_s096,up_s096_u0307,0.5307,DUG,DUG,up_dug,Dug,My name is Dug. I have just met you and I love you.,13,spoken,,,3127,,indented,M,,True,False,True,Dug
+up,308,up_s096,up_s096_u0308,0.5307,CARL,CARL,up_carl,Carl,Uh..wha?,1,spoken,,,3135,,indented,M,,True,True,True,Carl
+up,309,up_s096,up_s096_u0309,0.5307,DUG,DUG,up_dug,Dug,My master made me this collar. He is a good and smart master and he made me this collar so that I may,23,spoken,,,3145,,indented,M,,True,False,True,Dug
+up,310,up_s096,up_s096_u0310,0.5307,DUG,DUG,up_dug,Dug,My master is good and smart.,6,spoken,,,3157,,indented,M,,True,False,True,Dug
+up,311,up_s096,up_s096_u0311,0.5307,CARL,CARL,up_carl,Carl,It's not possible.,3,spoken,,,3161,,indented,M,,True,True,True,Carl
+up,312,up_s096,up_s096_u0312,0.5307,DUG,DUG,up_dug,Dug,"Oh it is, because my master is smart.",8,spoken,,,3165,,indented,M,,True,False,True,Dug
+up,313,up_s096,up_s096_u0313,0.5307,RUSSELL,RUSSELL,up_russell,Russell,"Cool! What do these do, boy?",6,spoken,,,3172,,indented,M,,True,False,True,Russell
+up,314,up_s096,up_s096_u0314,0.5307,DUG,DUG,up_dug,Dug,"Hey would you- -cuerdo con tigo- I use that collar- -watashi wa hanashi ma- -to talk with, I would be happy if you stopped.",24,spoken,,,3178,(CLICK) | (CLICK) | (CLICK) | (CLICK),indented,M,,True,False,True,Dug
+up,315,up_s096,up_s096_u0315,0.5307,CARL,CARL,up_carl,Carl,"Russell, don't touch that. It could be radioactive or something.",10,spoken,,,3200,,indented,M,,True,True,True,Carl
+up,316,up_s096,up_s096_u0316,0.5307,DUG,DUG,up_dug,Dug,"I am a great tracker. My pack sent me on a special mission all by myself. Have you seen a bird? I want to find one and I have been on the scent. I am a great tracker, did I mention that?",42,spoken,,,3208,,indented,M,,True,False,True,Dug
+up,317,up_s096,up_s096_u0317,0.5307,DUG,DUG,up_dug,Dug,"Hey, that is the bird! I have never seen one up close but this is the bird. May I take your bird back to camp as my prisoner?",28,spoken,,,3224,(to Carl),indented,M,,True,False,True,Dug
+up,318,up_s096,up_s096_u0318,0.5307,CARL,CARL,up_carl,Carl,"Yes! Take it! And on the way, learn how to bark like a real dog!",15,spoken,,,3238,,indented,M,,True,True,True,Carl
+up,319,up_s096,up_s096_u0319,0.5307,DUG,DUG,up_dug,Dug,Oh I can bark!,4,spoken,,,3244,,indented,M,,True,False,True,Dug
+up,320,up_s096,up_s096_u0320,0.5307,DUG,DUG,up_dug,Dug,And here's howling!,3,spoken,,,3250,,indented,M,,True,False,True,Dug
+up,321,up_s096,up_s096_u0321,0.5307,RUSSELL,RUSSELL,up_russell,Russell,Can we keep him? Please please please?,7,spoken,,,3257,,indented,M,,True,False,True,Russell
+up,322,up_s096,up_s096_u0322,0.5307,CARL,CARL,up_carl,Carl,No.,1,spoken,,,3263,,indented,M,,True,True,True,Carl
+up,323,up_s096,up_s096_u0323,0.5307,RUSSELL,RUSSELL,up_russell,Russell,But it's a talking dog!,5,spoken,,,3269,,indented,M,,True,False,True,Russell
+up,324,up_s096,up_s096_u0324,0.5307,CARL,CARL,up_carl,Carl,It's just a weird trick or something. Let's get to the falls.,12,spoken,,,3273,,indented,M,,True,True,True,Carl
+up,325,up_s096,up_s096_u0325,0.5307,DUG,DUG,up_dug,Dug,Please be my prisoner. Oh please oh please be my prisoner.,11,spoken,,,3281,,indented,M,,True,False,True,Dug
+up,326,up_s097,up_s097_u0326,0.5363,GAMMA,GAMMA,up_gamma,Gamma,"Oh, here it is. I picked up the bird's scent!",10,spoken,,,3293,,indented,M,,True,False,True,Gamma
+up,327,up_s097,up_s097_u0327,0.5363,BETA,BETA,up_beta,Beta,"Wait a minute, wait a minute! What is this? Chocolate. I smell chocolate.",13,spoken,,,3301,,indented,M,,True,False,True,Beta
+up,328,up_s097,up_s097_u0328,0.5363,GAMMA,GAMMA,up_gamma,Gamma,I'm getting prunes and denture cream! Who are they?,9,spoken,,,3309,,indented,M,,True,False,True,Gamma
+up,329,up_s097,up_s097_u0329,0.5363,BETA,BETA,up_beta,Beta,"Ah man, Master will not be pleased. We'd better tell him someone took the bird, right Alpha?",17,spoken,,,3315,,indented,M,,True,False,True,Beta
+up,330,up_s097,up_s097_u0330,0.5363,ALPHA,ALPHA,up_alpha,Alpha,No. Soon enough the bird will be ours yet again.,10,spoken,,,3325,(high-pitched voice),indented,M,,True,False,True,Alpha
+up,331,up_s097,up_s097_u0331,0.5363,ALPHA,ALPHA (CONT'D),up_alpha,Alpha,"Find the scent, my compadres and you two shall have much rewardings from Master for the toil factor you wage.",20,spoken,,,3338,,indented,M,,True,False,True,Alpha
+up,332,up_s097,up_s097_u0332,0.5363,BETA,BETA,up_beta,Beta,"Hey Alpha, I think there's something wrong with your collar. You must have bumped it.",15,spoken,,,3350,,indented,M,,True,False,True,Beta
+up,333,up_s097,up_s097_u0333,0.5363,GAMMA,GAMMA,up_gamma,Gamma,"Yeah, your voice sounds funny!",5,spoken,,,3358,,indented,M,,True,False,True,Gamma
+up,334,up_s097,up_s097_u0334,0.5363,ALPHA,ALPHA,up_alpha,Alpha,Beta. Gamma. Mayhaps you desire,5,spoken,,,3364,,indented,M,,True,False,True,Alpha
+up,335,up_s097,up_s097_u0335,0.5363,ALPHA,ALPHA (CONT'D),up_alpha,Alpha,Mayhaps you desire to challenge the ranking that I have been assigned by my strength and cunning?,17,spoken,,,3372,,indented,M,,True,False,True,Alpha
+up,336,up_s097,up_s097_u0336,0.5363,BETA,BETA,up_beta,Beta,No no. But maybe Dug would. You might want to ask him.,12,spoken,,,3380,,indented,M,,True,False,True,Beta
+up,337,up_s097,up_s097_u0337,0.5363,GAMMA,GAMMA,up_gamma,Gamma,"Yeah, I wonder if he's found the bird on his very special mission.",13,spoken,,,3388,,indented,M,,True,False,True,Gamma
+up,338,up_s097,up_s097_u0338,0.5363,ALPHA,ALPHA,up_alpha,Alpha,"Do not mention Dug to me at this time. His fool's errand will keep him most occupied, most occupied indeed. Ha ha ha. Do you not agree with that which I am saying to you now?",36,spoken,,,3394,,indented,M,,True,False,True,Alpha
+up,339,up_s097,up_s097_u0339,0.5363,BETA,BETA,up_beta,Beta,"Sure, but the second Master finds out you sent Dug out by himself, none of us will get a treat.",20,spoken,,,3408,,indented,M,,True,False,True,Beta
+up,340,up_s097,up_s097_u0340,0.5363,ALPHA,ALPHA,up_alpha,Alpha,"You are wise, my trusted Lieutenant.",6,spoken,,,3417,,indented,M,,True,False,True,Alpha
+up,341,up_s097,up_s097_u0341,0.5363,ALPHA,ALPHA (CONT'D),up_alpha,Alpha,"This is Alpha calling Dug. Come in, Dug.",8,spoken,,,3425,,indented,M,,True,False,True,Alpha
+up,342,up_s097,up_s097_u0342,0.5363,DUG,DUG,up_dug,Dug,"Hi Alpha. Hey, your voice sounds funny.",7,spoken,,,3435,,indented,M,,True,False,True,Dug
+up,343,up_s097,up_s097_u0343,0.5363,ALPHA,ALPHA,up_alpha,Alpha,"I know, I know! Have you seen the bird?",9,spoken,,,3441,,indented,M,,True,False,True,Alpha
+up,344,up_s097,up_s097_u0344,0.5363,DUG,DUG,up_dug,Dug,"Why yes, the bird is my prisoner now.",8,spoken,,,3447,,indented,M,,True,False,True,Dug
+up,345,up_s097,up_s097_u0345,0.5363,GAMMA,GAMMA,up_gamma,Gamma,"Yeah, right.",2,spoken,,,3453,,indented,M,,True,False,True,Gamma
+up,346,up_s097,up_s097_u0346,0.5363,ALPHA,ALPHA,up_alpha,Alpha,Impossible! Where are you?!,4,spoken,,,3459,,indented,M,,True,False,True,Alpha
+up,347,up_s097,up_s097_u0347,0.5363,DUG,DUG,up_dug,Dug,"I am here with the bird and I will bring it back and then you will like me. Oh, gotta go.",21,spoken,,,3463,,indented,M,,True,False,True,Dug
+up,348,up_s097,up_s097_u0348,0.5363,RUSSELL,RUSSELL,up_russell,Russell,Hey Dug! Who you talking to?,6,spoken,,,3475,(on video screen),indented,M,,True,False,True,Russell
+up,349,up_s097,up_s097_u0349,0.5363,BETA,BETA,up_beta,Beta,What's Dug doing?,3,spoken,,,3483,,indented,M,,True,False,True,Beta
+up,350,up_s097,up_s097_u0350,0.5363,GAMMA,GAMMA,up_gamma,Gamma,Why's he with that small mailman?,6,spoken,,,3487,,indented,M,,True,False,True,Gamma
+up,351,up_s097,up_s097_u0351,0.5363,BETA,BETA,up_beta,Beta,Where are they?,3,spoken,,,3492,,indented,M,,True,False,True,Beta
+up,352,up_s097,up_s097_u0352,0.5363,ALPHA,ALPHA,up_alpha,Alpha,There he is. Come on!,5,spoken,,,3500,,indented,M,,True,False,True,Alpha
+up,353,up_s098,up_s098_u0353,0.5419,DUG,DUG,up_dug,Dug,Oh please oh please oh PLEASE be my prisoner!,9,spoken,,,3510,,indented,M,,True,False,True,Dug
+up,354,up_s098,up_s098_u0354,0.5419,RUSSELL,RUSSELL,up_russell,Russell,"Dug, stop bothering Kevin!",4,spoken,,,3516,,indented,M,,True,False,True,Russell
+up,355,up_s098,up_s098_u0355,0.5419,DUG,DUG,up_dug,Dug,That man there says I can take the bird and I love that man there like he is my master.,20,spoken,,,3520,,indented,M,,True,False,True,Dug
+up,356,up_s098,up_s098_u0356,0.5419,CARL,CARL,up_carl,Carl,I am not your master!,5,spoken,,,3530,,indented,M,,True,True,True,Carl
+up,357,up_s098,up_s098_u0357,0.5419,DUG,DUG,up_dug,Dug,"I am warning you, once again, bird!",7,spoken,,,3536,,indented,M,,True,False,True,Dug
+up,358,up_s098,up_s098_u0358,0.5419,RUSSELL,RUSSELL,up_russell,Russell,Hey! Quit it!,3,spoken,,,3540,,indented,M,,True,False,True,Russell
+up,359,up_s098,up_s098_u0359,0.5419,DUG,DUG,up_dug,Dug,"I am jumping on you now, bird.",7,spoken,,,3544,,indented,M,,True,False,True,Dug
+up,360,up_s098,up_s098_u0360,0.5419,CARL,CARL,up_carl,Carl,Russell! At this rate we'll never get to the falls!,10,spoken,,,3550,,indented,M,,True,True,True,Carl
+up,361,up_s098,up_s098_u0361,0.5419,CARL,CARL,up_carl,Carl,"I am nobody's master, got it? I don't want you here, ...and I don't want you here. I'm stuck with you. And if you two don't clear out of here by the time I count to three-",37,spoken,,,3563,(points to bird) | (points to Dug) | (points to Russell),indented,M,,True,True,True,Carl
+up,362,up_s098,up_s098_u0362,0.5419,DUG,DUG,up_dug,Dug,A ball! Oh boy oh boy! A ball!,8,spoken,,,3585,,indented,M,,True,False,True,Dug
+up,363,up_s098,up_s098_u0363,0.5419,CARL,CARL,up_carl,Carl,Ball?,1,spoken,,,3589,,indented,M,,True,True,True,Carl
+up,364,up_s098,up_s098_u0364,0.5419,CARL,CARL,up_carl,Carl,You want it boy? Huh? Huh? Yeah?,7,spoken,,,3595,,indented,M,,True,True,True,Carl
+up,365,up_s098,up_s098_u0365,0.5419,DUG,DUG,up_dug,Dug,"Oh oh oh! Yes, I do. I do ever so want the ball!",13,spoken,,,3599,,indented,M,,True,False,True,Dug
+up,366,up_s098,up_s098_u0366,0.5419,CARL,CARL,up_carl,Carl,Go get it!!,3,spoken,,,3605,,indented,M,,True,True,True,Carl
+up,367,up_s098,up_s098_u0367,0.5419,DUG,DUG,up_dug,Dug,"Oh boy, oh boy! I will get it and then bring it back!",13,spoken,,,3611,,indented,M,,True,False,True,Dug
+up,368,up_s098,up_s098_u0368,0.5419,CARL,CARL,up_carl,Carl,"Quick Russell, give me some chocolate.",6,spoken,,,3617,(WHISPERS),indented,M,,True,True,True,Carl
+up,369,up_s098,up_s098_u0369,0.5419,RUSSELL,RUSSELL,up_russell,Russell,Why?,1,spoken,,,3623,,indented,M,,True,False,True,Russell
+up,370,up_s098,up_s098_u0370,0.5419,CARL,CARL,up_carl,Carl,Just give it to me!,5,spoken,,,3627,,indented,M,,True,True,True,Carl
+up,371,up_s098,up_s098_u0371,0.5419,CARL,CARL,up_carl,Carl,Bird. Bird!,2,spoken,,,3633,,indented,M,,True,True,True,Carl
+up,372,up_s098,up_s098_u0372,0.5419,CARL,CARL,up_carl,Carl,C'mon Russell!,2,spoken,,,3642,,indented,M,,True,True,True,Carl
+up,373,up_s098,up_s098_u0373,0.5419,RUSSELL,RUSSELL,up_russell,Russell,"Wait. Wait, Mr. Fredricksen.",4,spoken,,,3646,,indented,M,,True,False,True,Russell
+up,374,up_s100,up_s100_u0374,0.5531,CARL,CARL,up_carl,Carl,Daah!,1,spoken,,,3658,,indented,M,,True,True,True,Carl
+up,375,up_s101,up_s101_u0375,0.5587,CARL,CARL,up_carl,Carl,Aaahh...,1,spoken,,,3668,,indented,M,,True,True,True,Carl
+up,376,up_s102,up_s102_u0376,0.5642,RUSSELL,RUSSELL,up_russell,Russell,What are we doing?,4,spoken,,,3674,,indented,M,,True,False,True,Russell
+up,377,up_s103,up_s103_u0377,0.5698,RUSSELL,RUSSELL,up_russell,Russell,"Hey, uh, we're pretty far now. Kevin's gonna miss me.",10,spoken,,,3684,,indented,M,,True,False,True,Russell
+up,378,up_s104,up_s104_u0378,0.5754,CARL,CARL,up_carl,Carl,I think that did the trick.,6,spoken,,,3697,,indented,M,,True,True,True,Carl
+up,379,up_s104,up_s104_u0379,0.5754,DUG,DUG,up_dug,Dug,"Hi, Master.",2,spoken,,,3703,,indented,M,,True,False,True,Dug
+up,380,up_s104,up_s104_u0380,0.5754,CARL,CARL,up_carl,Carl,Afternoon.,1,spoken,,,3707,,indented,M,,True,True,True,Carl
+up,381,up_s105,up_s105_u0381,0.581,CARL,CARL,up_carl,Carl,"Well, thanks for keeping us dry anyway, Ellie.",8,spoken,,,3727,,indented,M,,True,True,True,Carl
+up,382,up_s105,up_s105_u0382,0.581,RUSSELL,RUSSELL (O.S.),up_russell,Russell,Which one's the front?,4,spoken,,,3733,,indented,M,,True,False,True,Russell
+up,383,up_s105,up_s105_u0383,0.581,RUSSELL,RUSSELL,up_russell,Russell,"Is this step three, or step five?",7,spoken,,,3739,,indented,M,,True,False,True,Russell
+up,384,up_s105,up_s105_u0384,0.581,RUSSELL,RUSSELL,up_russell,Russell,There!,1,spoken,,,3745,,indented,M,,True,False,True,Russell
+up,385,up_s105,up_s105_u0385,0.581,RUSSELL,RUSSELL,up_russell,Russell,All done.,2,spoken,,,3759,,indented,M,,True,False,True,Russell
+up,386,up_s105,up_s105_u0386,0.581,RUSSELL,RUSSELL,up_russell,Russell,That's for you!,3,spoken,,,3766,(pointing to tent),indented,M,,True,False,True,Russell
+up,387,up_s105,up_s105_u0387,0.581,RUSSELL,RUSSELL,up_russell,Russell,Awh. Tents are hard.,4,spoken,,,3776,,indented,M,,True,False,True,Russell
+up,388,up_s105,up_s105_u0388,0.581,CARL,CARL,up_carl,Carl,"Wait, aren't you ""Super Wilderness Guy?"" With the GPM's and the badges?",12,spoken,,,3780,,indented,M,,True,True,True,Carl
+up,389,up_s105,up_s105_u0389,0.581,RUSSELL,RUSSELL,up_russell,Russell,"Yeah, but... can I tell you a secret?",8,spoken,,,3786,,indented,M,,True,False,True,Russell
+up,390,up_s105,up_s105_u0390,0.581,CARL,CARL,up_carl,Carl,No.,1,spoken,,,3792,,indented,M,,True,True,True,Carl
+up,391,up_s105,up_s105_u0391,0.581,RUSSELL,RUSSELL,up_russell,Russell,"Alright, here goes. I never actually built a tent before. There. I said it.",14,spoken,,,3796,,indented,M,,True,False,True,Russell
+up,392,up_s105,up_s105_u0392,0.581,CARL,CARL,up_carl,Carl,"You've been camping before, haven't you?",6,spoken,,,3804,,indented,M,,True,True,True,Carl
+up,393,up_s105,up_s105_u0393,0.581,RUSSELL,RUSSELL,up_russell,Russell,"Well, never outside.",3,spoken,,,3810,,indented,M,,True,False,True,Russell
+up,394,up_s105,up_s105_u0394,0.581,CARL,CARL,up_carl,Carl,"Well, why didn't you ask your Dad how to build a tent?",12,spoken,,,3814,,indented,M,,True,True,True,Carl
+up,395,up_s105,up_s105_u0395,0.581,RUSSELL,RUSSELL,up_russell,Russell,I don't think he wants to talk about this stuff.,10,spoken,,,3820,,indented,M,,True,False,True,Russell
+up,396,up_s105,up_s105_u0396,0.581,CARL,CARL,up_carl,Carl,Why don't you try him sometime? Maybe he'll surprise you.,10,spoken,,,3826,,indented,M,,True,True,True,Carl
+up,397,up_s105,up_s105_u0397,0.581,RUSSELL,RUSSELL,up_russell,Russell,"Well, he's away a lot. I don't see him much.",10,spoken,,,3832,,indented,M,,True,False,True,Russell
+up,398,up_s105,up_s105_u0398,0.581,CARL,CARL,up_carl,Carl,He's got to be home sometime.,6,spoken,,,3838,,indented,M,,True,True,True,Carl
+up,399,up_s105,up_s105_u0399,0.581,RUSSELL,RUSSELL,up_russell,Russell,"Well, I called, but Phyllis told me I bug him too much.",12,spoken,,,3843,,indented,M,,True,False,True,Russell
+up,400,up_s105,up_s105_u0400,0.581,CARL,CARL,up_carl,Carl,Phyllis? You call your own mother by her first name?,10,spoken,,,3849,,indented,M,,True,True,True,Carl
+up,401,up_s105,up_s105_u0401,0.581,RUSSELL,RUSSELL,up_russell,Russell,Phyllis isn't my mom.,4,spoken,,,3855,,indented,M,,True,False,True,Russell
+up,402,up_s105,up_s105_u0402,0.581,CARL,CARL,up_carl,Carl,Oh.,1,spoken,,,3861,,indented,M,,True,True,True,Carl
+up,403,up_s105,up_s105_u0403,0.581,RUSSELL,RUSSELL,up_russell,Russell,"But he promised he'd come to my Explorer ceremony to pin on my Assisting the Elderly badge, so he can show me about tents then, right?",26,spoken,,,3867,,indented,M,,True,False,True,Russell
+up,404,up_s105,up_s105_u0404,0.581,CARL,CARL,up_carl,Carl,"Hey, uh, why don't you get some sleep. Don't want to wake up the traveling flea circus.",17,spoken,,,3883,,indented,M,,True,True,True,Carl
+up,405,up_s105,up_s105_u0405,0.581,RUSSELL,RUSSELL,up_russell,Russell,"Mr. Fredricksen, Dug says he wants to take Kevin prisoner. We have to protect him!",15,spoken,,,3893,,indented,M,,True,False,True,Russell
+up,406,up_s105,up_s105_u0406,0.581,RUSSELL,RUSSELL,up_russell,Russell,Can Kevin go with us?,5,spoken,,,3903,,indented,M,,True,False,True,Russell
+up,407,up_s105,up_s105_u0407,0.581,CARL,CARL,up_carl,Carl,Alright. He can come.,4,spoken,,,3907,,indented,M,,True,True,True,Carl
+up,408,up_s105,up_s105_u0408,0.581,RUSSELL,RUSSELL,up_russell,Russell,Promise you won't leave him?,5,spoken,,,3911,,indented,M,,True,False,True,Russell
+up,409,up_s105,up_s105_u0409,0.581,CARL,CARL,up_carl,Carl,Yeah.,1,spoken,,,3915,,indented,M,,True,True,True,Carl
+up,410,up_s105,up_s105_u0410,0.581,RUSSELL,RUSSELL,up_russell,Russell,Cross your heart?,3,spoken,,,3920,,indented,M,,True,False,True,Russell
+up,411,up_s105,up_s105_u0411,0.581,CARL,CARL,up_carl,Carl,Cross my heart.,3,spoken,,,3926,,indented,M,,True,True,True,Carl
+up,412,up_s105,up_s105_u0412,0.581,CARL,CARL,up_carl,Carl,"What have I got myself into, Ellie?",7,spoken,,,3934,,indented,M,,True,True,True,Carl
+up,413,up_s106,up_s106_u0413,0.5866,CARL,CARL,up_carl,Carl,Morning Sweetheart.,2,spoken,,,3948,,indented,M,,True,True,True,Carl
+up,414,up_s106,up_s106_u0414,0.5866,CARL,CARL,up_carl,Carl,We better get moving.,4,spoken,,,3954,,indented,M,,True,True,True,Carl
+up,415,up_s106,up_s106_u0415,0.5866,CARL,CARL,up_carl,Carl,"Huh. Bird's gone. Maybe Russell won't notice. Alright, everybody up!",10,spoken,,,3960,(calls out),indented,M,,True,True,True,Carl
+up,416,up_s106,up_s106_u0416,0.5866,RUSSELL,RUSSELL,up_russell,Russell,"Where's Kevin? He's wandered off! Kevin! Dug, find Kevin!",9,spoken,,,3972,,indented,M,,True,False,True,Russell
+up,417,up_s106,up_s106_u0417,0.5866,DUG,DUG,up_dug,Dug,Find the bird. Find the bird... POINT!,7,spoken,,,3980,,indented,M,,True,False,True,Dug
+up,418,up_s106,up_s106_u0418,0.5866,RUSSELL,RUSSELL,up_russell,Russell,"Oh, look! There he is.",5,spoken,,,3989,,indented,M,,True,False,True,Russell
+up,419,up_s106,up_s106_u0419,0.5866,DUG,DUG,up_dug,Dug,POINT!,1,spoken,,,3999,,indented,M,,True,False,True,Dug
+up,420,up_s106,up_s106_u0420,0.5866,CARL,CARL,up_carl,Carl,"Hey, that's my food! Get off my roof!",8,spoken,,,4005,,indented,M,,True,True,True,Carl
+up,421,up_s106,up_s106_u0421,0.5866,DUG,DUG,up_dug,Dug,"Yeah, get off of his !",6,spoken,,,4011,,indented,M,,True,False,True,Dug
+up,422,up_s106,up_s106_u0422,0.5866,CARL,CARL,up_carl,Carl,What is it doing?,4,spoken,,,4017,,indented,M,,True,True,True,Carl
+up,423,up_s106,up_s106_u0423,0.5866,DUG,DUG,up_dug,Dug,The bird is calling to her babies.,7,spoken,,,4021,,indented,M,,True,False,True,Dug
+up,424,up_s106,up_s106_u0424,0.5866,RUSSELL,RUSSELL,up_russell,Russell,Her babies! Kevin's a girl?,5,spoken,,,4025,,indented,M,,True,False,True,Russell
+up,425,up_s106,up_s106_u0425,0.5866,DUG,DUG,up_dug,Dug,Her house is over there in those twisty rocks.,9,spoken,,,4031,,indented,M,,True,False,True,Dug
+up,426,up_s106,up_s106_u0426,0.5866,DUG,DUG,up_dug,Dug,She has been gathering food for her babies and must get back to them.,14,spoken,,,4041,,indented,M,,True,False,True,Dug
+up,427,up_s106,up_s106_u0427,0.5866,RUSSELL,RUSSELL,up_russell,Russell,"Wait, Kevin's just leaving? But you promised to protect her!",10,spoken,,,4051,,indented,M,,True,False,True,Russell
+up,428,up_s106,up_s106_u0428,0.5866,RUSSELL,RUSSELL,up_russell,Russell,"Her babies need her, we gotta make sure they're together.",10,spoken,,,4057,,indented,M,,True,False,True,Russell
+up,429,up_s106,up_s106_u0429,0.5866,CARL,CARL,up_carl,Carl,Sorry Russell. We've lost enough time already.,7,spoken,,,4068,,indented,M,,True,True,True,Carl
+up,430,up_s106,up_s106_u0430,0.5866,RUSSELL,RUSSELL,up_russell,Russell,Yeah...,1,spoken,,,4074,,indented,M,,True,False,True,Russell
+up,431,up_s108,up_s108_u0431,0.5978,RUSSELL,RUSSELL,up_russell,Russell,"This was her favorite chocolate. Because you sent her away, there's more for you.",14,spoken,,,4088,,indented,M,,True,False,True,Russell
+up,432,up_s108,up_s108_u0432,0.5978,CARL,CARL,up_carl,Carl,Huh?,1,spoken,,,4100,,indented,M,,True,True,True,Carl
+up,433,up_s108,up_s108_u0433,0.5978,RUSSELL,RUSSELL,up_russell,Russell,Kevin?,1,spoken,,,4104,,indented,M,,True,False,True,Russell
+up,434,up_s108,up_s108_u0434,0.5978,ALPHA,ALPHA,up_alpha,Alpha,Where's the bird? You said you had the bird.,9,spoken,,,4118,(high-pitched voice),indented,M,,True,False,True,Alpha
+up,435,up_s108,up_s108_u0435,0.5978,DUG,DUG,up_dug,Dug,"Oh, yes. Oh, yes. Since I have said that, I can see how you would think that.",17,spoken,,,4126,,indented,M,,True,False,True,Dug
+up,436,up_s108,up_s108_u0436,0.5978,ALPHA,ALPHA,up_alpha,Alpha,Where is it?,3,spoken,,,4135,,indented,M,,True,False,True,Alpha
+up,437,up_s108,up_s108_u0437,0.5978,DUG,DUG,up_dug,Dug,"Uh, tomorrow. Come back tomorrow and then I will again have the bird. Yes.",14,spoken,,,4139,,indented,M,,True,False,True,Dug
+up,438,up_s108,up_s108_u0438,0.5978,ALPHA,ALPHA,up_alpha,Alpha,"You lost it. Why do I not have a surprised feeling? Well, at least you now have lead us to the small mailman and The One Who Smells of Prunes.",30,spoken,,,4149,,indented,M,,True,False,True,Alpha
+up,439,up_s108,up_s108_u0439,0.5978,ALPHA,ALPHA,up_alpha,Alpha,"Master will be most pleased we have found them, and will ask of them many questions. Come!",17,spoken,,,4165,"(commanding, to Carl)",indented,M,,True,False,True,Alpha
+up,440,up_s108,up_s108_u0440,0.5978,CARL,CARL,up_carl,Carl,"Wait, we're not going with you. We're going to the falls!",11,spoken,,,4177,,indented,M,,True,True,True,Carl
+up,441,up_s108,up_s108_u0441,0.5978,CARL,CARL,up_carl,Carl,Get away from me! Get down!,6,spoken,,,4185,,indented,M,,True,True,True,Carl
+up,442,up_s110,up_s110_u0442,0.6089,VOICE,VOICE (O.S.),up_voice,Voice,Stay!,1,spoken,,,4224,,indented,Unknown,,False,False,False,Voice
+up,443,up_s110,up_s110_u0443,0.6089,VOICE,VOICE,up_voice,Voice,You came here in that?,5,spoken,,,4232,,indented,Unknown,,False,False,False,Voice
+up,444,up_s110,up_s110_u0444,0.6089,CARL,CARL,up_carl,Carl,Uh... yeah.,2,spoken,,,4236,,indented,M,,True,True,True,Carl
+up,445,up_s110,up_s110_u0445,0.6089,VOICE,VOICE,up_voice,Voice,In a house? A floating house?,6,spoken,,,4240,,indented,Unknown,,False,False,False,Voice
+up,446,up_s110,up_s110_u0446,0.6089,VOICE,VOICE,up_voice,Voice,"That is the darndest thing I've ever seen! You're not after my bird, are you? But if you need to borrow a cup of sugar, I'd be happy to oblige!",30,spoken,,,4246,,indented,Unknown,,False,False,False,Voice
+up,447,up_s110,up_s110_u0447,0.6089,VOICE,VOICE,up_voice,Voice,"Well, this is all a misunderstanding. My dogs made a mistake.",11,spoken,,,4260,,indented,Unknown,,False,False,False,Voice
+up,448,up_s110,up_s110_u0448,0.6089,CARL,CARL,up_carl,Carl,"Wait, are you Charles Muntz?!",5,spoken,,,4270,,indented,M,,True,True,True,Carl
+up,449,up_s110,up_s110_u0449,0.6089,MUNTZ,MUNTZ,up_muntz,Muntz,Well... Yes.,2,spoken,,,4274,,indented,M,,True,False,True,Muntz
+up,450,up_s110,up_s110_u0450,0.6089,CARL,CARL,up_carl,Carl,The Charles Muntz?,3,spoken,,,4279,,indented,M,,True,True,True,Carl
+up,451,up_s110,up_s110_u0451,0.6089,MUNTZ,MUNTZ,up_muntz,Muntz,"""Adventure is out there!""",4,spoken,,,4285,,indented,M,,True,False,True,Muntz
+up,452,up_s110,up_s110_u0452,0.6089,CARL,CARL,up_carl,Carl,It's really him! That's Charles Muntz!,6,spoken,,,4291,(to Russell),indented,M,,True,True,True,Carl
+up,453,up_s110,up_s110_u0453,0.6089,RUSSELL,RUSSELL,up_russell,Russell,It is?!? Who's Charles Muntz?,5,spoken,,,4299,(EXCITED) | (CONSIDERS),indented,M,,True,False,True,Russell
+up,454,up_s110,up_s110_u0454,0.6089,CARL,CARL,up_carl,Carl,Him!,1,spoken,,,4309,,indented,M,,True,True,True,Carl
+up,455,up_s110,up_s110_u0455,0.6089,DOG WALLA,DOG WALLA,up_dog_walla,Dog Walla,Yes! It is him! He is!,6,spoken,,,4313,,indented,Unknown,,False,False,False,Dog Walla
+up,456,up_s110,up_s110_u0456,0.6089,CARL,CARL,up_carl,Carl,"I'm Carl Fredricksen. My wife and I, we were your biggest fans!",12,spoken,,,4317,,indented,M,,True,True,True,Carl
+up,457,up_s110,up_s110_u0457,0.6089,MUNTZ,MUNTZ,up_muntz,Muntz,"Well, you're a man of good taste!",7,spoken,,,4325,,indented,M,,True,False,True,Muntz
+up,458,up_s110,up_s110_u0458,0.6089,MUNTZ,MUNTZ,up_muntz,Muntz,You must be tired. Hungry?,5,spoken,,,4331,,indented,M,,True,False,True,Muntz
+up,459,up_s110,up_s110_u0459,0.6089,RUSSELL,RUSSELL,up_russell,Russell,Uh-huh.,1,spoken,,,4335,,indented,M,,True,False,True,Russell
+up,460,up_s110,up_s110_u0460,0.6089,MUNTZ,MUNTZ,up_muntz,Muntz,Attention everyone! These people are no longer intruders. They are our guests.,12,spoken,,,4339,(to dogs),indented,M,,True,False,True,Muntz
+up,461,up_s110,up_s110_u0461,0.6089,DOG WALLA,DOG WALLA,up_dog_walla,Dog Walla,Follow me! I like you temporarily. You do smell like prunes. I will not bite you.,16,spoken,,,4352,,indented,Unknown,,False,False,False,Dog Walla
+up,462,up_s111,up_s111_u0462,0.6145,CARL,CARL,up_carl,Carl,Wow.,1,spoken,,,4364,,indented,M,,True,True,True,Carl
+up,463,up_s111,up_s111_u0463,0.6145,GAMMA,GAMMA (O.S.),up_gamma,Gamma,We weren't!,2,spoken,,,4378,,indented,M,,True,False,True,Gamma
+up,464,up_s111,up_s111_u0464,0.6145,MUNTZ,MUNTZ,up_muntz,Muntz,Go ahead and moor your airship right next to mine.,10,spoken,,,4382,,indented,M,,True,False,True,Muntz
+up,465,up_s111,up_s111_u0465,0.6145,CARL,CARL,up_carl,Carl,"We're not actually going inside the ""Spirit of Adventure"" itself?!",10,spoken,,,4392,,indented,M,,True,True,True,Carl
+up,466,up_s111,up_s111_u0466,0.6145,MUNTZ,MUNTZ,up_muntz,Muntz,Oh. Would you like to?,5,spoken,,,4398,,indented,M,,True,False,True,Muntz
+up,467,up_s111,up_s111_u0467,0.6145,CARL,CARL,up_carl,Carl,Would I?!?!,2,spoken,,,4402,,indented,M,,True,True,True,Carl
+up,468,up_s111,up_s111_u0468,0.6145,CARL,CARL,up_carl,Carl,"Wait up, Mr. Muntz!",4,spoken,,,4408,,indented,M,,True,True,True,Carl
+up,469,up_s111,up_s111_u0469,0.6145,CARL,CARL,up_carl,Carl,Jiminy Cricket.,2,spoken,,,4414,,indented,M,,True,True,True,Carl
+up,470,up_s111,up_s111_u0470,0.6145,BETA,BETA,up_beta,Beta,Not you.,2,spoken,,,4420,,indented,M,,True,False,True,Beta
+up,471,up_s111,up_s111_u0471,0.6145,GAMMA,GAMMA,up_gamma,Gamma,What do we do with Dug?,6,spoken,,,4425,,indented,M,,True,False,True,Gamma
+up,472,up_s111,up_s111_u0472,0.6145,ALPHA,ALPHA,up_alpha,Alpha,He has lost the bird. Put him in the Cone of Shame.,12,spoken,,,4429,,indented,M,,True,False,True,Alpha
+up,473,up_s112,up_s112_u0473,0.6201,DUG,DUG,up_dug,Dug,I do not like the Cone of Shame.,8,spoken,,,4443,,indented,M,,True,False,True,Dug
+up,474,up_s113,up_s113_u0474,0.6257,MUNTZ,MUNTZ,up_muntz,Muntz,"Most of the collection is housed in the world's top museums: New York, Munich, London... `Course I kept the best for myself.",22,spoken,,,4459,,indented,M,,True,False,True,Muntz
+up,475,up_s113,up_s113_u0475,0.6257,CARL,CARL,up_carl,Carl,Did you ever! Will you look at that?,8,spoken,,,4469,,indented,M,,True,True,True,Carl
+up,476,up_s113,up_s113_u0476,0.6257,MUNTZ,MUNTZ,up_muntz,Muntz,"Oh yes, the Arsinoitherium. Beast charged while I was brushing my teeth. Used my shaving kit to bring him down.",20,spoken,,,4473,,indented,M,,True,False,True,Muntz
+up,477,up_s113,up_s113_u0477,0.6257,MUNTZ,MUNTZ,up_muntz,Muntz,"Oh, surprise me. Only way to get it out of Ethiopia at the time was to have it declared as ""dental equipment!""",22,spoken,,,4485,(to Carl),indented,M,,True,False,True,Muntz
+up,478,up_s113,up_s113_u0478,0.6257,CARL,CARL,up_carl,Carl,"Oh my gosh, the Giant Somalian Leopard Tortoise!",8,spoken,,,4502,,indented,M,,True,True,True,Carl
+up,479,up_s113,up_s113_u0479,0.6257,MUNTZ,MUNTZ,up_muntz,Muntz,"Oh, you recognize it? I'm impressed! That's an interesting story there...",11,spoken,,,4508,,indented,M,,True,False,True,Muntz
+up,480,up_s113,up_s113_u0480,0.6257,MUNTZ,MUNTZ,up_muntz,Muntz,"Hm, excellent choice. I found it on safari with Roosevelt.",10,spoken,,,4520,(to Carl),indented,M,,True,False,True,Muntz
+up,481,up_s113,up_s113_u0481,0.6257,MUNTZ,MUNTZ,up_muntz,Muntz,"He and I fell into a habit of playing gin rummy in the evenings. And did he cheat? Oh, he was horrible!",22,spoken,,,4534,,indented,M,,True,False,True,Muntz
+up,482,up_s113,up_s113_u0482,0.6257,ALPHA,ALPHA,up_alpha,Alpha,"Master, dinner is ready.",4,spoken,,,4546,(high-pitched voice),indented,M,,True,False,True,Alpha
+up,483,up_s113,up_s113_u0483,0.6257,MUNTZ,MUNTZ,up_muntz,Muntz,"Oh dear, broken translator. It's that loose wire again. There you go big fella.",14,spoken,,,4552,"(leans down, fixes it)",indented,M,,True,False,True,Muntz
+up,484,up_s113,up_s113_u0484,0.6257,ALPHA,ALPHA,up_alpha,Alpha,Thank you Master.,3,spoken,,,4562,(deep scary voice),indented,M,,True,False,True,Alpha
+up,485,up_s113,up_s113_u0485,0.6257,RUSSELL,RUSSELL,up_russell,Russell,I liked his other voice.,5,spoken,,,4570,,indented,M,,True,False,True,Russell
+up,486,up_s113,up_s113_u0486,0.6257,MUNTZ,MUNTZ,up_muntz,Muntz,"Well, dinner is served! Right this way.",7,spoken,,,4576,,indented,M,,True,False,True,Muntz
+up,487,up_s114,up_s114_u0487,0.6313,MUNTZ,MUNTZ,up_muntz,Muntz,"So how are things stateside? Almost tempted to go back a few times, but I have unfinished work here... Please.",20,spoken,,,4589,,indented,M,,True,False,True,Muntz
+up,488,up_s114,up_s114_u0488,0.6313,MUNTZ,MUNTZ,up_muntz,Muntz,I hope you're hungry because Epsilon is the finest chef I've ever had.,13,spoken,,,4603,,indented,M,,True,False,True,Muntz
+up,489,up_s114,up_s114_u0489,0.6313,MUNTZ,MUNTZ,up_muntz,Muntz,"Oh, Epsilon, you've done it again!",6,spoken,,,4617,,indented,M,,True,False,True,Muntz
+up,490,up_s114,up_s114_u0490,0.6313,RUSSELL,RUSSELL,up_russell,Russell,Yes!!,1,spoken,,,4621,,indented,M,,True,False,True,Russell
+up,491,up_s114,up_s114_u0491,0.6313,RUSSELL,RUSSELL,up_russell,Russell,Hey!,1,spoken,,,4629,,indented,M,,True,False,True,Russell
+up,492,up_s114,up_s114_u0492,0.6313,RUSSELL,RUSSELL,up_russell,Russell,Hey!,1,spoken,,,4637,,indented,M,,True,False,True,Russell
+up,493,up_s114,up_s114_u0493,0.6313,CARL,CARL,up_carl,Carl,"Oh my Ellie would have loved all this. You know, it's because of you she had this dream to come down here and live by Paradise Falls.",27,spoken,,,4643,,indented,M,,True,True,True,Carl
+up,494,up_s114,up_s114_u0494,0.6313,MUNTZ,MUNTZ,up_muntz,Muntz,I'm honored. And now you've made it!,7,spoken,,,4658,,indented,M,,True,False,True,Muntz
+up,495,up_s114,up_s114_u0495,0.6313,CARL,CARL,up_carl,Carl,You're sure we're not a bother? I'd hate to impose.,10,spoken,,,4664,,indented,M,,True,True,True,Carl
+up,496,up_s114,up_s114_u0496,0.6313,MUNTZ,MUNTZ,up_muntz,Muntz,No no! It's a pleasure to have,7,spoken,,,4670,,indented,M,,True,False,True,Muntz
+up,497,up_s114,up_s114_u0497,0.6313,DOG WALLA,DOG WALLA,up_dog_walla,Dog Walla,Treat?! Treat! I want a treat!,6,spoken,,,4678,,indented,Unknown,,False,False,False,Dog Walla
+up,498,up_s114,up_s114_u0498,0.6313,MUNTZ,MUNTZ,up_muntz,Muntz,"No no, quiet! Calm down. Calm down...",7,spoken,,,4682,,indented,M,,True,False,True,Muntz
+up,499,up_s114,up_s114_u0499,0.6313,RUSSELL,RUSSELL,up_russell,Russell,Hey!,1,spoken,,,4690,,indented,M,,True,False,True,Russell
+up,500,up_s114,up_s114_u0500,0.6313,MUNTZ,MUNTZ,up_muntz,Muntz,"Shouldn't've used that word... Having guests is a delight. More often I get thieves, come to steal what's rightfully mine.",20,spoken,,,4694,(CONT'D),indented,M,,True,False,True,Muntz
+up,501,up_s114,up_s114_u0501,0.6313,CARL,CARL,up_carl,Carl,No!,1,spoken,,,4706,,indented,M,,True,True,True,Carl
+up,502,up_s114,up_s114_u0502,0.6313,MUNTZ,MUNTZ,up_muntz,Muntz,"They called me a fraud, those... dah! But once I bring back this creature, my name will be cleared.",19,spoken,,,4712,,indented,M,,True,False,True,Muntz
+up,503,up_s114,up_s114_u0503,0.6313,MUNTZ,MUNTZ,up_muntz,Muntz,"Beautiful, isn't it? I've spent a lifetime tracking it. Sometimes years go by between sightings... MUNTZ I've tried to smoke it out of that deathly labyrinth where it lives... Can't go in after it. Once in, there's no way out. Lost so many dogs...",44,spoken,,,4728,(MORE),indented,M,,True,False,True,Muntz
+up,504,up_s114,up_s114_u0504,0.6313,MUNTZ,MUNTZ,up_muntz,Muntz,"And here they come, these bandits, and think the bird is theirs to take! But they soon find that this mountain is a very dangerous place.",26,spoken,,,4753,,indented,M,,True,False,True,Muntz
+up,505,up_s114,up_s114_u0505,0.6313,RUSSELL,RUSSELL,up_russell,Russell,"Hey, that looks like Kevin!",5,spoken,,,4767,,indented,M,,True,False,True,Russell
+up,506,up_s114,up_s114_u0506,0.6313,MUNTZ,MUNTZ,up_muntz,Muntz,"""Kevin?"" RUSSELL Yeah! That's my new giant bird pet. I trained it to follow us.",15,spoken,,,4771,,indented,M,,True,False,True,Muntz
+up,507,up_s114,up_s114_u0507,0.6313,MUNTZ,MUNTZ,up_muntz,Muntz,Follow you? Impossible. How?,4,spoken,,,4783,,indented,M,,True,False,True,Muntz
+up,508,up_s114,up_s114_u0508,0.6313,RUSSELL,RUSSELL,up_russell,Russell,She likes chocolate.,3,spoken,,,4787,,indented,M,,True,False,True,Russell
+up,509,up_s114,up_s114_u0509,0.6313,MUNTZ,MUNTZ,up_muntz,Muntz,Chocolate?,1,spoken,,,4793,,indented,M,,True,False,True,Muntz
+up,510,up_s114,up_s114_u0510,0.6313,RUSSELL,RUSSELL,up_russell,Russell,"Yeah, I gave her some of my chocolate. She goes ga-ga for it.",13,spoken,,,4797,,indented,M,,True,False,True,Russell
+up,511,up_s114,up_s114_u0511,0.6313,CARL,CARL,up_carl,Carl,But it ran off! It's gone now.,7,spoken,,,4805,,indented,M,,True,True,True,Carl
+up,512,up_s114,up_s114_u0512,0.6313,MUNTZ,MUNTZ,up_muntz,Muntz,"You know, Carl. These people who pass through here, they all tell pretty good stories. A ""Surveyor"" making a map.",20,spoken,,,4814,,indented,M,,True,False,True,Muntz
+up,513,up_s114,up_s114_u0513,0.6313,MUNTZ,MUNTZ,up_muntz,Muntz,"A ""Botanist"" cataloguing plants.",4,spoken,,,4828,,indented,M,,True,False,True,Muntz
+up,514,up_s114,up_s114_u0514,0.6313,MUNTZ,MUNTZ,up_muntz,Muntz,An old man taking his house to Paradise Falls.,9,spoken,,,4836,,indented,M,,True,False,True,Muntz
+up,515,up_s114,up_s114_u0515,0.6313,MUNTZ,MUNTZ,up_muntz,Muntz,That's the best one yet. I can't wait to hear how it ends.,13,spoken,,,4844,,indented,M,,True,False,True,Muntz
+up,516,up_s114,up_s114_u0516,0.6313,CARL,CARL,up_carl,Carl,"Well! It's been a wonderful evening, but we'd better be going.",11,spoken,,,4856,,indented,M,,True,True,True,Carl
+up,517,up_s114,up_s114_u0517,0.6313,MUNTZ,MUNTZ,up_muntz,Muntz,"Oh, you're not leaving?",4,spoken,,,4864,,indented,M,,True,False,True,Muntz
+up,518,up_s114,up_s114_u0518,0.6313,CARL,CARL,up_carl,Carl,We don't want to take advantage of your hospitality. Come on Russell.,12,spoken,,,4868,,indented,M,,True,True,True,Carl
+up,519,up_s114,up_s114_u0519,0.6313,RUSSELL,RUSSELL,up_russell,Russell,But we haven't even had dessert yet.,7,spoken,,,4876,,indented,M,,True,False,True,Russell
+up,520,up_s114,up_s114_u0520,0.6313,MUNTZ,MUNTZ,up_muntz,Muntz,"No, the boy's right. You haven't had dessert. Epsilon here makes a delicious Cherries Jubilee.",15,spoken,,,4885,,indented,M,,True,False,True,Muntz
+up,521,up_s114,up_s114_u0521,0.6313,MUNTZ,MUNTZ,up_muntz,Muntz,"Oh, you really must stay. I insist! We have so much more to talk about!",15,spoken,,,4897,,indented,M,,True,False,True,Muntz
+up,522,up_s114,up_s114_u0522,0.6313,RUSSELL,RUSSELL,up_russell,Russell,Kevin?,1,spoken,,,4907,,indented,M,,True,False,True,Russell
+up,523,up_s114,up_s114_u0523,0.6313,MUNTZ,MUNTZ,up_muntz,Muntz,It's here.,2,spoken,,,4915,,indented,M,,True,False,True,Muntz
+up,524,up_s114,up_s114_u0524,0.6313,MUNTZ,MUNTZ,up_muntz,Muntz,Get them!,2,spoken,,,4921,(to dogs),indented,M,,True,False,True,Muntz
+up,525,up_s115,up_s115_u0525,0.6369,CARL,CARL,up_carl,Carl,Hurry!,1,spoken,,,4931,,indented,M,,True,True,True,Carl
+up,526,up_s115,up_s115_u0526,0.6369,RUSSELL,RUSSELL,up_russell,Russell,I am hurrying!,3,spoken,,,4935,,indented,M,,True,False,True,Russell
+up,527,up_s115,up_s115_u0527,0.6369,RUSSELL,RUSSELL,up_russell,Russell,They're coming!,2,spoken,,,4941,,indented,M,,True,False,True,Russell
+up,528,up_s115,up_s115_u0528,0.6369,DUG,DUG (O.S.),up_dug,Dug,"Master, over here!",3,spoken,,,4949,,indented,M,,True,False,True,Dug
+up,529,up_s115,up_s115_u0529,0.6369,DUG,DUG,up_dug,Dug,"Go toward the light, master!",5,spoken,,,4968,,indented,M,,True,False,True,Dug
+up,530,up_s115,up_s115_u0530,0.6369,CARL,CARL,up_carl,Carl,Russell!,1,spoken,,,4992,,indented,M,,True,True,True,Carl
+up,531,up_s116,up_s116_u0531,0.6425,CARL,CARL,up_carl,Carl,Get back!!,2,spoken,,,5004,,indented,M,,True,True,True,Carl
+up,532,up_s116,up_s116_u0532,0.6425,DUG,DUG,up_dug,Dug,Go on Master! I will stop the dogs!,8,spoken,,,5016,,indented,M,,True,False,True,Dug
+up,533,up_s116,up_s116_u0533,0.6425,DUG,DUG,up_dug,Dug,Stop you dogs!!,3,spoken,,,5025,,indented,M,,True,False,True,Dug
+up,534,up_s116,up_s116_u0534,0.6425,RUSSELL,RUSSELL,up_russell,Russell,Help! Help!,2,spoken,,,5041,,indented,M,,True,False,True,Russell
+up,535,up_s116,up_s116_u0535,0.6425,CARL,CARL,up_carl,Carl,Gimme your hand!,3,spoken,,,5047,,indented,M,,True,True,True,Carl
+up,536,up_s116,up_s116_u0536,0.6425,RUSSELL,RUSSELL,up_russell,Russell,Hang on to Kevin!,4,spoken,,,5063,,indented,M,,True,False,True,Russell
+up,537,up_s116,up_s116_u0537,0.6425,RUSSELL,RUSSELL (O.S.),up_russell,Russell,Kevin!,1,spoken,,,5085,,indented,M,,True,False,True,Russell
+up,538,up_s116,up_s116_u0538,0.6425,RUSSELL,RUSSELL,up_russell,Russell,No no no! Kevin! Stay down. She's hurt real bad. Can't we help her get home?,16,spoken,,,5106,(to Carl),indented,M,,True,False,True,Russell
+up,539,up_s116,up_s116_u0539,0.6425,CARL,CARL,up_carl,Carl,Alright. But we've got to hurry.,6,spoken,,,5122,,indented,M,,True,True,True,Carl
+up,540,up_s117,up_s117_u0540,0.648,MUNTZ,MUNTZ,up_muntz,Muntz,You lost them?,3,spoken,,,5130,,indented,M,,True,False,True,Muntz
+up,541,up_s117,up_s117_u0541,0.648,BETA,BETA,up_beta,Beta,"Uh, it was Dug.",4,spoken,,,5134,,indented,M,,True,False,True,Beta
+up,542,up_s117,up_s117_u0542,0.648,GAMMA,GAMMA,up_gamma,Gamma,"Yeah, he's with them. He helped them escape!",8,spoken,,,5138,,indented,M,,True,False,True,Gamma
+up,543,up_s117,up_s117_u0543,0.648,MUNTZ,MUNTZ,up_muntz,Muntz,Wait. Wait a minute. Dug...,5,spoken,,,5146,,indented,M,,True,False,True,Muntz
+up,544,up_s118,up_s118_u0544,0.6536,CARL,CARL,up_carl,Carl,See anything?,2,spoken,,,5165,,indented,M,,True,True,True,Carl
+up,545,up_s118,up_s118_u0545,0.6536,DUG,DUG,up_dug,Dug,"No, my pack is not following us! Boy they are dumb.",11,spoken,,,5169,,indented,M,,True,False,True,Dug
+up,546,up_s118,up_s118_u0546,0.6536,CARL,CARL,up_carl,Carl,This is crazy. I finally meet my childhood hero and he's trying to kill us! What a joke.,18,spoken,,,5179,,indented,M,,True,True,True,Carl
+up,547,up_s118,up_s118_u0547,0.6536,DUG,DUG,up_dug,Dug,"Hey, I know a joke. A squirrel walks up to a tree and says I forgot to store acorns for winter and now I am dead. Ha! It is funny because the squirrel gets dead.",35,spoken,,,5187,,indented,M,,True,False,True,Dug
+up,548,up_s118,up_s118_u0548,0.6536,CARL,CARL,up_carl,Carl,Careful Russell.,2,spoken,,,5201,,indented,M,,True,True,True,Carl
+up,549,up_s118,up_s118_u0549,0.6536,RUSSELL,RUSSELL,up_russell,Russell,"You okay, Kevin?",3,spoken,,,5209,,indented,M,,True,False,True,Russell
+up,550,up_s118,up_s118_u0550,0.6536,RUSSELL,RUSSELL,up_russell,Russell,"You know what, Mr. Fredricksen? The wilderness isn't quite what I expected.",12,spoken,,,5215,,indented,M,,True,False,True,Russell
+up,551,up_s118,up_s118_u0551,0.6536,CARL,CARL,up_carl,Carl,Yeah? How so?,3,spoken,,,5223,,indented,M,,True,True,True,Carl
+up,552,up_s118,up_s118_u0552,0.6536,RUSSELL,RUSSELL,up_russell,Russell,"It's kinda... wild. I mean, it's not how they made it sound in my book.",15,spoken,,,5227,,indented,M,,True,False,True,Russell
+up,553,up_s118,up_s118_u0553,0.6536,CARL,CARL,up_carl,Carl,"Hmm, get used to that, kid.",6,spoken,,,5235,,indented,M,,True,True,True,Carl
+up,554,up_s118,up_s118_u0554,0.6536,RUSSELL,RUSSELL,up_russell,Russell,"My dad made it sound so easy. He's really good at camping, and how to make fire from rocks and stuff. He used to come to all my Sweatlodge meetings.",30,spoken,,,5240,,indented,M,,True,False,True,Russell
+up,555,up_s118,up_s118_u0555,0.6536,RUSSELL,RUSSELL,up_russell,Russell,"And afterwards we'd go get ice cream at Fentons. I always get chocolate and he gets butter- brickle. Then we'd sit on this one curb, right outside, and I'll count all the blue cars and he counts all the red ones, and whoever gets the most, wins. I like that curb.",51,spoken,,,5254,,indented,M,,True,False,True,Russell
+up,556,up_s118,up_s118_u0556,0.6536,RUSSELL,RUSSELL,up_russell,Russell,"That might sound boring, but I think the boring stuff is the stuff I remember the most.",17,spoken,,,5274,,indented,M,,True,False,True,Russell
+up,557,up_s118,up_s118_u0557,0.6536,RUSSELL,RUSSELL,up_russell,Russell,"Look, there it is!",4,spoken,,,5286,,indented,M,,True,False,True,Russell
+up,558,up_s118,up_s118_u0558,0.6536,CARL,CARL,up_carl,Carl,"Hold on Russell, stand still!",5,spoken,,,5296,,indented,M,,True,True,True,Carl
+up,559,up_s118,up_s118_u0559,0.6536,CARL,CARL,up_carl,Carl,Look at that bird go!,5,spoken,,,5310,,indented,M,,True,True,True,Carl
+up,560,up_s118,up_s118_u0560,0.6536,CARL,CARL,up_carl,Carl,"Wait up, you overgrown chicken!",5,spoken,,,5314,,indented,M,,True,True,True,Carl
+up,561,up_s118,up_s118_u0561,0.6536,RUSSELL,RUSSELL,up_russell,Russell,"That's it, go Kevin! Go find your babies!",8,spoken,,,5319,,indented,M,,True,False,True,Russell
+up,562,up_s118,up_s118_u0562,0.6536,RUSSELL,RUSSELL,up_russell,Russell,Run Kevin! Run!,3,spoken,,,5329,,indented,M,,True,False,True,Russell
+up,563,up_s118,up_s118_u0563,0.6536,RUSSELL,RUSSELL,up_russell,Russell,Oh no!,2,spoken,,,5335,,indented,M,,True,False,True,Russell
+up,564,up_s118,up_s118_u0564,0.6536,CARL,CARL,up_carl,Carl,"Russell, give me your knife!",5,spoken,,,5341,,indented,M,,True,True,True,Carl
+up,565,up_s118,up_s118_u0565,0.6536,MUNTZ,MUNTZ (O.S.),up_muntz,Muntz,Get away from my bird!,5,spoken,,,5347,,indented,M,,True,False,True,Muntz
+up,566,up_s120,up_s120_u0566,0.6648,CARL,CARL,up_carl,Carl,No!,1,spoken,,,5367,,indented,M,,True,True,True,Carl
+up,567,up_s120,up_s120_u0567,0.6648,RUSSELL,RUSSELL,up_russell,Russell,No!,1,spoken,,,5377,,indented,M,,True,False,True,Russell
+up,568,up_s120,up_s120_u0568,0.6648,MUNTZ,MUNTZ,up_muntz,Muntz,Careful. We want her in good shape for my return.,10,spoken,,,5390,,indented,M,,True,False,True,Muntz
+up,569,up_s120,up_s120_u0569,0.6648,RUSSELL,RUSSELL,up_russell,Russell,Let her go! Stop!,4,spoken,,,5396,,indented,M,,True,False,True,Russell
+up,570,up_s120,up_s120_u0570,0.6648,RUSSELL,RUSSELL,up_russell,Russell,Kevin!,1,spoken,,,5404,,indented,M,,True,False,True,Russell
+up,571,up_s120,up_s120_u0571,0.6648,RUSSELL,RUSSELL,up_russell,Russell,You gave away Kevin. You just gave her away.,9,spoken,,,5414,,indented,M,,True,False,True,Russell
+up,572,up_s120,up_s120_u0572,0.6648,CARL,CARL,up_carl,Carl,This is none of my concern. I didn't ask for any of this!,13,spoken,,,5420,,indented,M,,True,True,True,Carl
+up,573,up_s120,up_s120_u0573,0.6648,DUG,DUG,up_dug,Dug,Master. It's alright.,3,spoken,,,5426,,indented,M,,True,False,True,Dug
+up,574,up_s120,up_s120_u0574,0.6648,CARL,CARL,up_carl,Carl,"I am not your master! And if you hadn't a shown up, none of this would have happened! Bad dog! Bad dog!",22,spoken,,,5430,,indented,M,,True,True,True,Carl
+up,575,up_s120,up_s120_u0575,0.6648,CARL,CARL,up_carl,Carl,"Now, whether you assist me or not, I am going to Paradise Falls if it kills me.",17,spoken,,,5444,,indented,M,,True,True,True,Carl
+up,576,up_s123,up_s123_u0576,0.6816,RUSSELL,RUSSELL (O.S.),up_russell,Russell,Here.,1,spoken,,,5485,,indented,M,,True,False,True,Russell
+up,577,up_s123,up_s123_u0577,0.6816,RUSSELL,RUSSELL,up_russell,Russell,I don't want this anymore.,5,spoken,,,5491,,indented,M,,True,False,True,Russell
+up,578,up_s126,up_s126_u0578,0.6983,CARL,CARL,up_carl,Carl,Russell?,1,spoken,,,5578,,indented,M,,True,True,True,Carl
+up,579,up_s126,up_s126_u0579,0.6983,CARL,CARL,up_carl,Carl,Russell!,1,spoken,,,5589,,indented,M,,True,True,True,Carl
+up,580,up_s126,up_s126_u0580,0.6983,RUSSELL,RUSSELL,up_russell,Russell,I'm gonna help Kevin even if you won't!,8,spoken,,,5593,,indented,M,,True,False,True,Russell
+up,581,up_s126,up_s126_u0581,0.6983,CARL,CARL,up_carl,Carl,"No, Russell! No!",3,spoken,,,5603,,indented,M,,True,True,True,Carl
+up,582,up_s126,up_s126_u0582,0.6983,CARL,CARL,up_carl,Carl,Wahhoo!,1,spoken,,,5631,,indented,M,,True,True,True,Carl
+up,583,up_s128,up_s128_u0583,0.7095,CARL,CARL,up_carl,Carl,Russell?,1,spoken,,,5652,,indented,M,,True,True,True,Carl
+up,584,up_s129,up_s129_u0584,0.7151,CARL,CARL,up_carl,Carl,Dug!,1,spoken,,,5660,,indented,M,,True,True,True,Carl
+up,585,up_s129,up_s129_u0585,0.7151,DUG,DUG,up_dug,Dug,I was hiding under your porch because I love you. Can I stay?,13,spoken,,,5664,,indented,M,,True,False,True,Dug
+up,586,up_s129,up_s129_u0586,0.7151,CARL,CARL,up_carl,Carl,"Can you stay? Well, you're my dog aren't you? And I'm your master!",13,spoken,,,5670,,indented,M,,True,True,True,Carl
+up,587,up_s129,up_s129_u0587,0.7151,DUG,DUG,up_dug,Dug,You are my master?!,4,spoken,,,5676,,indented,M,,True,False,True,Dug
+up,588,up_s129,up_s129_u0588,0.7151,DUG,DUG,up_dug,Dug,Oh boy. Oh boy!,4,spoken,,,5682,,indented,M,,True,False,True,Dug
+up,589,up_s130,up_s130_u0589,0.7207,CARL,CARL (O.S.),up_carl,Carl,"Good boy, Dug. You're a good boy!",7,spoken,,,5690,,indented,M,,True,True,True,Carl
+up,590,up_s133,up_s133_u0590,0.7374,RUSSELL,RUSSELL,up_russell,Russell,Ooph!,1,spoken,,,5711,,indented,M,,True,False,True,Russell
+up,591,up_s134,up_s134_u0591,0.743,RUSSELL,RUSSELL,up_russell,Russell,Yes! Don't worry Kevin! I'll save -,7,spoken,,,5723,,indented,M,,True,False,True,Russell
+up,592,up_s135,up_s135_u0592,0.7486,MUNTZ,MUNTZ,up_muntz,Muntz,And they wouldn't believe me. Just wait till they get a look at you.,14,spoken,,,5737,,indented,M,,True,False,True,Muntz
+up,593,up_s135,up_s135_u0593,0.7486,ALPHA,ALPHA,up_alpha,Alpha,Master! The small mailman has returned.,6,spoken,,,5745,,indented,M,,True,False,True,Alpha
+up,594,up_s135,up_s135_u0594,0.7486,MUNTZ,MUNTZ,up_muntz,Muntz,What?,1,spoken,,,5751,,indented,M,,True,False,True,Muntz
+up,595,up_s136,up_s136_u0595,0.7542,RUSSELL,RUSSELL,up_russell,Russell,Let me go!,3,spoken,,,5759,,indented,M,,True,False,True,Russell
+up,596,up_s136,up_s136_u0596,0.7542,MUNTZ,MUNTZ,up_muntz,Muntz,Where's your elderly friend?,4,spoken,,,5765,,indented,M,,True,False,True,Muntz
+up,597,up_s136,up_s136_u0597,0.7542,RUSSELL,RUSSELL,up_russell,Russell,He's not my friend anymore.,5,spoken,,,5771,,indented,M,,True,False,True,Russell
+up,598,up_s136,up_s136_u0598,0.7542,MUNTZ,MUNTZ,up_muntz,Muntz,"Well, if you're here, Fredricksen can't be far behind.",9,spoken,,,5778,,indented,M,,True,False,True,Muntz
+up,599,up_s137,up_s137_u0599,0.7598,RUSSELL,RUSSELL,up_russell,Russell,Where are you keeping Kevin!?,5,spoken,,,5788,,indented,M,,True,False,True,Russell
+up,600,up_s138,up_s138_u0600,0.7654,RUSSELL,RUSSELL,up_russell,Russell,Let me go!,3,spoken,,,5796,,indented,M,,True,False,True,Russell
+up,601,up_s138,up_s138_u0601,0.7654,BETA,BETA,up_beta,Beta,"Scream all you want, small mailman.",6,spoken,,,5800,,indented,M,,True,False,True,Beta
+up,602,up_s138,up_s138_u0602,0.7654,GAMMA,GAMMA,up_gamma,Gamma,None of your mailman friends can hear you.,8,spoken,,,5804,,indented,M,,True,False,True,Gamma
+up,603,up_s138,up_s138_u0603,0.7654,RUSSELL,RUSSELL,up_russell,Russell,I'll unleash all my Wilderness Explorer training!,7,spoken,,,5810,,indented,M,,True,False,True,Russell
+up,604,up_s138,up_s138_u0604,0.7654,MUNTZ,MUNTZ,up_muntz,Muntz,"Alpha! Fredricksen's coming back. Guard that bird. If you see the old man, you know what to do.",18,spoken,,,5820,,indented,M,,True,False,True,Muntz
+up,605,up_s138,up_s138_u0605,0.7654,RUSSELL,RUSSELL,up_russell,Russell,"Hey, where are you going? I'm not finished with you!",10,spoken,,,5830,,indented,M,,True,False,True,Russell
+up,606,up_s138,up_s138_u0606,0.7654,MUNTZ,MUNTZ,up_muntz,Muntz,Nice talking with you.,4,spoken,,,5836,,indented,M,,True,False,True,Muntz
+up,607,up_s139,up_s139_u0607,0.7709,MUNTZ,MUNTZ,up_muntz,Muntz,"Where are you, Fredricksen?",4,spoken,,,5851,,indented,M,,True,False,True,Muntz
+up,608,up_s141,up_s141_u0608,0.7821,CARL,CARL,up_carl,Carl,Russell!,1,spoken,,,5873,,indented,M,,True,True,True,Carl
+up,609,up_s142,up_s142_u0609,0.7877,RUSSELL,RUSSELL,up_russell,Russell,Mr. Fredricksen!,2,spoken,,,5889,,indented,M,,True,False,True,Russell
+up,610,up_s142,up_s142_u0610,0.7877,CARL,CARL,up_carl,Carl,Dug! Bring `er over!,4,spoken,,,5893,,indented,M,,True,True,True,Carl
+up,611,up_s143,up_s143_u0611,0.7933,RUSSELL,RUSSELL,up_russell,Russell,You came back for Kevin! Let's go get her.,9,spoken,,,5908,,indented,M,,True,False,True,Russell
+up,612,up_s143,up_s143_u0612,0.7933,CARL,CARL,up_carl,Carl,I'm getting Kevin. You stay here!,6,spoken,,,5914,,indented,M,,True,True,True,Carl
+up,613,up_s143,up_s143_u0613,0.7933,RUSSELL,RUSSELL,up_russell,Russell,But I want to help!,5,spoken,,,5918,,indented,M,,True,False,True,Russell
+up,614,up_s143,up_s143_u0614,0.7933,CARL,CARL,up_carl,Carl,I don't want your help. I want you safe!,9,spoken,,,5922,,indented,M,,True,True,True,Carl
+up,615,up_s144,up_s144_u0615,0.7989,CARL,CARL,up_carl,Carl,How do we get past these dogs?,7,spoken,,,5936,,indented,M,,True,True,True,Carl
+up,616,up_s144,up_s144_u0616,0.7989,DUG,DUG,up_dug,Dug,Uh... POINT!,2,spoken,,,5940,,indented,M,,True,False,True,Dug
+up,617,up_s146,up_s146_u0617,0.8101,CARL,CARL,up_carl,Carl,Kevin!,1,spoken,,,5958,,indented,M,,True,True,True,Carl
+up,618,up_s146,up_s146_u0618,0.8101,CARL,CARL,up_carl,Carl,"Don't worry Kevin, we're on our way!",7,spoken,,,5964,,indented,M,,True,True,True,Carl
+up,619,up_s146,up_s146_u0619,0.8101,ALPHA,ALPHA,up_alpha,Alpha,"Allow no one to be entering through these doors. Guard well that bird, my minions.",15,spoken,,,5975,,indented,M,,True,False,True,Alpha
+up,620,up_s146,up_s146_u0620,0.8101,CARL,CARL,up_carl,Carl,"What do we do now, Dug?",6,spoken,,,5983,(WHISPERS),indented,M,,True,True,True,Carl
+up,621,up_s147,up_s147_u0621,0.8156,CARL,CARL,up_carl,Carl,Who wants the ball?,4,spoken,,,6001,,indented,M,,True,True,True,Carl
+up,622,up_s147,up_s147_u0622,0.8156,DOGS,DOGS,up_dogs,Dogs,Me! I do! I want the ball!,7,spoken,,,6005,,indented,Both,,False,False,False,Dogs
+up,623,up_s147,up_s147_u0623,0.8156,CARL,CARL,up_carl,Carl,Then go get it!,4,spoken,,,6009,,indented,M,,True,True,True,Carl
+up,624,up_s148,up_s148_u0624,0.8212,DOGS,DOGS,up_dogs,Dogs,I'm gonna get there first! Oh gonna get the ball! I'm gonna get it!,14,spoken,,,6019,,indented,Both,,False,False,False,Dogs
+up,625,up_s148,up_s148_u0625,0.8212,GAMMA,GAMMA,up_gamma,Gamma,I got it!!,3,spoken,,,6027,,indented,M,,True,False,True,Gamma
+up,626,up_s148,up_s148_u0626,0.8212,GAMMA,GAMMA,up_gamma,Gamma,Uh-oh.,1,spoken,,,6035,,indented,M,,True,False,True,Gamma
+up,627,up_s149,up_s149_u0627,0.8268,CARL,CARL,up_carl,Carl,I'm sorry Kevin. Let's get you out of here.,9,spoken,,,6044,,indented,M,,True,True,True,Carl
+up,628,up_s150,up_s150_u0628,0.8324,DOG WALLA,DOG WALLA,up_dog_walla,Dog Walla,Master! He's gone! The old man! He's here! He's got the bird! The bird's gone!,15,spoken,,,6056,(on radio),indented,Unknown,,False,False,False,Dog Walla
+up,629,up_s150,up_s150_u0629,0.8324,MUNTZ,MUNTZ,up_muntz,Muntz,What? Calm down! One at a time!,7,spoken,,,6066,,indented,M,,True,False,True,Muntz
+up,630,up_s151,up_s151_u0630,0.838,RUSSELL,RUSSELL,up_russell,Russell,I want to help!,4,spoken,,,6074,,indented,M,,True,False,True,Russell
+up,631,up_s151,up_s151_u0631,0.838,RUSSELL,RUSSELL,up_russell,Russell,Ha ha!,2,spoken,,,6080,,indented,M,,True,False,True,Russell
+up,632,up_s152,up_s152_u0632,0.8436,DOG WALLA,DOG WALLA,up_dog_walla,Dog Walla,He's in Hall D! He's in Hall B! It's the old man!,12,spoken,,,6100,,indented,Unknown,,False,False,False,Dog Walla
+up,633,up_s152,up_s152_u0633,0.8436,MUNTZ,MUNTZ,up_muntz,Muntz,Does anyone know where they are?!?!,6,spoken,,,6107,,indented,M,,True,False,True,Muntz
+up,634,up_s152,up_s152_u0634,0.8436,RUSSELL,RUSSELL,up_russell,Russell,Whoooaaah!,1,spoken,,,6117,,indented,M,,True,False,True,Russell
+up,635,up_s152,up_s152_u0635,0.8436,MUNTZ,MUNTZ,up_muntz,Muntz,Grey leader! Take down the house!,6,spoken,,,6123,(into radio),indented,M,,True,False,True,Muntz
+up,636,up_s154,up_s154_u0636,0.8547,BETA,BETA,up_beta,Beta,"Grey leader, checking in.",4,spoken,,,6141,(into radio),indented,M,,True,False,True,Beta
+up,637,up_s154,up_s154_u0637,0.8547,GAMMA,GAMMA,up_gamma,Gamma,"Grey 2, checking in.",4,spoken,,,6147,,indented,M,,True,False,True,Gamma
+up,638,up_s154,up_s154_u0638,0.8547,OMEGA,OMEGA,up_omega,Omega,"Grey 3, checking in.",4,spoken,,,6151,,indented,M,,True,False,False,Omega
+up,639,up_s154,up_s154_u0639,0.8547,BETA,BETA,up_beta,Beta,Target sighted.,2,spoken,,,6157,,indented,M,,True,False,True,Beta
+up,640,up_s155,up_s155_u0640,0.8603,CARL,CARL,up_carl,Carl,"Come on, Kevin.",3,spoken,,,6174,,indented,M,,True,True,True,Carl
+up,641,up_s156,up_s156_u0641,0.8659,DUG,DUG,up_dug,Dug,Hi.,1,spoken,,,6194,,indented,M,,True,False,True,Dug
+up,642,up_s158,up_s158_u0642,0.8771,MUNTZ,MUNTZ,up_muntz,Muntz,"Any last words, Fredricksen? Come on, spit it out!",9,spoken,,,6232,,indented,M,,True,False,True,Muntz
+up,643,up_s158,up_s158_u0643,0.8771,CARL,CARL,up_carl,Carl,Come on!,2,spoken,,,6243,,indented,M,,True,True,True,Carl
+up,644,up_s158,up_s158_u0644,0.8771,MUNTZ,MUNTZ,up_muntz,Muntz,Enough! I'm taking that bird back with me alive or dead!,11,spoken,,,6253,,indented,M,,True,False,True,Muntz
+up,645,up_s161,up_s161_u0645,0.8939,CARL,CARL,up_carl,Carl,"Come on, Kevin!",3,spoken,,,6297,,indented,M,,True,True,True,Carl
+up,646,up_s163,up_s163_u0646,0.905,ALPHA,ALPHA,up_alpha,Alpha,"I will have many enjoyments for what I am about to do, Dug.",13,spoken,,,6320,,indented,M,,True,False,True,Alpha
+up,647,up_s163,up_s163_u0647,0.905,MISC DOG,MISC DOG,up_misc_dog,Misc Dog,He wears the Cone of Shame!,6,spoken,,,6336,,indented,Unknown,,False,False,False,Misc Dog
+up,648,up_s163,up_s163_u0648,0.905,ALPHA,ALPHA,up_alpha,Alpha,What? Do not just continue sitting! Attack!,7,spoken,,,6340,(high-pitched voice),indented,M,,True,False,True,Alpha
+up,649,up_s163,up_s163_u0649,0.905,ALPHA,ALPHA,up_alpha,Alpha,No! No! Stop your laughing! Get this off of me!,10,spoken,,,6352,(high pitched voice),indented,M,,True,False,True,Alpha
+up,650,up_s163,up_s163_u0650,0.905,DUG,DUG,up_dug,Dug,Listen you dog! Sit!,4,spoken,,,6360,,indented,M,,True,False,True,Dug
+up,651,up_s163,up_s163_u0651,0.905,DOG WALLA,DOG WALLA,up_dog_walla,Dog Walla,"Yes, Alpha.",2,spoken,,,6366,,indented,Unknown,,False,False,False,Dog Walla
+up,652,up_s163,up_s163_u0652,0.905,DUG,DUG,up_dug,Dug,"Alpha? I am not Alpha, he is- Oohhhh!",8,spoken,,,6371,(REALIZING),indented,M,,True,False,True,Dug
+up,653,up_s164,up_s164_u0653,0.9106,RUSSELL,RUSSELL,up_russell,Russell,I can't do it!,4,spoken,,,6387,(out of breath),indented,M,,True,False,True,Russell
+up,654,up_s164,up_s164_u0654,0.9106,CARL,CARL,up_carl,Carl,Russell!,1,spoken,,,6397,(far in the distance),indented,M,,True,True,True,Carl
+up,655,up_s164,up_s164_u0655,0.9106,RUSSELL,RUSSELL,up_russell,Russell,Huh?,1,spoken,,,6403,,indented,M,,True,False,True,Russell
+up,656,up_s164,up_s164_u0656,0.9106,RUSSELL,RUSSELL,up_russell,Russell,You leave Mr. Fredricksen alone!,5,spoken,,,6409,,indented,M,,True,False,True,Russell
+up,657,up_s164,up_s164_u0657,0.9106,RUSSELL,RUSSELL,up_russell,Russell,Hey! Squirrel!,2,spoken,,,6423,(pointing down),indented,M,,True,False,True,Russell
+up,658,up_s164,up_s164_u0658,0.9106,GAMMA,GAMMA,up_gamma,Gamma,Squirrel?,1,spoken,,,6433,,indented,M,,True,False,True,Gamma
+up,659,up_s164,up_s164_u0659,0.9106,OMEGA,OMEGA,up_omega,Omega,Where's the squirrel?!,3,spoken,,,6437,,indented,M,,True,False,False,Omega
+up,660,up_s164,up_s164_u0660,0.9106,GAMMA,GAMMA,up_gamma,Gamma,I hate squirrels.,3,spoken,,,6446,,indented,M,,True,False,True,Gamma
+up,661,up_s166,up_s166_u0661,0.9218,CARL,CARL,up_carl,Carl,Dug!,1,spoken,,,6468,,indented,M,,True,True,True,Carl
+up,662,up_s166,up_s166_u0662,0.9218,DUG,DUG,up_dug,Dug,Master!,1,spoken,,,6474,,indented,M,,True,False,True,Dug
+up,663,up_s166,up_s166_u0663,0.9218,CARL,CARL,up_carl,Carl,Russell!! Over here!! Let's go!,5,spoken,,,6480,,indented,M,,True,True,True,Carl
+up,664,up_s166,up_s166_u0664,0.9218,RUSSELL,RUSSELL,up_russell,Russell,Mr. Fredricksen!,2,spoken,,,6486,,indented,M,,True,False,True,Russell
+up,665,up_s166,up_s166_u0665,0.9218,CARL,CARL,up_carl,Carl,"Come on, Kevin!",3,spoken,,,6494,,indented,M,,True,True,True,Carl
+up,666,up_s166,up_s166_u0666,0.9218,CARL,CARL,up_carl,Carl,No!,1,spoken,,,6515,,indented,M,,True,True,True,Carl
+up,667,up_s166,up_s166_u0667,0.9218,CARL,CARL,up_carl,Carl,Russell! Get out of there!,5,spoken,,,6529,,indented,M,,True,True,True,Carl
+up,668,up_s166,up_s166_u0668,0.9218,CARL,CARL,up_carl,Carl,No! Leave them alone!,4,spoken,,,6541,,indented,M,,True,True,True,Carl
+up,669,up_s170,up_s170_u0669,0.9441,CARL,CARL,up_carl,Carl,Russell! Hang on to Kevin! Don't let go of her!,10,spoken,,,6578,,indented,M,,True,True,True,Carl
+up,670,up_s172,up_s172_u0670,0.9553,CARL,CARL,up_carl,Carl,Kevin! Chocolate!,2,spoken,,,6598,,indented,M,,True,True,True,Carl
+up,671,up_s175,up_s175_u0671,0.9721,RUSSELL,RUSSELL,up_russell,Russell,That was cool!,3,spoken,,,6641,,indented,M,,True,False,True,Russell
+up,672,up_s175,up_s175_u0672,0.9721,CARL,CARL,up_carl,Carl,"Don't jerk around so much, kid!",6,spoken,,,6651,,indented,M,,True,True,True,Carl
+up,673,up_s175,up_s175_u0673,0.9721,DUG,DUG,up_dug,Dug,Oh I am ready to not be up high.,9,spoken,,,6657,,indented,M,,True,False,True,Dug
+up,674,up_s175,up_s175_u0674,0.9721,RUSSELL,RUSSELL,up_russell,Russell,"Sorry about your house, Mr. Fredricksen.",6,spoken,,,6667,,indented,M,,True,False,True,Russell
+up,675,up_s175,up_s175_u0675,0.9721,CARL,CARL,up_carl,Carl,"You know, it's just a house.",6,spoken,,,6675,,indented,M,,True,True,True,Carl
+up,676,up_s176,up_s176_u0676,0.9777,CARL,CARL,up_carl,Carl,Ow! Ow! Ow!,3,spoken,,,6691,,indented,M,,True,True,True,Carl
+up,677,up_s176,up_s176_u0677,0.9777,RUSSELL,RUSSELL,up_russell,Russell,Look at you. You're so soft.,6,spoken,,,6695,,indented,M,,True,False,True,Russell
+up,678,up_s176,up_s176_u0678,0.9777,CARL/RUSSELL,CARL/RUSSELL,up_carl_russell,Carl/Russell,Awwww!,1,spoken,,,6704,(DISAPPOINTED),indented,M,,False,False,False,Carl/Russell
+up,679,up_s176,up_s176_u0679,0.9777,RUSSELL,RUSSELL,up_russell,Russell,I wish I could keep one.,6,spoken,,,6710,,indented,M,,True,False,True,Russell
+up,680,up_s176,up_s176_u0680,0.9777,CARL,CARL,up_carl,Carl,"Huh, where's my cane? I just had it here...",9,spoken,,,6718,,indented,M,,True,True,True,Carl
+up,681,up_s176,up_s176_u0681,0.9777,CARL,CARL,up_carl,Carl,You know what? Keep `em. A little gift from me to you.,12,spoken,,,6728,,indented,M,,True,True,True,Carl
+up,682,up_s176,up_s176_u0682,0.9777,RUSSELL,RUSSELL,up_russell,Russell,Bye Kevin!,2,spoken,,,6736,,indented,M,,True,False,True,Russell
+up,683,up_s177,up_s177_u0683,0.9832,RUSSELL,RUSSELL,up_russell,Russell,Ready?,1,spoken,,,6750,,indented,M,,True,False,True,Russell
+up,684,up_s177,up_s177_u0684,0.9832,CARL,CARL,up_carl,Carl,Ready!,1,spoken,,,6756,,indented,M,,True,True,True,Carl
+up,685,up_s179,up_s179_u0685,0.9944,CAMP MASTER STRAUCH,CAMP MASTER STRAUCH,up_camp_master_strauch,Camp Master Strauch,"...and by receiving their badges, the following Explorers will graduate to Senior Explorers.",13,spoken,,,6773,,indented,M,,True,False,True,Camp Master Strauch
+up,686,up_s179,up_s179_u0686,0.9944,CAMP MASTER STRAUCH,CAMP MASTER STRAUCH,up_camp_master_strauch,Camp Master Strauch,"For Extreme Mountaineering Lore... Congratulations, Jimmy. For Wild Animal Defensive Arts... Congratulations, Brandon. For Assisting the Elderly...",17,spoken,,,6787,(hands badge to dad) | (hands badge),indented,M,,True,False,True,Camp Master Strauch
+up,687,up_s179,up_s179_u0687,0.9944,CAMP MASTER STRAUCH,CAMP MASTER STRAUCH,up_camp_master_strauch,Camp Master Strauch,"Uh, Russell? Is there... someone that... uh...",7,spoken,,,6805,,indented,M,,True,False,True,Camp Master Strauch
+up,688,up_s179,up_s179_u0688,0.9944,CARL,CARL (O.S.),up_carl,Carl,Excuse me. Pardon me. Old man coming through.,8,spoken,,,6815,,indented,M,,True,True,True,Carl
+up,689,up_s179,up_s179_u0689,0.9944,CARL,CARL,up_carl,Carl,I'm here for him.,4,spoken,,,6823,(to Camp Master),indented,M,,True,True,True,Carl
+up,690,up_s179,up_s179_u0690,0.9944,CAMP MASTER STRAUCH,CAMP MASTER STRAUCH,up_camp_master_strauch,Camp Master Strauch,"Congratulations, Russell. Sir...",3,spoken,,,6829,,indented,M,,True,False,True,Camp Master Strauch
+up,691,up_s179,up_s179_u0691,0.9944,CARL,CARL,up_carl,Carl,"Russell, for assisting the elderly, and for performing above and beyond the call of duty, I would like to award you the highest honor I can bestow: The Ellie Badge.",30,spoken,,,6838,,indented,M,,True,True,True,Carl
+up,692,up_s179,up_s179_u0692,0.9944,RUSSELL,RUSSELL,up_russell,Russell,Wow.,1,spoken,,,6854,,indented,M,,True,False,True,Russell
+up,693,up_s179,up_s179_u0693,0.9944,CAMP MASTER STRAUCH,CAMP MASTER STRAUCH,up_camp_master_strauch,Camp Master Strauch,"Alright, I think that covers everybody... So let's give a big Explorer Call to our brand new Senior Wilderness Explorers! Ready everybody?",22,spoken,,,6868,,indented,M,,True,False,True,Camp Master Strauch
+up,694,up_s180,up_s180_u0694,1.0,RUSSELL,RUSSELL,up_russell,Russell,Blue one.,2,spoken,,,6896,,indented,M,,True,False,True,Russell
+up,695,up_s180,up_s180_u0695,1.0,CARL,CARL,up_carl,Carl,Red one.,2,spoken,,,6900,,indented,M,,True,True,True,Carl
+up,696,up_s180,up_s180_u0696,1.0,DUG,DUG,up_dug,Dug,Grey one.,2,spoken,,,6904,,indented,M,,True,False,True,Dug
+up,697,up_s180,up_s180_u0697,1.0,CARL,CARL,up_carl,Carl,Red one.,2,spoken,,,6908,,indented,M,,True,True,True,Carl
+up,698,up_s180,up_s180_u0698,1.0,RUSSELL,RUSSELL,up_russell,Russell,That's a bike!,3,spoken,,,6915,,indented,M,,True,False,True,Russell
+up,699,up_s180,up_s180_u0699,1.0,CARL,CARL,up_carl,Carl,"It's red, isn't it?",4,spoken,,,6919,,indented,M,,True,True,True,Carl
+up,700,up_s180,up_s180_u0700,1.0,RUSSELL,RUSSELL,up_russell,Russell,"Mr. Fredricksen, you're cheating.",4,spoken,,,6923,,indented,M,,True,False,True,Russell
+up,701,up_s180,up_s180_u0701,1.0,CARL,CARL,up_carl,Carl,"No, I'm not. Red one.",5,spoken,,,6927,,indented,M,,True,True,True,Carl
+up,702,up_s180,up_s180_u0702,1.0,RUSSELL,RUSSELL,up_russell,Russell,That's a fire hydrant.,4,spoken,,,6931,,indented,M,,True,False,True,Russell
+up,703,up_s180,up_s180_u0703,1.0,CARL,CARL,up_carl,Carl,Maybe I need new glasses.,5,spoken,,,6937,,indented,M,,True,True,True,Carl

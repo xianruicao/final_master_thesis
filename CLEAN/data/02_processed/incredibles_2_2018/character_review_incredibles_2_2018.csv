@@ -1,0 +1,61 @@
+film_id,parser_character_id,review_character_id,parser_canonical_name,canonical_name,raw_speaker_labels,raw_speaker_label_variant_count,gender,gender_rationale,is_named,is_protagonist,included_in_network,merge_into_character_id,utterance_count,spoken_utterance_count,song_utterance_count,word_count_total,word_count_spoken_only,word_count_song_only,first_scene_id,first_event_id,review_notes
+incredibles_2_2018,incredibles_2_2018_bob,incredibles_2_2018_bob,Bob,Bob,Bob,1,M,,1,1,1,,182,181,1,1877,1850,27,incredibles_2_2018_s002,78,
+incredibles_2_2018,incredibles_2_2018_elastigirl,incredibles_2_2018_elastigirl,Elastigirl,Elastigirl,Elastigirl,1,F,,1,0,1,,129,129,0,1296,1296,0,incredibles_2_2018_s001,16,
+incredibles_2_2018,incredibles_2_2018_violet,incredibles_2_2018_violet,Violet,Violet,Violet,1,F,,1,0,1,,127,124,3,1248,1233,15,incredibles_2_2018_s001,6,
+incredibles_2_2018,incredibles_2_2018_dash,incredibles_2_2018_dash,Dash,Dash,Dash,1,M,,1,0,1,,100,100,0,538,538,0,incredibles_2_2018_s001,22,
+incredibles_2_2018,incredibles_2_2018_evelyn,incredibles_2_2018_evelyn,Evelyn,Evelyn,Evelyn,1,F,,1,0,1,,96,95,1,951,948,3,incredibles_2_2018_s006,196,Evelyn Deavor / Screenslaver
+incredibles_2_2018,incredibles_2_2018_helen,incredibles_2_2018_helen,Helen,Helen,Helen,1,F,,1,0,0,incredibles_2_2018_elastigirl,75,75,0,778,778,0,incredibles_2_2018_s003,86,alias of Elastigirl (civilian name)
+incredibles_2_2018,incredibles_2_2018_winston,incredibles_2_2018_winston,Winston,Winston,Winston,1,M,,1,0,1,,59,59,0,1244,1244,0,incredibles_2_2018_s001,59,
+incredibles_2_2018,incredibles_2_2018_mr_incredible,incredibles_2_2018_mr_incredible,Mr. Incredible,Mr. Incredible,Mr. Incredible,1,M,,1,0,0,incredibles_2_2018_bob,52,51,1,526,520,6,incredibles_2_2018_s001,15,alias of Bob (superhero name)
+incredibles_2_2018,incredibles_2_2018_tony,incredibles_2_2018_tony,Tony,Tony,Tony,1,M,,1,0,1,,30,29,1,312,309,3,incredibles_2_2018_s001,4,
+incredibles_2_2018,incredibles_2_2018_lucius,incredibles_2_2018_lucius,Lucius,Lucius,Lucius,1,M,,1,0,0,incredibles_2_2018_frozone,23,23,0,276,276,0,incredibles_2_2018_s005,156,alias of Frozone (civilian name)
+incredibles_2_2018,incredibles_2_2018_frozone,incredibles_2_2018_frozone,Frozone,Frozone,Frozone,1,M,,1,0,1,,22,22,0,180,180,0,incredibles_2_2018_s001,68,
+incredibles_2_2018,incredibles_2_2018_edna,incredibles_2_2018_edna,Edna,Edna,Edna,1,F,,1,0,1,,17,16,1,513,483,30,incredibles_2_2018_s023,687,
+incredibles_2_2018,incredibles_2_2018_voyd,incredibles_2_2018_voyd,Voyd,Voyd,Voyd,1,F,,1,0,1,,17,17,0,178,178,0,incredibles_2_2018_s019,490,
+incredibles_2_2018,incredibles_2_2018_rick,incredibles_2_2018_rick,Rick,Rick,Rick,1,M,,1,0,1,,14,14,0,186,186,0,incredibles_2_2018_s001,3,Rick Dicker
+incredibles_2_2018,incredibles_2_2018_chad,incredibles_2_2018_chad,Chad,Chad,Chad,1,M,,1,0,1,,13,13,0,264,264,0,incredibles_2_2018_s017,421,news reporter
+incredibles_2_2018,incredibles_2_2018_ambassador,incredibles_2_2018_ambassador,Ambassador,Ambassador,Ambassador,1,F,,0,0,1,,10,10,0,84,84,0,incredibles_2_2018_s017,422,
+incredibles_2_2018,incredibles_2_2018_jack_jack,incredibles_2_2018_jack_jack,Jack-Jack,Jack-Jack,Jack-Jack,1,M,,1,0,1,,9,9,0,19,19,0,incredibles_2_2018_s004,117,
+incredibles_2_2018,incredibles_2_2018_underminer,incredibles_2_2018_underminer,Underminer,Underminer,Underminer,1,M,,1,0,1,,7,7,0,136,136,0,incredibles_2_2018_s001,12,
+incredibles_2_2018,incredibles_2_2018_man,incredibles_2_2018_man,Man,Man,Man,1,M,,0,0,1,,6,6,0,36,36,0,incredibles_2_2018_s006,181,
+incredibles_2_2018,incredibles_2_2018_screenslaver,incredibles_2_2018_screenslaver,Screenslaver,Screenslaver,Screenslaver,1,F,,0,0,0,incredibles_2_2018_evelyn,5,5,0,204,204,0,incredibles_2_2018_s017,447,Evelyn Deavor in disguise
+incredibles_2_2018,incredibles_2_2018_tommy,incredibles_2_2018_tommy,Tommy,Tommy,Tommy,1,M,,1,0,0,,4,4,0,24,24,0,incredibles_2_2018_s001,67,
+incredibles_2_2018,incredibles_2_2018_brick,incredibles_2_2018_brick,Brick,Brick,Brick,1,F,,1,0,0,,3,3,0,6,6,0,incredibles_2_2018_s019,499,
+incredibles_2_2018,incredibles_2_2018_crew_member,incredibles_2_2018_crew_member,Crew Member,Crew Member,Crew member,1,M,,0,0,0,,3,2,1,13,10,3,incredibles_2_2018_s034,922,
+incredibles_2_2018,incredibles_2_2018_dispatcher,incredibles_2_2018_dispatcher,Dispatcher,Dispatcher,Dispatcher,1,M,,0,0,0,,3,3,0,22,22,0,incredibles_2_2018_s011,325,
+incredibles_2_2018,incredibles_2_2018_jonny_quest,incredibles_2_2018_jonny_quest,Jonny Quest,Jonny Quest,Jonny Quest,1,M,,1,0,0,,3,3,0,17,17,0,incredibles_2_2018_s027,744,
+incredibles_2_2018,incredibles_2_2018_krushauer,incredibles_2_2018_krushauer,Krushauer,Krushauer,Krushauer,1,M,,1,0,0,,3,3,0,23,23,0,incredibles_2_2018_s036,978,
+incredibles_2_2018,incredibles_2_2018_mayor,incredibles_2_2018_mayor,Mayor,Mayor,Mayor,1,M,,0,0,0,,3,3,0,58,58,0,incredibles_2_2018_s013,343,
+incredibles_2_2018,incredibles_2_2018_bodyguard,incredibles_2_2018_bodyguard,Bodyguard,Bodyguard,Bodyguard,1,M,,0,0,0,,2,2,0,11,11,0,incredibles_2_2018_s017,428,
+incredibles_2_2018,incredibles_2_2018_both,incredibles_2_2018_both,Both,Both,Both,1,Both,,0,0,0,,2,2,0,7,7,0,incredibles_2_2018_s005,154,parser artifact
+incredibles_2_2018,incredibles_2_2018_buyer,incredibles_2_2018_buyer,Buyer,Buyer,Buyer,1,M,,0,0,0,,2,2,0,26,26,0,incredibles_2_2018_s022,607,
+incredibles_2_2018,incredibles_2_2018_dr_quest,incredibles_2_2018_dr_quest,Dr. Quest,Dr. Quest,Dr. Quest,1,M,,1,0,0,,2,2,0,9,9,0,incredibles_2_2018_s027,745,
+incredibles_2_2018,incredibles_2_2018_news_anchor,incredibles_2_2018_news_anchor,News Anchor,News Anchor,News anchor,1,F,,0,0,0,,2,2,0,26,26,0,incredibles_2_2018_s022,606,
+incredibles_2_2018,incredibles_2_2018_officer,incredibles_2_2018_officer,Officer,Officer,Officer,1,M,,0,0,0,,2,2,0,5,5,0,incredibles_2_2018_s001,65,
+incredibles_2_2018,incredibles_2_2018_pizza_delivery_guy,incredibles_2_2018_pizza_delivery_guy,Pizza Delivery Guy,Pizza Delivery Guy,Pizza Delivery Guy,1,M,,0,0,0,,2,2,0,16,16,0,incredibles_2_2018_s021,596,
+incredibles_2_2018,incredibles_2_2018_producer,incredibles_2_2018_producer,Producer,Producer,Producer,1,M,,0,0,0,,2,2,0,10,10,0,incredibles_2_2018_s017,425,
+incredibles_2_2018,incredibles_2_2018_reporter,incredibles_2_2018_reporter,Reporter,Reporter,Reporter,1,F,,0,0,0,,2,2,0,70,70,0,incredibles_2_2018_s002,70,
+incredibles_2_2018,incredibles_2_2018_violet_and_dash,incredibles_2_2018_violet_and_dash,Violet And Dash,Violet And Dash,Violet and Dash,1,Both,,0,0,0,,2,2,0,7,7,0,incredibles_2_2018_s029,809,parser artifact
+incredibles_2_2018,incredibles_2_2018_woman,incredibles_2_2018_woman,Woman,Woman,Woman,1,F,,0,0,0,,2,2,0,13,13,0,incredibles_2_2018_s009,304,
+incredibles_2_2018,incredibles_2_2018_cameraman,incredibles_2_2018_cameraman,Cameraman,Cameraman,Cameraman,1,M,,0,0,0,,1,1,0,2,2,0,incredibles_2_2018_s017,436,
+incredibles_2_2018,incredibles_2_2018_cop,incredibles_2_2018_cop,Cop,Cop,Cop,1,M,,0,0,0,,1,1,0,6,6,0,incredibles_2_2018_s021,599,
+incredibles_2_2018,incredibles_2_2018_driver,incredibles_2_2018_driver,Driver,Driver,Driver,1,M,,0,0,0,,1,1,0,2,2,0,incredibles_2_2018_s013,370,
+incredibles_2_2018,incredibles_2_2018_employee,incredibles_2_2018_employee,Employee,Employee,Employee,1,M,,0,0,0,,1,1,0,11,11,0,incredibles_2_2018_s017,454,
+incredibles_2_2018,incredibles_2_2018_frozone_and_winston,incredibles_2_2018_frozone_and_winston,Frozone And Winston,Frozone And Winston,Frozone and Winston,1,Both,,0,0,0,,1,1,0,5,5,0,incredibles_2_2018_s006,193,parser artifact
+incredibles_2_2018,incredibles_2_2018_he_lectrix,incredibles_2_2018_he_lectrix,He-Lectrix,He-Lectrix,He-Lectrix,1,M,,1,0,0,,1,1,0,14,14,0,incredibles_2_2018_s019,503,
+incredibles_2_2018,incredibles_2_2018_honey,incredibles_2_2018_honey,Honey,Honey,Honey,1,F,,1,0,0,,1,1,0,14,14,0,incredibles_2_2018_s029,820,Honey Best / Frozone's wife
+incredibles_2_2018,incredibles_2_2018_interviewer,incredibles_2_2018_interviewer,Interviewer,Interviewer,Interviewer,1,F,,0,0,0,,1,1,0,11,11,0,incredibles_2_2018_s022,615,
+incredibles_2_2018,incredibles_2_2018_judge,incredibles_2_2018_judge,Judge,Judge,Judge,1,M,,0,0,0,,1,1,0,18,18,0,incredibles_2_2018_s036,1040,
+incredibles_2_2018,incredibles_2_2018_mr_incredible_and_frozone,incredibles_2_2018_mr_incredible_and_frozone,Mr. Incredible And Frozone,Mr. Incredible And Frozone,Mr. Incredible and Frozone,1,Both,,0,0,0,,1,1,0,4,4,0,incredibles_2_2018_s036,987,parser artifact
+incredibles_2_2018,incredibles_2_2018_mr_incredible_and_winston,incredibles_2_2018_mr_incredible_and_winston,Mr. Incredible And Winston,Mr. Incredible And Winston,Mr. Incredible and Winston,1,Both,,0,0,0,,1,1,0,10,10,0,incredibles_2_2018_s006,191,parser artifact
+incredibles_2_2018,incredibles_2_2018_old_lady,incredibles_2_2018_old_lady,Old Lady,Old Lady,Old Lady,1,F,,0,0,0,,1,1,0,25,25,0,incredibles_2_2018_s001,48,
+incredibles_2_2018,incredibles_2_2018_passenger,incredibles_2_2018_passenger,Passenger,Passenger,Passenger,1,M,,0,0,0,,1,1,0,5,5,0,incredibles_2_2018_s013,368,
+incredibles_2_2018,incredibles_2_2018_pilot,incredibles_2_2018_pilot,Pilot,Pilot,Pilot,1,M,,0,0,0,,1,1,0,6,6,0,incredibles_2_2018_s017,456,
+incredibles_2_2018,incredibles_2_2018_pilots_and_bodyguard,incredibles_2_2018_pilots_and_bodyguard,Pilots And Bodyguard,Pilots And Bodyguard,Pilots and bodyguard,1,Both,,0,0,0,,1,1,0,1,1,0,incredibles_2_2018_s017,463,parser artifact/group
+incredibles_2_2018,incredibles_2_2018_race,incredibles_2_2018_race,Race,Race,Race,1,M,,0,0,0,,1,1,0,2,2,0,incredibles_2_2018_s027,746,
+incredibles_2_2018,incredibles_2_2018_reflux,incredibles_2_2018_reflux,Reflux,Reflux,Reflux,1,M,,1,0,0,,1,1,0,24,24,0,incredibles_2_2018_s019,504,
+incredibles_2_2018,incredibles_2_2018_rick_dicker,incredibles_2_2018_rick_dicker,Rick Dicker,Rick Dicker,Rick Dicker,1,M,,1,0,0,incredibles_2_2018_rick,1,1,0,10,10,0,incredibles_2_2018_s001,1,alias of Rick
+incredibles_2_2018,incredibles_2_2018_screech,incredibles_2_2018_screech,Screech,Screech,Screech,1,M,,1,0,0,,1,1,0,14,14,0,incredibles_2_2018_s019,497,
+incredibles_2_2018,incredibles_2_2018_the_parr_family,incredibles_2_2018_the_parr_family,The Parr Family,The Parr Family,The Parr family,1,Both,,0,0,0,,1,1,0,1,1,0,incredibles_2_2018_s001,63,group label
+incredibles_2_2018,incredibles_2_2018_tony_rydinger,incredibles_2_2018_tony_rydinger,Tony Rydinger,Tony Rydinger,Tony Rydinger,1,M,,1,0,0,incredibles_2_2018_tony,1,1,0,4,4,0,incredibles_2_2018_s001,2,alias of Tony
+incredibles_2_2018,incredibles_2_2018_victor_catchet,incredibles_2_2018_victor_catchet,Victor Catchet,Victor Catchet,Victor Catchet,1,M,,1,0,0,,1,1,0,6,6,0,incredibles_2_2018_s022,609,Interpol agent

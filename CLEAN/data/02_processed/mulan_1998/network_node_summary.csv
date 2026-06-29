@@ -1,0 +1,14 @@
+character,name,betweenness,degree_centrality,in_degree,out_degree,clustering
+mulan_1998_mulan,Mulan,0.5,1.0833,9,4,0.0284
+mulan_1998_shang,Shang,0.2727,0.5833,4,3,0.2527
+mulan_1998_chi_fu,Chi Fu,0.0833,0.5,2,4,0.2337
+mulan_1998_fa_li,Fa Li,0.0606,0.1667,1,1,0.0
+mulan_1998_yao,Yao,0.0606,0.1667,1,1,0.0
+mulan_1998_fa_zhou,Fa Zhou,0.0,0.1667,1,1,0.0
+mulan_1998_emperor,Emperor,0.0,0.5,3,3,0.1825
+mulan_1998_chien_po,Chien-Po,0.0,0.0833,0,1,0.0
+mulan_1998_general_li,General Li,0.0,0.25,1,2,0.2025
+mulan_1998_ling,Ling,0.0,0.1667,1,1,0.0
+mulan_1998_grandma_fa,Grandma Fa,0.0,0.0833,0,1,0.0
+mulan_1998_shan_yu,Shan-Yu,0.0,0.0833,0,1,0.0
+mulan_1998_mushu,Mushu,0.0,0.1667,1,1,0.0

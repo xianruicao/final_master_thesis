@@ -1,0 +1,15 @@
+character,name,betweenness,degree_centrality,in_degree,out_degree,clustering
+monsters_inc_2001_mike,Mike,0.2949,1.0,6,7,0.0688
+monsters_inc_2001_sulley,Sulley,0.25,1.0,7,6,0.0524
+monsters_inc_2001_randall,Randall,0.0962,0.5385,4,3,0.0792
+monsters_inc_2001_charlie,Charlie,0.0,0.0769,0,1,0.0
+monsters_inc_2001_boo,Boo,0.0,0.3077,2,2,0.2425
+monsters_inc_2001_celia,Celia,0.0,0.2308,2,1,0.2537
+monsters_inc_2001_jerry,Jerry,0.0,0.0769,0,1,0.0
+monsters_inc_2001_george,George,0.0,0.0769,1,0,0.0
+monsters_inc_2001_fungus,Fungus,0.0,0.1538,1,1,0.0
+monsters_inc_2001_needleman,Needleman,0.0,0.1538,1,1,0.0
+monsters_inc_2001_roz,Roz,0.0,0.2308,1,2,0.1651
+monsters_inc_2001_smitty,Smitty,0.0,0.1538,1,1,0.0
+monsters_inc_2001_waternoose,Waternoose,0.0,0.3846,2,3,0.1639
+monsters_inc_2001_yeti,Yeti,0.0,0.2308,2,1,0.1412

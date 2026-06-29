@@ -1,0 +1,13 @@
+character,name,betweenness,degree_centrality,in_degree,out_degree,clustering
+toy_story_1995_woody,Woody,0.9455,1.5455,9,8,0.0079
+toy_story_1995_andy,Andy,0.1818,0.3636,2,2,0.0
+toy_story_1995_mr_potato_head,Mr. Potato Head,0.1818,0.3636,2,2,0.0631
+toy_story_1995_sid,Sid,0.1818,0.3636,2,2,0.0
+toy_story_1995_hamm,Hamm,0.0,0.2727,1,2,0.0631
+toy_story_1995_buzz,Buzz,0.0,0.2727,2,1,0.2199
+toy_story_1995_bo_peep,Bo Peep,0.0,0.1818,1,1,0.0
+toy_story_1995_hannah,Hannah,0.0,0.1818,1,1,0.0
+toy_story_1995_rex,Rex,0.0,0.2727,1,2,0.2199
+toy_story_1995_mrs_davis,Mrs. Davis,0.0,0.1818,1,1,0.0
+toy_story_1995_sargent,Sargent,0.0,0.1818,1,1,0.0
+toy_story_1995_slinky,Slinky,0.0,0.1818,1,1,0.0

@@ -1,0 +1,63 @@
+film_id,parser_character_id,review_character_id,parser_canonical_name,canonical_name,raw_speaker_labels,raw_speaker_label_variant_count,gender,gender_rationale,is_named,is_protagonist,included_in_network,merge_into_character_id,utterance_count,spoken_utterance_count,song_utterance_count,word_count_total,word_count_spoken_only,word_count_song_only,first_scene_id,first_event_id,review_notes
+zootopia_2016,zootopia_2016_hopps,zootopia_2016_hopps,Hopps,Hopps,HOPPS | HOPPS (CONT'D) | HOPPS (O.C.) | HOPPS (O.S.) | HOPPS (V.O.) | HOPPS(CONT'D),6,F,,1,1,1,,303,303,0,4449,4449,0,zootopia_2016_s008,119,corrected gender M→F (Judy Hopps)
+zootopia_2016,zootopia_2016_nick,zootopia_2016_nick,Nick,Nick,NICK | NICK (CONT'D) | NICK (O.S.) | NICK (V.O.) | YOUNG NICK | YOUNG NICK (CONT'D),6,M,,1,0,1,,185,185,0,3509,3509,0,zootopia_2016_s012,162,
+zootopia_2016,zootopia_2016_bogo,zootopia_2016_bogo,Bogo,Bogo,BOGO | BOGO (CONT'D) | BOGO (O.S.) | BOGO (PRE-LAP),4,M,,1,0,1,,53,53,0,731,731,0,zootopia_2016_s010,142,
+zootopia_2016,zootopia_2016_stu_hopps,zootopia_2016_stu_hopps,Stu Hopps,Stu Hopps,STU HOPPS | STU HOPPS (CONT'D) | STU HOPPS (O.S.) | STU HOPPS (V.O.),4,M,,1,0,1,,43,43,0,493,493,0,zootopia_2016_s001,1,Judy's father
+zootopia_2016,zootopia_2016_bellwether,zootopia_2016_bellwether,Bellwether,Bellwether,BELLWETHER | BELLWETHER (CONT'D) | BELLWETHER (O.S.) | BELLWETHER (ON CARROT PEN RECORDER),4,F,,1,0,1,,42,41,1,797,763,34,zootopia_2016_s003,70,corrected gender M→F
+zootopia_2016,zootopia_2016_bonnie_hopps,zootopia_2016_bonnie_hopps,Bonnie Hopps,Bonnie Hopps,BONNIE HOPPS | BONNIE HOPPS (O.S.) | BONNIE HOPPS (V.O.),3,F,,1,0,1,,35,35,0,320,320,0,zootopia_2016_s001,4,Judy's mother
+zootopia_2016,zootopia_2016_clawhauser,zootopia_2016_clawhauser,Clawhauser,Clawhauser,CLAWHAUSER | CLAWHAUSER (CONT'D) | CLAWHAUSER (INTERCOM) | CLAWHAUSER (ON RADIO) | CLAWHAUSER(INTERCOM),5,M,,1,0,1,,23,23,0,375,375,0,zootopia_2016_s009,130,
+zootopia_2016,zootopia_2016_flash,zootopia_2016_flash,Flash,Flash,FLASH,1,M,,1,0,1,,21,21,0,82,82,0,zootopia_2016_s031,398,
+zootopia_2016,zootopia_2016_judy,zootopia_2016_judy,Judy,Judy,JUDY | JUDY (CONT'D) | YOUNG JUDY | YOUNG JUDY (CONT'D) | YOUNG JUDY (O.S.),5,F,,1,0,0,zootopia_2016_hopps,21,21,0,307,307,0,zootopia_2016_s001,2,alias of Hopps (Young Judy)
+zootopia_2016,zootopia_2016_lionheart,zootopia_2016_lionheart,Lionheart,Lionheart,LIONHEART | LIONHEART (CONT'D) | LIONHEART (INTERCOM) | LIONHEART (O.S.),4,M,,1,0,1,,20,20,0,354,354,0,zootopia_2016_s003,67,
+zootopia_2016,zootopia_2016_gideon_grey,zootopia_2016_gideon_grey,Gideon Grey,Gideon Grey,ADULT GIDEON GREY | GIDEON GREY | GIDEON GREY (CONT'D) | GIDEON GREY (V.O.),4,M,,1,0,1,,14,14,0,334,334,0,zootopia_2016_s001,24,
+zootopia_2016,zootopia_2016_duke_weaselton,zootopia_2016_duke_weaselton,Duke Weaselton,Duke Weaselton,DUKE WEASELTON | DUKE WEASELTON (CONT'D) | DUKE WEASELTON (PRE-LAP) | DUKE WEASELTON (V.O.),4,M,,1,0,1,,13,13,0,250,250,0,zootopia_2016_s022,255,
+zootopia_2016,zootopia_2016_mr_big,zootopia_2016_mr_big,Mr. Big,Mr. Big,MR. BIG,1,M,,1,0,1,,13,13,0,302,302,0,zootopia_2016_s038,486,
+zootopia_2016,zootopia_2016_gazelle,zootopia_2016_gazelle,Gazelle,Gazelle,GAZELLE | GAZELLE (ON PHONE) | GAZELLE (V.O.),3,F,,1,0,1,,9,9,0,125,125,0,zootopia_2016_s007,116,
+zootopia_2016,zootopia_2016_mrs_otterton,zootopia_2016_mrs_otterton,Mrs. Otterton,Mrs. Otterton,MRS. OTTERTON | MRS. OTTERTON (CONT'D),2,F,,1,0,1,,9,9,0,142,142,0,zootopia_2016_s025,287,
+zootopia_2016,zootopia_2016_reporter,zootopia_2016_reporter,Reporter,Reporter,REPORTER | REPORTER (O.S.) | REPORTER 2 | REPORTER 3 | REPORTER 4 | REPORTER 5 | REPORTER 6,7,M,,0,0,1,,9,9,0,89,89,0,zootopia_2016_s054,710,multiple reporters merged
+zootopia_2016,zootopia_2016_fru_fru_shrew,zootopia_2016_fru_fru_shrew,Fru Fru Shrew,Fru Fru Shrew,FRU FRU SHREW,1,F,,1,0,1,,7,7,0,91,91,0,zootopia_2016_s023,266,corrected gender M→F
+zootopia_2016,zootopia_2016_yax_the_hippie_yak,zootopia_2016_yax_the_hippie_yak,Yax The Hippie Yak,Yax The Hippie Yak,YAX THE HIPPIE YAK | YAX THE HIPPIE YAK (CONT'D),2,M,,1,0,1,,7,7,0,154,154,0,zootopia_2016_s028,355,corrected gender F→M
+zootopia_2016,zootopia_2016_doug,zootopia_2016_doug,Doug,Doug,DOUG | DOUG (CONT'D),2,M,,1,0,1,,6,6,0,208,208,0,zootopia_2016_s067,855,
+zootopia_2016,zootopia_2016_major_friedkin,zootopia_2016_major_friedkin,Major Friedkin,Major Friedkin,MAJOR FRIEDKIN | MAJOR FRIEDKIN (CONT'D) | MAJOR FRIEDKIN(CONT'D),3,F,,1,0,1,,6,6,0,111,111,0,zootopia_2016_s002,49,corrected gender M→F; female police academy instructor
+zootopia_2016,zootopia_2016_mean_kid_animal,zootopia_2016_mean_kid_animal,Mean Kid Animal,Mean Kid Animal,MEAN KID ANIMAL | MEAN KID ANIMAL (O.S.) | MEAN KID ANIMAL (V.O.),3,M,,0,0,1,,6,6,0,105,105,0,zootopia_2016_s046,581,
+zootopia_2016,zootopia_2016_oryx_pootosser,zootopia_2016_oryx_pootosser,Oryx Pootosser,Oryx Pootosser,ORYX POOTOSSER | ORYX POOTOSSER (O.S.),2,M,,1,0,1,,6,6,0,54,54,0,zootopia_2016_s008,122,
+zootopia_2016,zootopia_2016_yax,zootopia_2016_yax,Yax,Yax,YAX,1,M,,1,0,0,zootopia_2016_yax_the_hippie_yak,6,6,0,108,108,0,zootopia_2016_s029,372,alias/duplicate of Yax The Hippie Yak
+zootopia_2016,zootopia_2016_badger_doctor,zootopia_2016_badger_doctor,Badger Doctor,Badger Doctor,BADGER DOCTOR,1,M,,0,0,1,,5,5,0,78,78,0,zootopia_2016_s051,666,
+zootopia_2016,zootopia_2016_kudu_pootosser,zootopia_2016_kudu_pootosser,Kudu Pootosser,Kudu Pootosser,KUDU POOTOSSER | KUDU POOTOSSER (O.S.),2,M,,0,0,1,,5,5,0,33,33,0,zootopia_2016_s008,121,
+zootopia_2016,zootopia_2016_nangi,zootopia_2016_nangi,Nangi,Nangi,NANGI,1,F,,1,0,1,,5,5,0,32,32,0,zootopia_2016_s029,371,
+zootopia_2016,zootopia_2016_reveal,zootopia_2016_reveal,Reveal,Reveal,Reveal,1,M,,0,0,0,,5,5,0,49,49,0,zootopia_2016_s042,531,parser artifact/stage direction
+zootopia_2016,zootopia_2016_manchas,zootopia_2016_manchas,Manchas,Manchas,MANCHAS | MANCHAS (MUFFLED INSIDE) | MANCHAS (THROUGH DOOR GAP),3,M,,1,0,0,,4,4,0,116,116,0,zootopia_2016_s041,512,
+zootopia_2016,zootopia_2016_sharla,zootopia_2016_sharla,Sharla,Sharla,SHARLA,1,F,,1,0,0,,4,4,0,24,24,0,zootopia_2016_s001,25,
+zootopia_2016,zootopia_2016_finnick,zootopia_2016_finnick,Finnick,Finnick,FINNICK,1,M,,1,0,0,,3,3,0,68,68,0,zootopia_2016_s018,193,
+zootopia_2016,zootopia_2016_frantic_pig,zootopia_2016_frantic_pig,Frantic Pig,Frantic Pig,FRANTIC PIG | FRANTIC PIG (CONT'D) | FRANTIC PIG (O.S.),3,M,,0,0,0,,3,3,0,45,45,0,zootopia_2016_s021,249,
+zootopia_2016,zootopia_2016_woolter,zootopia_2016_woolter,Woolter,Woolter,WOOLTER | WOOLTER (O.S.),2,M,,1,0,0,,3,3,0,32,32,0,zootopia_2016_s067,858,
+zootopia_2016,zootopia_2016_dharma_armadillo,zootopia_2016_dharma_armadillo,Dharma Armadillo,Dharma Armadillo,DHARMA ARMADILLO | DHARMA ARMADILLO (CONT'D),2,F,,1,0,0,,2,2,0,30,30,0,zootopia_2016_s008,117,
+zootopia_2016,zootopia_2016_leopard,zootopia_2016_leopard,Leopard,Leopard,LEOPARD,1,M,,0,0,0,,2,2,0,40,40,0,zootopia_2016_s009,128,
+zootopia_2016,zootopia_2016_mchorn,zootopia_2016_mchorn,Mchorn,Mchorn,MCHORN,1,M,,1,0,0,,2,2,0,21,21,0,zootopia_2016_s022,257,
+zootopia_2016,zootopia_2016_press,zootopia_2016_press,Press,Press,PRESS,1,Both,,0,0,0,,2,2,0,40,40,0,zootopia_2016_s054,708,group
+zootopia_2016,zootopia_2016_rabbit_mom,zootopia_2016_rabbit_mom,Rabbit Mom,Rabbit Mom,RABBIT MOM,1,F,,0,0,0,,2,2,0,13,13,0,zootopia_2016_s059,783,
+zootopia_2016,zootopia_2016_travis_the_wolf_henchman_kid,zootopia_2016_travis_the_wolf_henchman_kid,Travis The Wolf Henchman Kid,Travis The Wolf Henchman Kid,TRAVIS THE WOLF HENCHMAN KID,1,M,,1,0,0,,2,2,0,15,15,0,zootopia_2016_s001,32,
+zootopia_2016,zootopia_2016_wolf_guard,zootopia_2016_wolf_guard,Wolf Guard,Wolf Guard,WOLF GUARD,1,M,,0,0,0,,2,2,0,19,19,0,zootopia_2016_s049,646,
+zootopia_2016,zootopia_2016_angry_driver,zootopia_2016_angry_driver,Angry Driver,Angry Driver,ANGRY DRIVER (O.S.),1,M,,0,0,0,,1,1,0,8,8,0,zootopia_2016_s020,247,
+zootopia_2016,zootopia_2016_angry_gerbil_lady,zootopia_2016_angry_gerbil_lady,Angry Gerbil Lady,Angry Gerbil Lady,ANGRY GERBIL LADY,1,F,,0,0,0,,1,1,0,26,26,0,zootopia_2016_s020,245,
+zootopia_2016,zootopia_2016_another_reporter,zootopia_2016_another_reporter,Another Reporter,Another Reporter,ANOTHER REPORTER,1,M,,0,0,0,,1,1,0,8,8,0,zootopia_2016_s054,714,
+zootopia_2016,zootopia_2016_cotton,zootopia_2016_cotton,Cotton,Cotton,COTTON,1,F,,1,0,0,,1,1,0,5,5,0,zootopia_2016_s004,112,Judy's sibling
+zootopia_2016,zootopia_2016_crowd_of_bunnies,zootopia_2016_crowd_of_bunnies,Crowd Of Bunnies,Crowd Of Bunnies,CROWD OF BUNNIES,1,Both,,0,0,0,,1,1,0,13,13,0,zootopia_2016_s004,113,group
+zootopia_2016,zootopia_2016_elephant,zootopia_2016_elephant,Elephant,Elephant,ELEPHANT,1,M,,0,0,0,,1,1,0,16,16,0,zootopia_2016_s012,168,
+zootopia_2016,zootopia_2016_gary_the_wolf_guard,zootopia_2016_gary_the_wolf_guard,Gary The Wolf Guard,Gary The Wolf Guard,GARY THE WOLF GUARD,1,M,,1,0,0,,1,1,0,5,5,0,zootopia_2016_s049,647,
+zootopia_2016,zootopia_2016_hippo_child,zootopia_2016_hippo_child,Hippo Child,Hippo Child,HIPPO CHILD,1,M,,0,0,0,,1,1,0,8,8,0,zootopia_2016_s020,246,
+zootopia_2016,zootopia_2016_hopps,zootopia_2016_hopps,Hopps.,Hopps.,HOPPS.,1,F,,0,0,0,zootopia_2016_hopps,1,1,0,3,3,0,zootopia_2016_s059,787,parser duplicate of Hopps
+zootopia_2016,zootopia_2016_jesse,zootopia_2016_jesse,Jesse,Jesse,JESSE,1,M,,1,0,0,,1,1,0,4,4,0,zootopia_2016_s069,881,
+zootopia_2016,zootopia_2016_moose,zootopia_2016_moose,Moose,Moose,MOOSE,1,M,,0,0,0,,1,1,0,17,17,0,zootopia_2016_s020,244,
+zootopia_2016,zootopia_2016_nick_hopps,zootopia_2016_nick_hopps,Nick Hopps,Nick Hopps,NICK                          HOPPS (CONT'D),1,Both,,0,0,0,,1,1,0,14,14,0,zootopia_2016_s048,618,parser artifact — two speakers on one line
+zootopia_2016,zootopia_2016_number_two,zootopia_2016_number_two,Number Two,Number Two,Number two,1,M,,0,0,0,,1,1,0,38,38,0,zootopia_2016_s010,144,stage direction parsed as character
+zootopia_2016,zootopia_2016_officer_higgins,zootopia_2016_officer_higgins,Officer Higgins,Officer Higgins,OFFICER HIGGINS (O.S.),1,M,,1,0,0,,1,1,0,23,23,0,zootopia_2016_s010,141,
+zootopia_2016,zootopia_2016_pig,zootopia_2016_pig,Pig,Pig,PIG,1,M,,0,0,0,,1,1,0,6,6,0,zootopia_2016_s055,755,
+zootopia_2016,zootopia_2016_pred_anchor,zootopia_2016_pred_anchor,Pred Anchor,Pred Anchor,PRED ANCHOR,1,M,,0,0,0,,1,1,0,17,17,0,zootopia_2016_s071,946,
+zootopia_2016,zootopia_2016_predator_anchor,zootopia_2016_predator_anchor,Predator Anchor,Predator Anchor,PREDATOR ANCHOR (V.O.),1,M,,0,0,0,,1,1,0,20,20,0,zootopia_2016_s071,943,
+zootopia_2016,zootopia_2016_prey_anchor,zootopia_2016_prey_anchor,Prey Anchor,Prey Anchor,PREY ANCHOR,1,M,,0,0,0,,1,1,0,26,26,0,zootopia_2016_s071,944,
+zootopia_2016,zootopia_2016_priscilla,zootopia_2016_priscilla,Priscilla,Priscilla,PRISCILLA,1,F,,1,0,0,,1,1,0,2,2,0,zootopia_2016_s031,430,three-toed sloth
+zootopia_2016,zootopia_2016_rabbit_kid,zootopia_2016_rabbit_kid,Rabbit Kid,Rabbit Kid,RABBIT KID,1,M,,0,0,0,,1,1,0,3,3,0,zootopia_2016_s059,805,
+zootopia_2016,zootopia_2016_reporters,zootopia_2016_reporters,Reporters,Reporters,REPORTERS,1,Both,,0,0,0,,1,1,0,18,18,0,zootopia_2016_s054,749,group
+zootopia_2016,zootopia_2016_train_conductor,zootopia_2016_train_conductor,Train Conductor,Train Conductor,TRAIN CONDUCTOR,1,M,,0,0,0,,1,1,0,3,3,0,zootopia_2016_s004,105,
+zootopia_2016,zootopia_2016_truck_driver,zootopia_2016_truck_driver,Truck Driver,Truck Driver,TRUCK DRIVER (O.S.),1,M,,0,0,0,,1,1,0,53,53,0,zootopia_2016_s011,160,

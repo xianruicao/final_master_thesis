@@ -1,0 +1,22 @@
+character,name,betweenness,degree_centrality,in_degree,out_degree,clustering
+cars2_mater,Mater,0.3605,0.85,9,8,0.0334
+cars2_mcqueen,Mcqueen,0.2316,0.6,7,5,0.0301
+cars2_finn,Finn,0.0974,0.45,5,4,0.0652
+cars2_professor_zundapp,Professor Zundapp,0.0737,0.25,3,2,0.029
+cars2_grem,Grem,0.0053,0.25,1,4,0.0619
+cars2_acer,Acer,0.0026,0.25,1,4,0.0602
+cars2_fillmore,Fillmore,0.0,0.05,0,1,0.0
+cars2_alexander_hugo,Alexander Hugo,0.0,0.05,1,0,0.0
+cars2_crabby,Crabby,0.0,0.05,0,1,0.0
+cars2_luigi,Luigi,0.0,0.1,0,2,0.1627
+cars2_holley,Holley,0.0,0.2,2,2,0.6989
+cars2_miles_axlerod,Miles Axlerod,0.0,0.2,2,2,0.2257
+cars2_francesco,Francesco,0.0,0.2,2,2,0.2447
+cars2_otis,Otis,0.0,0.1,1,1,0.0
+cars2_rod_redline,Rod Redline,0.0,0.15,3,0,0.0484
+cars2_sally,Sally,0.0,0.1,1,1,0.0
+cars2_tomber,Tomber,0.0,0.1,1,1,0.0
+cars2_tubbs_pacer,Tubbs Pacer,0.0,0.05,1,0,0.0
+cars2_uncle_topolino,Uncle Topolino,0.0,0.1,1,1,0.0
+cars2_victor_hugo,Victor Hugo,0.0,0.05,1,0,0.0
+cars2_vladimir_trunkov,Vladimir Trunkov,0.0,0.05,0,1,0.0

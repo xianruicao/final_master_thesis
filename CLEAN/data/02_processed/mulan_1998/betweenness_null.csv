@@ -1,0 +1,14 @@
+film_id,character,gender,betw_obs,null_mean,null_std,z_score,percentile,p_high
+mulan_1998,mulan_1998_mulan,F,0.5,0.5189,0.0556,-0.339,32.8,0.6727
+mulan_1998,mulan_1998_shang,M,0.2727,0.2313,0.0866,0.479,69.0,0.3108
+mulan_1998,mulan_1998_chi_fu,M,0.0833,0.2036,0.0799,-1.505,0.1,0.999
+mulan_1998,mulan_1998_fa_li,F,0.0606,0.022,0.0433,0.892,78.6,0.2149
+mulan_1998,mulan_1998_yao,M,0.0606,0.0228,0.0437,0.866,77.6,0.2239
+mulan_1998,mulan_1998_fa_zhou,M,0.0,0.0231,0.0433,-0.533,0.0,1.0
+mulan_1998,mulan_1998_mushu,M,0.0,0.0226,0.0427,-0.53,0.0,1.0
+mulan_1998,mulan_1998_ling,M,0.0,0.0223,0.0405,-0.552,0.0,1.0
+mulan_1998,mulan_1998_general_li,M,0.0,0.0532,0.0625,-0.851,0.0,1.0
+mulan_1998,mulan_1998_chien_po,M,0.0,0.0,0.0,,0.0,1.0
+mulan_1998,mulan_1998_emperor,M,0.0,0.1862,0.0894,-2.084,0.0,1.0
+mulan_1998,mulan_1998_grandma_fa,F,0.0,0.0,0.0,,0.0,1.0
+mulan_1998,mulan_1998_shan_yu,M,0.0,0.0,0.0,,0.0,1.0

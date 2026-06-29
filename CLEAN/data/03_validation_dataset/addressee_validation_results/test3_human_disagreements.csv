@@ -1,0 +1,27 @@
+film,speaker,partner,partner_type,oceane_type,llm_type
+beautyandthebeast_1991,TEAPOT,majo,group,individual,group
+beautyandthebeast_1991,MANTLECLOCK,majo,individual,unclear,non_human
+cars2,MATER,majo,individual,group,individual
+cars2,MCQUEEN,majo,individual,group,individual
+coco_2017,T O OSCAR,majo,group,individual,individual
+coco_2017,MAM IMELDA,majo,group,individual,individual
+coco_2017,H CTOR,majo,group,individual,individual
+elemental_2023,TEENAGE EMBER,majo,individual,unclear,individual
+elemental_2023,EMBER,majo,monologue,individual,unclear
+up,CARL,majo,individual,group,individual
+up,RUSSELL,majo,non_human,monologue,non_human
+up,CARL,majo,unclear,monologue,monologue
+up,DUG,majo,monologue,individual,individual
+up,BETA,majo,individual,unclear,individual
+up,DUG,majo,individual,non_human,individual
+zootopia_2016,LIONHEART,majo,monologue,individual,group
+zootopia_2016,MR. BIG,majo,group,individual,group
+zootopia_2016,NICK,majo,individual,group,individual
+onward_2020,DAD,sonia,group,individual,group
+onward_2020,IAN,sonia,group,individual,group
+onward_2020,COLT,sonia,group,individual,group
+toy_story_1995,HAMM,sonia,group,individual,group
+toy_story_1995,WOODY,sonia,individual,group,individual
+toy_story_1995,WOODY,sonia,group,monologue,monologue
+toy_story_1995,HAMM,sonia,group,individual,group
+toy_story_1995,SLINKY,sonia,monologue,group,monologue

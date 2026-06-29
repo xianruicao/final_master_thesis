@@ -1,0 +1,66 @@
+film_id,parser_character_id,review_character_id,parser_canonical_name,canonical_name,raw_speaker_labels,raw_speaker_label_variant_count,gender,gender_rationale,is_named,is_protagonist,included_in_network,merge_into_character_id,utterance_count,spoken_utterance_count,song_utterance_count,word_count_total,word_count_spoken_only,word_count_song_only,first_scene_id,first_event_id,review_notes
+monsters_inc_2001,monsters_inc_2001_mike,monsters_inc_2001_mike,Mike,Mike,Mike,1,M,,1,False,1,,312,302,10,3441,3282,159,monsters_inc_2001_s002,18,
+monsters_inc_2001,monsters_inc_2001_sulley,monsters_inc_2001_sulley,Sulley,Sulley,Sulley,1,M,,1,1,1,,260,254,6,1664,1631,33,monsters_inc_2001_s002,19,
+monsters_inc_2001,monsters_inc_2001_waternoose,monsters_inc_2001_waternoose,Waternoose,Waternoose,Waternoose,1,M,,1,0,1,,73,71,2,804,775,29,monsters_inc_2001_s001,12,
+monsters_inc_2001,monsters_inc_2001_randall,monsters_inc_2001_randall,Randall,Randall,Randall,1,M,,1,0,1,,64,61,3,559,538,21,monsters_inc_2001_s005,133,
+monsters_inc_2001,monsters_inc_2001_celia,monsters_inc_2001_celia,Celia,Celia,Celia,1,F,,1,0,1,,41,40,1,271,270,1,monsters_inc_2001_s004,113,
+monsters_inc_2001,monsters_inc_2001_boo,monsters_inc_2001_boo,Boo,Boo,Boo,1,F,,1,0,1,,36,35,1,69,67,2,monsters_inc_2001_s009,271,
+monsters_inc_2001,monsters_inc_2001_cda_agent,monsters_inc_2001_cda_agent,Cda Agent,Cda Agent,CDA agent | CDA agent #1 | CDA agent #2 | CDA agent #3 | CDA agent #4 | CDA agent #5 | CDA agent #82472,7,Unknown,"grouped numbered CDA agents (CDA agent #N); individual agents not distinguished, gender not stated",1,0,0,,32,31,1,171,167,4,monsters_inc_2001_s007,202,grouped: all numbered CDA agent #N speakers collapsed into one character
+monsters_inc_2001,monsters_inc_2001_fungus,monsters_inc_2001_fungus,Fungus,Fungus,Fungus,1,M,,1,0,1,,18,17,1,148,147,1,monsters_inc_2001_s006,163,
+monsters_inc_2001,monsters_inc_2001_needleman,monsters_inc_2001_needleman,Needleman,Needleman,Needleman,1,M,,1,0,1,,14,14,0,78,78,0,monsters_inc_2001_s004,98,
+monsters_inc_2001,monsters_inc_2001_roz,monsters_inc_2001_roz,Roz,Roz,Roz,1,F,,1,0,1,,14,13,1,141,126,15,monsters_inc_2001_s006,146,
+monsters_inc_2001,monsters_inc_2001_yeti,monsters_inc_2001_yeti,Yeti,Yeti,Yeti,1,M,,1,0,1,,13,12,1,268,262,6,monsters_inc_2001_s022,712,voiced by John Ratzenberger
+monsters_inc_2001,monsters_inc_2001_jerry,monsters_inc_2001_jerry,Jerry,Jerry,Jerry,1,M,,1,0,1,,12,12,0,84,84,0,monsters_inc_2001_s002,40,"Jerry Slugworth, floor manager"
+monsters_inc_2001,monsters_inc_2001_charlie,monsters_inc_2001_charlie,Charlie,Charlie,Charlie,1,M,,1,0,1,,8,8,0,70,70,0,monsters_inc_2001_s007,192,
+monsters_inc_2001,monsters_inc_2001_george,monsters_inc_2001_george,George,George,George,1,M,,1,0,1,,8,8,0,43,43,0,monsters_inc_2001_s007,195,George Sanderson
+monsters_inc_2001,monsters_inc_2001_ms_flint,monsters_inc_2001_ms_flint,Ms. Flint,Ms. Flint,Ms. Flint,1,F,,1,0,1,,8,8,0,73,73,0,monsters_inc_2001_s001,2,
+monsters_inc_2001,monsters_inc_2001_sulley_and_mike,monsters_inc_2001_sulley_and_mike,Sulley And Mike,Sulley And Mike,Sulley and Mike,1,Both,,0,0,0,,8,7,1,8,7,1,monsters_inc_2001_s011,349,parser artifact
+monsters_inc_2001,monsters_inc_2001_smitty,monsters_inc_2001_smitty,Smitty,Smitty,Smitty,1,M,,1,0,1,,7,7,0,35,35,0,monsters_inc_2001_s004,99,
+monsters_inc_2001,monsters_inc_2001_announcer,monsters_inc_2001_announcer,Announcer,Announcer,Announcer,1,M,,0,0,0,,4,4,0,68,68,0,monsters_inc_2001_s002,34,
+monsters_inc_2001,monsters_inc_2001_bile,monsters_inc_2001_bile,Bile,Bile,Bile,1,M,,1,0,0,,4,4,0,27,27,0,monsters_inc_2001_s001,3,
+monsters_inc_2001,monsters_inc_2001_tony,monsters_inc_2001_tony,Tony,Tony,Tony,1,M,,1,0,0,,3,3,0,16,16,0,monsters_inc_2001_s003,77,
+monsters_inc_2001,monsters_inc_2001_ward_s_assistant,monsters_inc_2001_ward_s_assistant,Ward's Assistant,Ward's Assistant,Ward's assistant,1,F,,1,0,0,,3,3,0,23,23,0,monsters_inc_2001_s006,169,
+monsters_inc_2001,monsters_inc_2001_animatronic_boy,monsters_inc_2001_animatronic_boy,Animatronic Boy,Animatronic Boy,Animatronic Boy,1,M,,1,0,0,,2,2,0,9,9,0,monsters_inc_2001_s025,922,
+monsters_inc_2001,monsters_inc_2001_cda_agents,monsters_inc_2001_cda_agents,Cda Agents,Cda Agents,CDA agents,1,M,,1,0,0,,2,2,0,22,22,0,monsters_inc_2001_s013,426,group
+monsters_inc_2001,monsters_inc_2001_computer_voice,monsters_inc_2001_computer_voice,Computer Voice,Computer Voice,Computer voice,1,F,,1,0,0,,2,2,0,18,18,0,monsters_inc_2001_s007,197,
+monsters_inc_2001,monsters_inc_2001_computerized_voice,monsters_inc_2001_computerized_voice,Computerized Voice,Computerized Voice,Computerized Voice,1,F,,1,0,0,,2,2,0,14,14,0,monsters_inc_2001_s001,1,
+monsters_inc_2001,monsters_inc_2001_day_care_worker,monsters_inc_2001_day_care_worker,Day Care Worker,Day Care Worker,Day care worker,1,F,,1,0,0,,2,2,0,12,12,0,monsters_inc_2001_s018,558,
+monsters_inc_2001,monsters_inc_2001_lead_cda_agent,monsters_inc_2001_lead_cda_agent,Lead Cda Agent,Lead Cda Agent,Lead CDA Agent,1,M,,1,0,0,,2,2,0,18,18,0,monsters_inc_2001_s013,410,
+monsters_inc_2001,monsters_inc_2001_mother,monsters_inc_2001_mother,Mother,Mother,Mother,1,F,,1,0,0,,2,2,0,6,6,0,monsters_inc_2001_s021,669,
+monsters_inc_2001,monsters_inc_2001_nick_schmidt,monsters_inc_2001_nick_schmidt,Nick Schmidt,Nick Schmidt,Nick Schmidt,1,M,,1,0,0,,2,2,0,17,17,0,monsters_inc_2001_s010,325,
+monsters_inc_2001,monsters_inc_2001_photographer,monsters_inc_2001_photographer,Photographer,Photographer,Photographer,1,M,,1,0,0,,2,1,1,7,3,4,monsters_inc_2001_s010,322,
+monsters_inc_2001,monsters_inc_2001_redneck_boy,monsters_inc_2001_redneck_boy,Redneck Boy,Redneck Boy,Redneck boy,1,M,,1,0,0,,2,2,0,13,13,0,monsters_inc_2001_s024,871,
+monsters_inc_2001,monsters_inc_2001_ward,monsters_inc_2001_ward,Ward,Ward,Ward,1,M,,1,0,0,,2,2,0,19,19,0,monsters_inc_2001_s006,170,
+monsters_inc_2001,monsters_inc_2001_employee,monsters_inc_2001_employee,Employee,Employee,Employee #1 | Employee #2,2,Unknown,grouped numbered anonymous speakers; gender not stated,1,0,0,,2,2,0,7,7,0,monsters_inc_2001_s004,95,grouped: numbered anonymous speakers collapsed into one character
+monsters_inc_2001,monsters_inc_2001_interviewee,monsters_inc_2001_interviewee,Interviewee,Interviewee,Interviewee #1 | Interviewee #2,2,Unknown,grouped numbered anonymous speakers; gender not stated,1,0,0,,2,2,0,28,28,0,monsters_inc_2001_s011,343,grouped: numbered anonymous speakers collapsed into one character
+monsters_inc_2001,monsters_inc_2001_betty,monsters_inc_2001_betty,Betty,Betty,Betty,1,F,,1,0,0,,1,1,0,3,3,0,monsters_inc_2001_s002,37,
+monsters_inc_2001,monsters_inc_2001_blobby,monsters_inc_2001_blobby,Blobby,Blobby,Blobby,1,M,,1,0,0,,1,1,0,2,2,0,monsters_inc_2001_s003,86,
+monsters_inc_2001,monsters_inc_2001_cda_helicopter_pilot,monsters_inc_2001_cda_helicopter_pilot,Cda Helicopter Pilot,Cda Helicopter Pilot,CDA Helicopter Pilot,1,M,,1,0,0,,1,1,0,8,8,0,monsters_inc_2001_s010,331,
+monsters_inc_2001,monsters_inc_2001_employee_walla,monsters_inc_2001_employee_walla,Employee Walla,Employee Walla,Employee Walla,1,M,,1,0,0,,1,1,0,6,6,0,monsters_inc_2001_s024,796,
+monsters_inc_2001,monsters_inc_2001_father,monsters_inc_2001_father,Father,Father,Father,1,M,,1,0,0,,1,1,0,3,3,0,monsters_inc_2001_s021,671,
+monsters_inc_2001,monsters_inc_2001_day_care_kid,monsters_inc_2001_day_care_kid,Day Care Kid,Day Care Kid,Day care kid,1,M,,0,0,0,,1,1,0,2,2,0,monsters_inc_2001_s018,582,
+monsters_inc_2001,monsters_inc_2001_day_care_kids,monsters_inc_2001_day_care_kids,Day-care Kids,Day-care Kids,Day-care kids,1,Both,,0,0,0,,1,1,0,2,2,0,monsters_inc_2001_s018,575,group
+monsters_inc_2001,monsters_inc_2001_josh_rivera,monsters_inc_2001_josh_rivera,Josh Rivera,Josh Rivera,Josh Rivera,1,M,,1,0,0,,1,1,0,1,1,0,monsters_inc_2001_s006,180,
+monsters_inc_2001,monsters_inc_2001_little_boy,monsters_inc_2001_little_boy,Little Boy,Little Boy,Little Boy,1,M,,0,0,0,,1,1,0,3,3,0,monsters_inc_2001_s021,670,
+monsters_inc_2001,monsters_inc_2001_miscellaneous_monster,monsters_inc_2001_miscellaneous_monster,Miscellaneous Monster,Miscellaneous Monster,Miscellaneous Monster,1,M,,0,0,0,,1,1,0,3,3,0,monsters_inc_2001_s023,751,
+monsters_inc_2001,monsters_inc_2001_monster_kid,monsters_inc_2001_monster_kid,Monster Kid,Monster Kid,Monster Kid,1,M,,0,0,0,,1,1,0,4,4,0,monsters_inc_2001_s003,71,
+monsters_inc_2001,monsters_inc_2001_monster_kids,monsters_inc_2001_monster_kids,Monster Kids,Monster Kids,Monster Kids,1,Both,,0,0,0,,1,1,0,14,14,0,monsters_inc_2001_s003,70,group
+monsters_inc_2001,monsters_inc_2001_monsters,monsters_inc_2001_monsters,Monsters,Monsters,Monsters,1,Both,,0,0,0,,1,1,0,3,3,0,monsters_inc_2001_s002,47,group
+monsters_inc_2001,monsters_inc_2001_frank,monsters_inc_2001_frank,Frank,Frank,Frank,1,M,,1,0,0,,1,1,0,2,2,0,monsters_inc_2001_s013,404,
+monsters_inc_2001,monsters_inc_2001_giant_eye_monster,monsters_inc_2001_giant_eye_monster,Giant Eye Monster,Giant Eye Monster,Giant Eye Monster,1,M,,0,0,0,,1,1,0,2,2,0,monsters_inc_2001_s003,75,
+monsters_inc_2001,monsters_inc_2001_needleman_and_smitty,monsters_inc_2001_needleman_and_smitty,Needleman And Smitty,Needleman And Smitty,Needleman and Smitty,1,Both,,0,0,0,,1,1,0,1,1,0,monsters_inc_2001_s007,204,parser artifact
+monsters_inc_2001,monsters_inc_2001_multiple_day_care_kids,monsters_inc_2001_multiple_day_care_kids,Multiple Day-Care Kids,Multiple Day-Care Kids,Multiple day-care kids,1,Both,,0,0,0,,1,1,0,2,2,0,monsters_inc_2001_s018,573,group
+monsters_inc_2001,monsters_inc_2001_newscaster,monsters_inc_2001_newscaster,Newscaster,Newscaster,Newscaster,1,M,,0,0,0,,1,1,0,20,20,0,monsters_inc_2001_s011,340,
+monsters_inc_2001,monsters_inc_2001_pupils_and_bile,monsters_inc_2001_pupils_and_bile,Pupils And Bile,Pupils And Bile,Pupils and Bile,1,Both,,0,0,0,,1,1,0,1,1,0,monsters_inc_2001_s001,9,parser artifact/group
+monsters_inc_2001,monsters_inc_2001_ricky,monsters_inc_2001_ricky,Ricky,Ricky,Ricky,1,M,,1,0,0,,1,1,0,2,2,0,monsters_inc_2001_s004,90,
+monsters_inc_2001,monsters_inc_2001_scientist,monsters_inc_2001_scientist,Scientist,Scientist,Scientist,1,M,,0,0,0,,1,1,0,12,12,0,monsters_inc_2001_s011,345,
+monsters_inc_2001,monsters_inc_2001_random_assistant,monsters_inc_2001_random_assistant,Random Assistant,Random Assistant,Random Assistant,1,M,,0,0,0,,1,1,0,4,4,0,monsters_inc_2001_s016,505,
+monsters_inc_2001,monsters_inc_2001_redneck_mama,monsters_inc_2001_redneck_mama,Redneck Mama,Redneck Mama,Redneck mama,1,F,,0,0,0,,1,1,0,7,7,0,monsters_inc_2001_s024,872,
+monsters_inc_2001,monsters_inc_2001_sushi_chef,monsters_inc_2001_sushi_chef,Sushi Chef,Sushi Chef,Sushi Chef,1,M,,0,0,0,,1,1,0,8,8,0,monsters_inc_2001_s010,326,
+monsters_inc_2001,monsters_inc_2001_sneezing_monster,monsters_inc_2001_sneezing_monster,Sneezing Monster,Sneezing Monster,Sneezing Monster,1,M,,0,0,0,,1,1,0,2,2,0,monsters_inc_2001_s003,76,
+monsters_inc_2001,monsters_inc_2001_sushi_chefs,monsters_inc_2001_sushi_chefs,Sushi Chefs,Sushi Chefs,Sushi Chefs,1,Both,,0,0,0,,1,1,0,4,4,0,monsters_inc_2001_s010,298,group
+monsters_inc_2001,monsters_inc_2001_tiny_monster_husband,monsters_inc_2001_tiny_monster_husband,Tiny Monster Husband,Tiny Monster Husband,Tiny Monster Husband,1,M,,0,0,0,,1,1,0,3,3,0,monsters_inc_2001_s003,57,
+monsters_inc_2001,monsters_inc_2001_tongue_monster_kid,monsters_inc_2001_tongue_monster_kid,Tongue Monster Kid,Tongue Monster Kid,Tongue Monster Kid,1,M,,0,0,0,,1,1,0,4,4,0,monsters_inc_2001_s003,74,
+monsters_inc_2001,monsters_inc_2001_tiny_monster_wife,monsters_inc_2001_tiny_monster_wife,Tiny Monster Wife,Tiny Monster Wife,Tiny Monster Wife,1,F,,0,0,0,,1,1,0,5,5,0,monsters_inc_2001_s003,56,
+monsters_inc_2001,monsters_inc_2001_waiters,monsters_inc_2001_waiters,Waiters,Waiters,Waiters,1,Both,,0,0,0,,1,1,0,4,4,0,monsters_inc_2001_s010,283,group
+monsters_inc_2001,monsters_inc_2001_waiter,monsters_inc_2001_waiter,Waiter,Waiter,Waiter,1,M,,0,0,0,,1,1,0,3,3,0,monsters_inc_2001_s010,317,

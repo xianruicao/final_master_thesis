@@ -1,0 +1,99 @@
+film_id,scene_id,scene_number,scene_header,marker_type,start_line,end_line,scene_position_pct,utterance_count,spoken_utterance_count,song_utterance_count
+toy_story_1995,toy_story_1995_s001,1,INT. ANDY'S BEDROOM,slug_line,22,163,0.0,5,5,0
+toy_story_1995,toy_story_1995_s002,2,INT. STAIRWELL,slug_line,164,169,0.0103,0,0,0
+toy_story_1995,toy_story_1995_s003,3,INT. DOWNSTAIRS LIVING ROOM,slug_line,170,229,0.0206,11,11,0
+toy_story_1995,toy_story_1995_s004,4,INT. ANDY'S BEDROOM - CONTINUOUS,slug_line,230,734,0.0309,80,80,0
+toy_story_1995,toy_story_1995_s005,5,INT. UPSTAIRS HALLWAY,slug_line,735,762,0.0412,1,1,0
+toy_story_1995,toy_story_1995_s006,6,INT. DOWNSTAIRS HALLWAY - CONTINUOUS,slug_line,763,769,0.0515,0,0,0
+toy_story_1995,toy_story_1995_s007,7,INT. ANDY'S BEDROOM,slug_line,770,781,0.0619,1,1,0
+toy_story_1995,toy_story_1995_s008,8,INT. DOWNSTAIRS HALLWAY,slug_line,782,807,0.0722,2,2,0
+toy_story_1995,toy_story_1995_s009,9,INT. ANDY'S BEDROOM,slug_line,808,818,0.0825,2,2,0
+toy_story_1995,toy_story_1995_s010,10,INT. DOWNSTAIRS HALLWAY,slug_line,819,854,0.0928,3,3,0
+toy_story_1995,toy_story_1995_s011,11,INT. DOWNSTAIRS - HOUSE PLANT - CONTINUOUS,slug_line,855,870,0.1031,1,1,0
+toy_story_1995,toy_story_1995_s012,12,INT. ANDY'S ROOM,slug_line,871,917,0.1134,6,6,0
+toy_story_1995,toy_story_1995_s013,13,INT. LIVING ROOM,slug_line,918,927,0.1237,1,1,0
+toy_story_1995,toy_story_1995_s014,14,INT. ANDY'S BEDROOM,slug_line,928,955,0.134,4,4,0
+toy_story_1995,toy_story_1995_s015,15,INT. DOWNSTAIRS - HOUSE PLANT,slug_line,956,962,0.1443,1,1,0
+toy_story_1995,toy_story_1995_s016,16,INT. ANDY'S BEDROOM,slug_line,963,973,0.1546,2,2,0
+toy_story_1995,toy_story_1995_s017,17,INT. DOWNSTAIRS - HOUSE PLANT,slug_line,974,992,0.1649,1,1,0
+toy_story_1995,toy_story_1995_s018,18,INT. ANDY'S BEDROOM - CONTINUOUS,slug_line,993,1006,0.1753,0,0,0
+toy_story_1995,toy_story_1995_s019,19,INT. DOWNSTAIRS - HOUSE PLANT - CONTINUOUS,slug_line,1007,1014,0.1856,1,1,0
+toy_story_1995,toy_story_1995_s020,20,INT. ANDY'S ROOM - CONTINUOUS,slug_line,1015,1062,0.1959,7,7,0
+toy_story_1995,toy_story_1995_s021,21,INT. LIVING ROOM,slug_line,1063,1075,0.2062,2,2,0
+toy_story_1995,toy_story_1995_s022,22,INT. ANDY'S ROOM - CONTINUOUS,slug_line,1076,1604,0.2165,88,88,0
+toy_story_1995,toy_story_1995_s023,23,INT. ANDY'S ROOM - LATER,slug_line,1605,1674,0.2268,1,1,0
+toy_story_1995,toy_story_1995_s024,24,INT. ANDY'S ROOM - LATER THAT NIGHT,slug_line,1675,1686,0.2371,1,1,0
+toy_story_1995,toy_story_1995_s025,25,INT. ANDY'S BEDROOM - MORNING - WOODY'S POV OF THE,slug_line,1687,2077,0.2474,63,63,0
+toy_story_1995,toy_story_1995_s026,26,EXT. ANDY'S FRONT YARD - SUNSET,slug_line,2078,2082,0.2577,0,0,0
+toy_story_1995,toy_story_1995_s027,27,INT. UPSTAIRS HALL/ANDY'S ROOM,slug_line,2083,2430,0.268,57,57,0
+toy_story_1995,toy_story_1995_s028,28,EXT. ANDY'S HOUSE - CONTINUOUS,slug_line,2431,2458,0.2784,3,3,0
+toy_story_1995,toy_story_1995_s029,29,EXT. ANDY'S BEDROOM WINDOW - CONTINUOUS,slug_line,2459,2486,0.2887,3,3,0
+toy_story_1995,toy_story_1995_s030,30,EXT. GAS STATION - LATER,slug_line,2487,2490,0.299,0,0,0
+toy_story_1995,toy_story_1995_s031,31,INT. VAN - CONTINUOUS,slug_line,2491,2560,0.3093,11,11,0
+toy_story_1995,toy_story_1995_s032,32,EXT. GAS STATION - CONTINUOUS,slug_line,2561,2774,0.3196,33,33,0
+toy_story_1995,toy_story_1995_s033,33,EXT. GAS STATION - A FEW MINUTES LATER,slug_line,2775,2842,0.3299,11,11,0
+toy_story_1995,toy_story_1995_s034,34,INT. PIZZA PLANET DELIVERY TRUCK - CONTINUOUS,slug_line,2843,2869,0.3402,3,3,0
+toy_story_1995,toy_story_1995_s035,35,EXT. PIZZA PLANET - NIGHT,slug_line,2870,2874,0.3505,0,0,0
+toy_story_1995,toy_story_1995_s036,36,INT. DELIVERY TRUCK - CAB - CONTINUOUS,slug_line,2875,2927,0.3608,7,7,0
+toy_story_1995,toy_story_1995_s037,37,EXT. PIZZA PLANET - FRONT ENTRANCE,slug_line,2928,2951,0.3711,1,1,0
+toy_story_1995,toy_story_1995_s038,38,INT. PIZZA PLANET/FRONT ENTRANCE - CONTINUOUS,slug_line,2952,3084,0.3814,21,21,0
+toy_story_1995,toy_story_1995_s039,39,INT. CRANE GAME,slug_line,3085,3116,0.3918,4,4,0
+toy_story_1995,toy_story_1995_s040,40,EXT. CRANE GAME,slug_line,3117,3121,0.4021,0,0,0
+toy_story_1995,toy_story_1995_s041,41,INT. CRANE GAME - CONTINUOUS,slug_line,3122,3288,0.4124,18,18,0
+toy_story_1995,toy_story_1995_s042,42,EXT. SID'S HOUSE - LATER THAT NIGHT,slug_line,3289,3301,0.4227,0,0,0
+toy_story_1995,toy_story_1995_s043,43,INT. BACKPACK - CONTINUOUS,slug_line,3302,3404,0.433,22,21,1
+toy_story_1995,toy_story_1995_s044,44,INT. UPSTAIRS HALL - CONTINUOUS,slug_line,3405,3413,0.4433,1,1,0
+toy_story_1995,toy_story_1995_s045,45,INT. SID'S ROOM - CONTINUOUS,slug_line,3414,3575,0.4536,13,13,0
+toy_story_1995,toy_story_1995_s046,46,INT. BACKPACK - CONTINUOUS,slug_line,3576,3598,0.4639,3,3,0
+toy_story_1995,toy_story_1995_s047,47,EXT. ANDY'S HOUSE - NIGHT,slug_line,3599,3672,0.4742,13,13,0
+toy_story_1995,toy_story_1995_s048,48,EXT. SID'S BEDROOM WINDOW - DAY.,slug_line,3673,3680,0.4845,0,0,0
+toy_story_1995,toy_story_1995_s049,49,INT. SID'S ROOM - CONTINUOUS,slug_line,3681,3819,0.4948,18,18,0
+toy_story_1995,toy_story_1995_s050,50,INT. UPSTAIRS HALLWAY - CONTINUOUS,slug_line,3820,3925,0.5052,11,11,0
+toy_story_1995,toy_story_1995_s051,51,INT. SID'S DAD'S DEN - CONTINUOUS,slug_line,3926,4063,0.5155,17,17,0
+toy_story_1995,toy_story_1995_s052,52,INT. UPSTAIRS HALLWAY - CONTINUOUS,slug_line,4064,4102,0.5258,4,4,0
+toy_story_1995,toy_story_1995_s053,53,INT. SID'S HOUSE/ENTRYWAY - CONTINUOUS,slug_line,4103,4131,0.5361,4,4,0
+toy_story_1995,toy_story_1995_s054,54,INT. UPSTAIRS HALLWAY - LATER,slug_line,4132,4161,0.5464,3,3,0
+toy_story_1995,toy_story_1995_s055,55,INT. HANNAH'S BEDROOM/UPSTAIRS HALLWAY - CONTINUOUS,slug_line,4162,4288,0.5567,17,17,0
+toy_story_1995,toy_story_1995_s056,56,INT. UPSTAIRS HALLWAY - CONTINUOUS,slug_line,4289,4339,0.567,7,7,0
+toy_story_1995,toy_story_1995_s057,57,EXT. ANDY'S HOUSE/ANDY'S BEDROOM WINDOW,slug_line,4340,4379,0.5773,8,8,0
+toy_story_1995,toy_story_1995_s058,58,EXT. SID'S WINDOW/ANDY'S WINDOW - CONTINUOUS,slug_line,4380,4397,0.5876,4,4,0
+toy_story_1995,toy_story_1995_s059,59,INT. ANDY'S ROOM - CONTINUOUS,slug_line,4398,4409,0.5979,3,3,0
+toy_story_1995,toy_story_1995_s060,60,INT. SID'S BEDROOM,slug_line,4410,4421,0.6082,1,1,0
+toy_story_1995,toy_story_1995_s061,61,EXT. ANDY'S WINDOW/SID'S WINDOW,slug_line,4422,4505,0.6186,17,17,0
+toy_story_1995,toy_story_1995_s062,62,INT. SID'S ROOM - CONTINUOUS,slug_line,4506,4527,0.6289,4,4,0
+toy_story_1995,toy_story_1995_s063,63,EXT. SID'S WINDOW/ANDY'S WINDOW,slug_line,4528,4647,0.6392,21,21,0
+toy_story_1995,toy_story_1995_s064,64,INT. SID'S ROOM - CONTINUOUS,slug_line,4648,4836,0.6495,21,21,0
+toy_story_1995,toy_story_1995_s065,65,INT. ANDY'S ROOM - THAT NIGHT.,slug_line,4837,4900,0.6598,11,11,0
+toy_story_1995,toy_story_1995_s066,66,EXT. SID'S HOUSE - LATER THAT NIGHT,slug_line,4901,4905,0.6701,0,0,0
+toy_story_1995,toy_story_1995_s067,67,INT. SID'S ROOM,slug_line,4906,5216,0.6804,41,41,0
+toy_story_1995,toy_story_1995_s068,68,INT. ANDY'S BEDROOM,slug_line,5217,5224,0.6907,0,0,0
+toy_story_1995,toy_story_1995_s069,69,EXT. BACKYARD SHED,slug_line,5225,5246,0.701,2,2,0
+toy_story_1995,toy_story_1995_s070,70,INT. SID'S ROOM - CONTINUOUS,slug_line,5247,5279,0.7113,3,3,0
+toy_story_1995,toy_story_1995_s071,71,INT. HEATING DUCT - CONTINUOUS,slug_line,5280,5284,0.7216,0,0,0
+toy_story_1995,toy_story_1995_s072,72,INT. SID'S ROOM,slug_line,5285,5300,0.732,1,1,0
+toy_story_1995,toy_story_1995_s073,73,INT. SID'S HOUSE/PORCH ATTIC,slug_line,5301,5308,0.7423,0,0,0
+toy_story_1995,toy_story_1995_s074,74,EXT. SID'S HOUSE/FRONT PORCH - CONTINUOUS,slug_line,5309,5317,0.7526,1,1,0
+toy_story_1995,toy_story_1995_s075,75,INT. SID'S ROOM,slug_line,5318,5325,0.7629,1,1,0
+toy_story_1995,toy_story_1995_s076,76,INT. PORCH ATTIC,slug_line,5326,5331,0.7732,0,0,0
+toy_story_1995,toy_story_1995_s077,77,EXT. FRONT PORCH - CONTINUOUS,slug_line,5332,5340,0.7835,0,0,0
+toy_story_1995,toy_story_1995_s078,78,INT. SID'S ROOM,slug_line,5341,5366,0.7938,3,3,0
+toy_story_1995,toy_story_1995_s079,79,INT. SID'S HOUSE/ENTRY WAY,slug_line,5367,5410,0.8041,5,5,0
+toy_story_1995,toy_story_1995_s080,80,INT. KITCHEN - CONTINUOUS,slug_line,5411,5423,0.8144,1,1,0
+toy_story_1995,toy_story_1995_s081,81,EXT. SID'S BACKYARD - CONTINUOUS,slug_line,5424,5610,0.8247,23,23,0
+toy_story_1995,toy_story_1995_s082,82,INT. SID'S ENTRYWAY,slug_line,5611,5685,0.8351,11,11,0
+toy_story_1995,toy_story_1995_s083,83,EXT. ANDY'S DRIVEWAY - CONTINUOUS,slug_line,5686,5800,0.8454,13,13,0
+toy_story_1995,toy_story_1995_s084,84,EXT. NEIGHBORHOOD STREET,slug_line,5801,5806,0.8557,0,0,0
+toy_story_1995,toy_story_1995_s085,85,INT. BACK OF MOVING TRUCK,slug_line,5807,5920,0.866,12,12,0
+toy_story_1995,toy_story_1995_s086,86,INT. BACK OF THE TRUCK,slug_line,5921,5942,0.8763,4,4,0
+toy_story_1995,toy_story_1995_s087,87,EXT. STREET - CONTINUOUS,slug_line,5943,5985,0.8866,5,5,0
+toy_story_1995,toy_story_1995_s088,88,INT. BACK OF THE MOVING TRUCK,slug_line,5986,6014,0.8969,5,5,0
+toy_story_1995,toy_story_1995_s089,89,EXT. STREET/BACK OF THE MOVING TRUCK,slug_line,6015,6081,0.9072,10,10,0
+toy_story_1995,toy_story_1995_s090,90,INT. FAMILY VAN,slug_line,6082,6093,0.9175,0,0,0
+toy_story_1995,toy_story_1995_s091,91,EXT. STREET/BACK OF MOVING TRUCK,slug_line,6094,6185,0.9278,14,14,0
+toy_story_1995,toy_story_1995_s092,92,EXT. BACK OF MOVING TRUCK,slug_line,6186,6220,0.9381,3,3,0
+toy_story_1995,toy_story_1995_s093,93,EXT. SKY - BUZZ AND WOODY,slug_line,6221,6275,0.9485,9,9,0
+toy_story_1995,toy_story_1995_s094,94,INT. FAMILY VAN - CONTINUOUS,slug_line,6276,6310,0.9588,7,7,0
+toy_story_1995,toy_story_1995_s095,95,EXT. ANDY'S NEW HOUSE - CHRISTMAS MORNING - LIVING ROOM,slug_line,6311,6322,0.9691,3,3,0
+toy_story_1995,toy_story_1995_s096,96,INT. ANDY'S NEW HOUSE/LIVING ROOM - CHRISTMAS TREE,slug_line,6323,6331,0.9794,1,1,0
+toy_story_1995,toy_story_1995_s097,97,INT. CHRISTMAS TREE,slug_line,6332,6337,0.9897,0,0,0
+toy_story_1995,toy_story_1995_s098,98,INT. - ANDY'S NEW BEDROOM,slug_line,6338,6466,1.0,15,15,0

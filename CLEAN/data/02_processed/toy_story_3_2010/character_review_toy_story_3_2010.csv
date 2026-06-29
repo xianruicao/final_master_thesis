@@ -1,0 +1,55 @@
+film_id,parser_character_id,review_character_id,parser_canonical_name,canonical_name,raw_speaker_labels,raw_speaker_label_variant_count,gender,gender_rationale,is_named,is_protagonist,included_in_network,merge_into_character_id,utterance_count,spoken_utterance_count,song_utterance_count,word_count_total,word_count_spoken_only,word_count_song_only,first_scene_id,first_event_id,review_notes
+toy_story_3_2010,toy_story_3_2010_woody,toy_story_3_2010_woody,Woody,Woody,WOODY | WOODY (CONT'D) | WOODY (CONT’D) | WOODY (O.C.) | WOODY (O.S.) | WOODY (V.O.),6,M,,TRUE,TRUE,TRUE,,183,183,0,2698,2698,0,toy_story_3_2010_s002,3,
+toy_story_3_2010,toy_story_3_2010_buzz,toy_story_3_2010_buzz,Buzz,Buzz,BUZZ | BUZZ (CONT'D) | BUZZ (O.S.),3,M,,TRUE,False,TRUE,,96,96,0,1169,1169,0,toy_story_3_2010_s002,21,
+toy_story_3_2010,toy_story_3_2010_jessie,toy_story_3_2010_jessie,Jessie,Jessie,JESSIE | JESSIE (CONT'D) | JESSIE (O.C.) | JESSIE (O.S.),4,F,,TRUE,FALSE,TRUE,,82,82,0,1189,1189,0,toy_story_3_2010_s002,8,
+toy_story_3_2010,toy_story_3_2010_lotso,toy_story_3_2010_lotso,Lotso,Lotso,LOTSO | LOTSO (CONT'D) | LOTSO (O.S.),3,M,,TRUE,FALSE,TRUE,,77,77,0,1308,1308,0,toy_story_3_2010_s025,289,
+toy_story_3_2010,toy_story_3_2010_ken,toy_story_3_2010_ken,Ken,Ken,KEN | KEN (CONT'D) | KEN (O.C.) | KEN (O.S.),4,M,,TRUE,FALSE,TRUE,,69,69,0,864,864,0,toy_story_3_2010_s025,305,
+toy_story_3_2010,toy_story_3_2010_rex,toy_story_3_2010_rex,Rex,Rex,REX | REX (CONT'D) | REX (O.S.),3,M,,TRUE,FALSE,TRUE,,62,62,0,727,727,0,toy_story_3_2010_s014,55,
+toy_story_3_2010,toy_story_3_2010_mr_potato_head,toy_story_3_2010_mr_potato_head,Mr. Potato Head,Mr. Potato Head,MR. POTATO HEAD | MR. POTATO HEAD (CONT'D) | MR. POTATO HEAD (O.C.) | MR. POTATO HEAD (O.S.),4,M,,TRUE,FALSE,TRUE,,61,61,0,780,780,0,toy_story_3_2010_s014,50,
+toy_story_3_2010,toy_story_3_2010_hamm,toy_story_3_2010_hamm,Hamm,Hamm,HAMM | HAMM (O.C.) | HAMM (O.S.),3,M,,TRUE,FALSE,TRUE,,57,57,0,503,503,0,toy_story_3_2010_s014,49,
+toy_story_3_2010,toy_story_3_2010_andy,toy_story_3_2010_andy,Andy,Andy,ANDY | ANDY (AS WOODY) | ANDY (CONT'D) | ANDY (CONT’D) | ANDY (O.C.) | ANDY (O.S.) | YOUNG ANDY | YOUNG ANDY (AS BUZZ) | YOUNG ANDY (AS WOODY),9,M,,TRUE,FALSE,TRUE,,47,47,0,623,623,0,toy_story_3_2010_s005,32,
+toy_story_3_2010,toy_story_3_2010_mrs_potato_head,toy_story_3_2010_mrs_potato_head,Mrs. Potato Head,Mrs. Potato Head,MRS. POTATO HEAD | MRS. POTATO HEAD (CONT'D) | MRS. POTATO HEAD (V.O) | MRS. POTATO HEAD (V.O.),4,F,,TRUE,FALSE,TRUE,,47,47,0,548,548,0,toy_story_3_2010_s014,103,
+toy_story_3_2010,toy_story_3_2010_barbie,toy_story_3_2010_barbie,Barbie,Barbie,BARBIE | BARBIE (CONT'D) | BARBIE (O.C.),3,F,,TRUE,FALSE,TRUE,,34,34,0,405,405,0,toy_story_3_2010_s020,238,
+toy_story_3_2010,toy_story_3_2010_bonnie,toy_story_3_2010_bonnie,Bonnie,Bonnie,BONNIE | BONNIE (AS WOODY) | BONNIE (CONT'D) | BONNIE (CONT’D) | BONNIE (O.S.),5,F,,TRUE,FALSE,TRUE,,28,28,0,388,388,0,toy_story_3_2010_s023,262,
+toy_story_3_2010,toy_story_3_2010_mom,toy_story_3_2010_mom,Mom,Mom,MOM | MOM (CONT'D) | MOM (O.C.) | MOM (O.S.),4,F,,TRUE,FALSE,TRUE,,28,28,0,385,385,0,toy_story_3_2010_s005,38,
+toy_story_3_2010,toy_story_3_2010_slinky,toy_story_3_2010_slinky,Slinky,Slinky,SLINKY | SLINKY (CONT'D) | SLINKY (O.S.),3,M,,TRUE,FALSE,TRUE,,28,28,0,269,269,0,toy_story_3_2010_s014,75,
+toy_story_3_2010,toy_story_3_2010_molly,toy_story_3_2010_molly,Molly,Molly,MOLLY | MOLLY (O.C.) | MOLLY (O.S.),3,F,,TRUE,FALSE,TRUE,,16,16,0,123,123,0,toy_story_3_2010_s014,65,
+toy_story_3_2010,toy_story_3_2010_lifer,toy_story_3_2010_lifer,Lifer,Lifer,LIFER | LIFER (CONT'D) | LIFER (V.O.),3,M,,TRUE,FALSE,TRUE,,15,15,0,206,206,0,toy_story_3_2010_s063,685,
+toy_story_3_2010,toy_story_3_2010_spanish_buzz,toy_story_3_2010_spanish_buzz,Spanish Buzz,Spanish Buzz,SPANISH BUZZ | SPANISH BUZZ (CONT'D),2,M,,TRUE,FALSE,TRUE,,14,14,0,205,205,0,toy_story_3_2010_s103,828,
+toy_story_3_2010,toy_story_3_2010_chuckles,toy_story_3_2010_chuckles,Chuckles,Chuckles,CHUCKLES | CHUCKLES (V.O.) | YOUNG CHUCKLES,3,M,,TRUE,FALSE,TRUE,,12,12,0,196,196,0,toy_story_3_2010_s050,653,
+toy_story_3_2010,toy_story_3_2010_mr_pricklepants,toy_story_3_2010_mr_pricklepants,Mr. Pricklepants,Mr. Pricklepants,MR. PRICKLEPANTS | MR. PRICKLEPANTS (O.S.),2,M,,TRUE,FALSE,TRUE,,12,12,0,89,89,0,toy_story_3_2010_s032,413,
+toy_story_3_2010,toy_story_3_2010_trixie,toy_story_3_2010_trixie,Trixie,Trixie,TRIXIE,1,F,,TRUE,FALSE,TRUE,,8,8,0,72,72,0,toy_story_3_2010_s032,422,
+toy_story_3_2010,toy_story_3_2010_buttercup,toy_story_3_2010_buttercup,Buttercup,Buttercup,BUTTERCUP | BUTTERCUP (CONT'D),2,M,,TRUE,FALSE,TRUE,,7,7,0,63,63,0,toy_story_3_2010_s032,426,
+toy_story_3_2010,toy_story_3_2010_one_eyed_bart,toy_story_3_2010_one_eyed_bart,One-Eyed Bart,One-Eyed Bart,ONE-EYED BART,1,M,,TRUE,FALSE,TRUE,,7,7,0,142,142,0,toy_story_3_2010_s002,1,
+toy_story_3_2010,toy_story_3_2010_aliens,toy_story_3_2010_aliens,Aliens,Aliens,ALIENS,1,Unknown,,FALSE,FALSE,FALSE,,6,6,0,74,74,0,toy_story_3_2010_s002,15,collective
+toy_story_3_2010,toy_story_3_2010_in_the_bag,toy_story_3_2010_in_the_bag,In The Bag,In The Bag,IN THE BAG,1,Unknown,,FALSE,FALSE,FALSE,,6,6,0,61,61,0,toy_story_3_2010_s015,160,parser artifact (scene direction)
+toy_story_3_2010,toy_story_3_2010_dolly,toy_story_3_2010_dolly,Dolly,Dolly,DOLLY,1,F,,TRUE,FALSE,TRUE,,5,5,0,38,38,0,toy_story_3_2010_s035,447,
+toy_story_3_2010,toy_story_3_2010_twitch,toy_story_3_2010_twitch,Twitch,Twitch,TWITCH,1,M,,TRUE,FALSE,TRUE,,5,5,0,84,84,0,toy_story_3_2010_s037,486,
+toy_story_3_2010,toy_story_3_2010_receptionist,toy_story_3_2010_receptionist,Receptionist,Receptionist,RECEPTIONIST,1,Unknown,,FALSE,FALSE,FALSE,,4,4,0,22,22,0,toy_story_3_2010_s023,258,
+toy_story_3_2010,toy_story_3_2010_sarge,toy_story_3_2010_sarge,Sarge,Sarge,SARGE,1,M,,TRUE,FALSE,FALSE,,4,4,0,59,59,0,toy_story_3_2010_s014,57,
+toy_story_3_2010,toy_story_3_2010_stretch,toy_story_3_2010_stretch,Stretch,Stretch,STRETCH | STRETCH (CONT'D),2,F,,TRUE,FALSE,FALSE,,4,4,0,35,35,0,toy_story_3_2010_s040,503,
+toy_story_3_2010,toy_story_3_2010_toys,toy_story_3_2010_toys,Toys,Toys,TOYS,1,Both,,FALSE,FALSE,FALSE,,4,4,0,8,8,0,toy_story_3_2010_s015,174,collective
+toy_story_3_2010,toy_story_3_2010_bookworm,toy_story_3_2010_bookworm,Bookworm,Bookworm,BOOKWORM | BOOKWORM (O.S.),2,M,,TRUE,FALSE,FALSE,,3,3,0,69,69,0,toy_story_3_2010_s042,558,
+toy_story_3_2010,toy_story_3_2010_chunk,toy_story_3_2010_chunk,Chunk,Chunk,CHUNK,1,M,,TRUE,FALSE,FALSE,,3,3,0,29,29,0,toy_story_3_2010_s037,485,
+toy_story_3_2010,toy_story_3_2010_garbage_man_one,toy_story_3_2010_garbage_man_one,Garbage Man One,Garbage Man One,GARBAGE MAN ONE (CONT'D) | GARBAGE MAN ONE (O.S.),2,M,,FALSE,FALSE,FALSE,,3,3,0,21,21,0,toy_story_3_2010_s123,1007,
+toy_story_3_2010,toy_story_3_2010_big_baby,toy_story_3_2010_big_baby,Big Baby,Big Baby,BIG BABY,1,Unknown,,TRUE,FALSE,FALSE,,2,2,0,23,23,0,toy_story_3_2010_s106,910,
+toy_story_3_2010,toy_story_3_2010_gang,toy_story_3_2010_gang,Gang,Gang,GANG | GANG (O.S.),2,Both,,FALSE,FALSE,FALSE,,2,2,0,42,42,0,toy_story_3_2010_s039,498,collective
+toy_story_3_2010,toy_story_3_2010_janitor,toy_story_3_2010_janitor,Janitor,Janitor,JANITOR | JANITOR (CONT’D),2,M,,FALSE,FALSE,FALSE,,2,2,0,17,17,0,toy_story_3_2010_s029,387,
+toy_story_3_2010,toy_story_3_2010_outside_the_bag,toy_story_3_2010_outside_the_bag,Outside The Bag,Outside The Bag,OUTSIDE THE BAG,1,Unknown,,FALSE,FALSE,FALSE,,2,2,0,15,15,0,toy_story_3_2010_s016,191,parser artifact (scene direction)
+toy_story_3_2010,toy_story_3_2010_sparks,toy_story_3_2010_sparks,Sparks,Sparks,SPARKS,1,M,,TRUE,FALSE,FALSE,,2,2,0,10,10,0,toy_story_3_2010_s040,506,
+toy_story_3_2010,toy_story_3_2010_the_toy_chest,toy_story_3_2010_the_toy_chest,The Toy Chest,The Toy Chest,THE TOY CHEST,1,Unknown,,FALSE,FALSE,FALSE,,2,2,0,18,18,0,toy_story_3_2010_s014,142,parser artifact (scene direction)
+toy_story_3_2010,toy_story_3_2010_unicorn,toy_story_3_2010_unicorn,Unicorn,Unicorn,UNICORN,1,M,,FALSE,FALSE,FALSE,,2,2,0,9,9,0,toy_story_3_2010_s032,416,possible duplicate of Buttercup
+toy_story_3_2010,toy_story_3_2010_alien,toy_story_3_2010_alien,Alien,Alien,ALIEN,1,M,,TRUE,FALSE,FALSE,,1,1,0,7,7,0,toy_story_3_2010_s116,954,
+toy_story_3_2010,toy_story_3_2010_both,toy_story_3_2010_both,Both,Both,BOTH,1,Both,,FALSE,FALSE,FALSE,,1,1,0,1,1,0,toy_story_3_2010_s032,423,collective
+toy_story_3_2010,toy_story_3_2010_butterfly_room_teacher,toy_story_3_2010_butterfly_room_teacher,Butterfly Room Teacher,Butterfly Room Teacher,BUTTERFLY ROOM TEACHER,1,F,,FALSE,FALSE,FALSE,,1,1,0,23,23,0,toy_story_3_2010_s025,273,
+toy_story_3_2010,toy_story_3_2010_doll,toy_story_3_2010_doll,Doll,Doll,DOLL,1,Unknown,,FALSE,FALSE,FALSE,,1,1,0,11,11,0,toy_story_3_2010_s035,445,
+toy_story_3_2010,toy_story_3_2010_evil_dr_porkchop,toy_story_3_2010_evil_dr_porkchop,Evil Dr. Porkchop,Evil Dr. Porkchop,EVIL DR. PORKCHOP,1,M,,TRUE,FALSE,FALSE,,1,1,0,17,17,0,toy_story_3_2010_s004,30,
+toy_story_3_2010,toy_story_3_2010_frog,toy_story_3_2010_frog,Frog,Frog,FROG,1,Unknown,,FALSE,FALSE,FALSE,,1,1,0,17,17,0,toy_story_3_2010_s124,1011,
+toy_story_3_2010,toy_story_3_2010_galloping_hooves,toy_story_3_2010_galloping_hooves,Galloping Hooves,Galloping Hooves,GALLOPING HOOVES,1,Unknown,,FALSE,FALSE,FALSE,,1,1,0,11,11,0,toy_story_3_2010_s002,7,parser artifact (scene direction)
+toy_story_3_2010,toy_story_3_2010_garbage_man_two,toy_story_3_2010_garbage_man_two,Garbage Man Two,Garbage Man Two,GARBAGE MAN TWO (O.S.),1,M,,FALSE,FALSE,FALSE,,1,1,0,2,2,0,toy_story_3_2010_s123,1008,
+toy_story_3_2010,toy_story_3_2010_jack_in_the_box,toy_story_3_2010_jack_in_the_box,Jack In The Box,Jack In The Box,JACK IN THE BOX,1,M,,FALSE,FALSE,FALSE,,1,1,0,17,17,0,toy_story_3_2010_s025,283,
+toy_story_3_2010,toy_story_3_2010_ken_barbie,toy_story_3_2010_ken_barbie,Ken & Barbie,Ken & Barbie,KEN & BARBIE,1,Both,,FALSE,FALSE,FALSE,,1,1,0,13,13,0,toy_story_3_2010_s027,354,combined-speaker label
+toy_story_3_2010,toy_story_3_2010_soldier_two,toy_story_3_2010_soldier_two,Soldier Two,Soldier Two,SOLDIER TWO,1,M,,FALSE,FALSE,FALSE,,1,1,0,14,14,0,toy_story_3_2010_s014,95,
+toy_story_3_2010,toy_story_3_2010_teacher,toy_story_3_2010_teacher,Teacher,Teacher,TEACHER,1,F,,FALSE,FALSE,FALSE,,1,1,0,31,31,0,toy_story_3_2010_s075,704,
+toy_story_3_2010,toy_story_3_2010_triceratops,toy_story_3_2010_triceratops,Triceratops,Triceratops,TRICERATOPS,1,F,,FALSE,FALSE,FALSE,,1,1,0,2,2,0,toy_story_3_2010_s032,420,possible duplicate of Trixie
+toy_story_3_2010,toy_story_3_2010_voice,toy_story_3_2010_voice,Voice,Voice,VOICE (O.S.),1,Unknown,,FALSE,FALSE,FALSE,,1,1,0,18,18,0,toy_story_3_2010_s002,4,

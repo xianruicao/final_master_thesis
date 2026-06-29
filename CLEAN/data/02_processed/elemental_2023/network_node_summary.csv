@@ -1,0 +1,11 @@
+character,name,betweenness,degree_centrality,in_degree,out_degree,clustering
+elemental_2023_ember,Ember,0.6667,1.5556,8,6,0.0303
+elemental_2023_wade,Wade,0.1111,0.7778,3,4,0.0671
+elemental_2023_brook,Brook,0.0,0.3333,1,2,0.1383
+elemental_2023_bernie,Bernie,0.0,0.6667,3,3,0.197
+elemental_2023_clod,Clod,0.0,0.2222,1,1,0.0
+elemental_2023_cinder,Cinder,0.0,0.4444,2,2,0.1776
+elemental_2023_customer,Customer,0.0,0.1111,0,1,0.0
+elemental_2023_fern,Fern,0.0,0.1111,1,0,0.0
+elemental_2023_gale,Gale,0.0,0.3333,2,1,0.1194
+elemental_2023_sparkler_customer,Sparkler Customer,0.0,0.1111,0,1,0.0

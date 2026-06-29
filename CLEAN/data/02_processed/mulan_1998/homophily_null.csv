@@ -1,0 +1,2 @@
+film_id,protagonist,n_edges,n_null_samples,homophily_obs_edge,null_mean,null_std,z_score,percentile,p_more_same_gender,p_less_same_gender,protag_samesex_obs,protag_samesex_null,protag_samesex_z,protag_samesex_pct,protag_samesex_p_more,protag_samesex_p_less
+mulan_1998,Mulan,24,2000,0.5,0.4725,0.0636,0.431,40.2,0.5987,0.8736,0.1111,0.1495,-0.64,27.2,0.7286,0.4898

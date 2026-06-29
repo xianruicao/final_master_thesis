@@ -1,0 +1,9 @@
+variable,comparison,n,pct_agree,kappa,ci
+addressee,gold (annotators agree) vs LLM,170,0.847,0.842,"[0.79, 0.90]"
+addressee,majo vs LLM,188,0.777,0.769,"[0.71, 0.83]"
+addressee,sonia vs LLM,137,0.803,0.791,"[0.72, 0.86]"
+addressee,oceane vs LLM,117,0.632,0.618,"[0.53, 0.70]"
+addressee_type,gold (annotators agree) vs LLM,183,0.896,0.645,"[0.49, 0.77]"
+addressee_type,majo vs LLM,188,0.83,0.508,"[0.37, 0.63]"
+addressee_type,sonia vs LLM,137,0.883,0.724,"[0.61, 0.83]"
+addressee_type,oceane vs LLM,119,0.748,0.33,"[0.15, 0.50]"

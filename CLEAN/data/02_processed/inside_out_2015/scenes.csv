@@ -1,0 +1,27 @@
+film_id,scene_id,scene_number,scene_header,marker_type,start_line,end_line,scene_position_pct,utterance_count,spoken_utterance_count,song_utterance_count
+inside_out_2015,inside_out_2015_s001,1,01 Golden Days,numbered_section,1,263,0.0,74,71,3
+inside_out_2015,inside_out_2015_s002,2,02 The Move,numbered_section,264,441,0.04,83,83,0
+inside_out_2015,inside_out_2015_s003,3,03 Joy and Sadness,numbered_section,442,581,0.08,67,67,0
+inside_out_2015,inside_out_2015_s004,4,04 Bedtime,numbered_section,582,708,0.12,59,59,0
+inside_out_2015,inside_out_2015_s005,5,05 Embarrassed,numbered_section,709,955,0.16,84,82,2
+inside_out_2015,inside_out_2015_s006,6,06 Outer Edge,numbered_section,956,986,0.2,9,9,0
+inside_out_2015,inside_out_2015_s007,7,07 Dinner,numbered_section,987,1157,0.24,72,72,0
+inside_out_2015,inside_out_2015_s008,8,08 Mind Map,numbered_section,1158,1296,0.28,45,44,1
+inside_out_2015,inside_out_2015_s009,9,09 Forgetters,numbered_section,1297,1379,0.32,34,33,1
+inside_out_2015,inside_out_2015_s010,10,10 Friendship,numbered_section,1380,1458,0.36,27,25,2
+inside_out_2015,inside_out_2015_s011,11,11 Saved,numbered_section,1459,1633,0.4,66,66,0
+inside_out_2015,inside_out_2015_s012,12,12 Abstract Thought,numbered_section,1634,1712,0.44,31,30,1
+inside_out_2015,inside_out_2015_s013,13,13 Imagination Land,numbered_section,1713,1811,0.48,34,34,0
+inside_out_2015,inside_out_2015_s014,14,14 No More Hockey,numbered_section,1812,1860,0.52,23,23,0
+inside_out_2015,inside_out_2015_s015,15,15 Sad Bing Bong,numbered_section,1861,1957,0.56,31,31,0
+inside_out_2015,inside_out_2015_s016,16,16 The Big Idea,numbered_section,1958,2020,0.6,23,23,0
+inside_out_2015,inside_out_2015_s017,17,17 Dream Productions,numbered_section,2021,2253,0.64,77,77,0
+inside_out_2015,inside_out_2015_s018,18,18 Subconscious,numbered_section,2254,2406,0.68,52,52,0
+inside_out_2015,inside_out_2015_s019,19,19 Riley Plans to Leave,numbered_section,2407,2457,0.72,20,19,1
+inside_out_2015,inside_out_2015_s020,20,20 Train of Thought,numbered_section,2458,2542,0.76,25,25,0
+inside_out_2015,inside_out_2015_s021,21,21 Crossroads,numbered_section,2543,2613,0.8,20,19,1
+inside_out_2015,inside_out_2015_s022,22,22 Memory Dump,numbered_section,2614,2714,0.84,21,18,3
+inside_out_2015,inside_out_2015_s023,23,23 She's Gone,numbered_section,2715,2811,0.88,24,24,0
+inside_out_2015,inside_out_2015_s024,24,24 Return,numbered_section,2812,2968,0.92,47,47,0
+inside_out_2015,inside_out_2015_s025,25,25 Change Her Mind,numbered_section,2969,3003,0.96,11,11,0
+inside_out_2015,inside_out_2015_s026,26,27 Epilogue,numbered_section,3004,3198,1.0,56,56,0

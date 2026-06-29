@@ -1,0 +1,12 @@
+character,name,betweenness,degree_centrality,in_degree,out_degree,clustering
+inside_out_2015_joy,Joy,0.4,1.1,7,4,0.03
+inside_out_2015_anger,Anger,0.2333,0.7,3,4,0.0455
+inside_out_2015_mr_andersen,Mr. Andersen,0.1778,0.5,3,2,0.0542
+inside_out_2015_riley,Riley,0.1,0.4,2,2,0.1625
+inside_out_2015_disgust,Disgust,0.0556,0.6,3,3,0.0981
+inside_out_2015_bing_bong,Bing Bong,0.0,0.4,2,2,0.3049
+inside_out_2015_fear,Fear,0.0,0.5,2,3,0.101
+inside_out_2015_male_forgetter,Male Forgetter,0.0,0.1,0,1,0.0
+inside_out_2015_female_forgetter,Female Forgetter,0.0,0.1,0,1,0.0
+inside_out_2015_mrs_andersen,Mrs. Andersen,0.0,0.4,2,2,0.1625
+inside_out_2015_sadness,Sadness,0.0,0.4,2,2,0.3049

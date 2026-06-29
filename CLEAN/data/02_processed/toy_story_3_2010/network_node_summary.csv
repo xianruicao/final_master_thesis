@@ -1,0 +1,24 @@
+character,name,betweenness,degree_centrality,in_degree,out_degree,clustering
+toy_story_3_2010_woody,Woody,0.5606,0.9545,14,7,0.0245
+toy_story_3_2010_buzz,Buzz,0.2338,0.4545,6,4,0.1244
+toy_story_3_2010_bonnie,Bonnie,0.2078,0.2273,2,3,0.0548
+toy_story_3_2010_hamm,Hamm,0.1255,0.2273,1,4,0.126
+toy_story_3_2010_ken,Ken,0.1126,0.3182,4,3,0.0345
+toy_story_3_2010_andy,Andy,0.1104,0.2727,3,3,0.0548
+toy_story_3_2010_mom,Mom,0.0823,0.1364,2,1,0.1644
+toy_story_3_2010_jessie,Jessie,0.0779,0.2727,2,4,0.1494
+toy_story_3_2010_lotso,Lotso,0.0779,0.4091,6,3,0.1143
+toy_story_3_2010_mr_potato_head,Mr. Potato Head,0.0433,0.2273,2,3,0.1278
+toy_story_3_2010_barbie,Barbie,0.0,0.0909,1,1,0.0
+toy_story_3_2010_dolly,Dolly,0.0,0.0455,0,1,0.0
+toy_story_3_2010_buttercup,Buttercup,0.0,0.0909,1,1,0.1494
+toy_story_3_2010_molly,Molly,0.0,0.0909,1,1,0.0
+toy_story_3_2010_lifer,Lifer,0.0,0.0909,1,1,0.0
+toy_story_3_2010_mr_pricklepants,Mr. Pricklepants,0.0,0.0909,0,2,0.1494
+toy_story_3_2010_mrs_potato_head,Mrs. Potato Head,0.0,0.1818,1,3,0.2055
+toy_story_3_2010_rex,Rex,0.0,0.1364,1,2,0.2134
+toy_story_3_2010_one_eyed_bart,One-Eyed Bart,0.0,0.0455,1,0,0.0
+toy_story_3_2010_slinky,Slinky,0.0,0.0909,1,1,0.0
+toy_story_3_2010_spanish_buzz,Spanish Buzz,0.0,0.0909,1,1,0.0
+toy_story_3_2010_trixie,Trixie,0.0,0.0455,0,1,0.0
+toy_story_3_2010_twitch,Twitch,0.0,0.0455,0,1,0.0

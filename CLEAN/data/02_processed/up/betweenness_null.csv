@@ -1,0 +1,10 @@
+film_id,character,gender,betw_obs,null_mean,null_std,z_score,percentile,p_high
+up,up_carl,M,0.625,0.4345,0.0882,2.161,98.8,0.013
+up,up_dug,M,0.3393,0.1241,0.0985,2.186,96.2,0.038
+up,up_alpha,M,0.2143,0.1666,0.097,0.492,66.9,0.3313
+up,up_muntz,M,0.0,0.1664,0.0998,-1.667,0.0,1.0
+up,up_russell,M,0.0,0.1639,0.106,-1.547,0.0,1.0
+up,up_ellie,F,0.0,0.0355,0.0594,-0.598,0.0,1.0
+up,up_construction_foreman_tom,M,0.0,0.0209,0.0465,-0.449,0.0,1.0
+up,up_beta,M,0.0,0.0,0.0,,0.0,1.0
+up,up_gamma,M,0.0,0.0,0.0,,0.0,1.0

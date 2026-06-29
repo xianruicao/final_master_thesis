@@ -1,0 +1,70 @@
+film_id,parser_character_id,review_character_id,parser_canonical_name,canonical_name,raw_speaker_labels,raw_speaker_label_variant_count,gender,gender_rationale,is_named,is_protagonist,included_in_network,merge_into_character_id,utterance_count,spoken_utterance_count,song_utterance_count,word_count_total,word_count_spoken_only,word_count_song_only,first_scene_id,first_event_id,review_notes
+inside_out_2015,inside_out_2015_joy,inside_out_2015_joy,Joy,Joy,JOY | Joy,2,F,,1,1,1,,298,292,6,3472,3418,54,inside_out_2015_s001,1,
+inside_out_2015,inside_out_2015_sadness,inside_out_2015_sadness,Sadness,Sadness,SADNESS | Sadness,2,F,,1,0,1,,118,117,1,910,909,1,inside_out_2015_s001,10,
+inside_out_2015,inside_out_2015_fear,inside_out_2015_fear,Fear,Fear,FEAR | Fear,2,M,,1,0,1,,101,100,1,823,820,3,inside_out_2015_s001,13,
+inside_out_2015,inside_out_2015_anger,inside_out_2015_anger,Anger,Anger,ANGER | Anger,2,M,,1,0,1,,87,85,2,683,666,17,inside_out_2015_s001,35,
+inside_out_2015,inside_out_2015_disgust,inside_out_2015_disgust,Disgust,Disgust,DISGUST | Disgust,2,F,,1,0,1,,81,81,0,738,738,0,inside_out_2015_s001,27,
+inside_out_2015,inside_out_2015_bing_bong,inside_out_2015_bing_bong,Bing Bong,Bing Bong,BING BONG | Bing Bong,2,M,,1,0,1,,78,77,1,1135,1122,13,inside_out_2015_s010,543,
+inside_out_2015,inside_out_2015_riley,inside_out_2015_riley,Riley,Riley,RILEY | Riley,2,F,,1,0,1,,47,45,2,393,388,5,inside_out_2015_s001,66,
+inside_out_2015,inside_out_2015_mrs_andersen,inside_out_2015_mrs_andersen,Mrs. Andersen,Mrs. Andersen,Mrs. Andersen,1,F,,1,0,1,,45,45,0,412,412,0,inside_out_2015_s001,4,
+inside_out_2015,inside_out_2015_mr_andersen,inside_out_2015_mr_andersen,Mr. Andersen,Mr. Andersen,Mr. Andersen,1,M,,1,0,1,,27,27,0,230,230,0,inside_out_2015_s001,5,
+inside_out_2015,inside_out_2015_female_forgetter,inside_out_2015_female_forgetter,Female Forgetter,Female Forgetter,FEMALE FORGETTER,1,F,,0,0,1,,11,11,0,100,100,0,inside_out_2015_s009,487,
+inside_out_2015,inside_out_2015_male_forgetter,inside_out_2015_male_forgetter,Male Forgetter,Male Forgetter,MALE FORGETTER | Male Forgetter,2,M,,0,0,1,,11,11,0,103,103,0,inside_out_2015_s009,488,
+inside_out_2015,inside_out_2015_dad,inside_out_2015_dad,Dad,Dad,DAD | Dad,2,M,,0,0,0,inside_out_2015_mr_andersen,9,9,0,92,92,0,inside_out_2015_s008,455,alias of Mr. Andersen
+inside_out_2015,inside_out_2015_subconscious_guard_frank,inside_out_2015_subconscious_guard_frank,Subconscious Guard Frank,Subconscious Guard Frank,SUBCONSCIOUS GUARD FRANK,1,M,,0,0,1,,9,9,0,43,43,0,inside_out_2015_s018,800,
+inside_out_2015,inside_out_2015_dream_director,inside_out_2015_dream_director,Dream Director,Dream Director,DREAM DIRECTOR | Dream Director,2,F,,0,0,1,,8,8,0,151,151,0,inside_out_2015_s017,745,voiced by Paula Pell
+inside_out_2015,inside_out_2015_mom,inside_out_2015_mom,Mom,Mom,MOM | Mom,2,F,,0,0,0,inside_out_2015_mrs_andersen,8,8,0,121,121,0,inside_out_2015_s023,933,alias of Mrs. Andersen
+inside_out_2015,inside_out_2015_subconscious_guard_dave,inside_out_2015_subconscious_guard_dave,Subconscious Guard Dave,Subconscious Guard Dave,SUBCONSCIOUS GUARD DAVE,1,M,,0,0,1,,8,8,0,54,54,0,inside_out_2015_s018,798,
+inside_out_2015,inside_out_2015_dad_s_anger,inside_out_2015_dad_s_anger,Dad's Anger,Dad's Anger,Dad's Anger,1,M,,0,0,1,,7,7,0,66,66,0,inside_out_2015_s007,409,
+inside_out_2015,inside_out_2015_dad_s_fear,inside_out_2015_dad_s_fear,Dad's Fear,Dad's Fear,Dad's Fear,1,M,,0,0,1,,7,7,0,52,52,0,inside_out_2015_s007,410,
+inside_out_2015,inside_out_2015_mom_s_sadness,inside_out_2015_mom_s_sadness,Mom's Sadness,Mom's Sadness,Mom's Sadness,1,F,,0,0,1,,6,6,0,43,43,0,inside_out_2015_s007,392,
+inside_out_2015,inside_out_2015_jangles,inside_out_2015_jangles,Jangles,Jangles,JANGLES | Jangles,2,M,,1,0,1,,5,5,0,60,60,0,inside_out_2015_s018,825,
+inside_out_2015,inside_out_2015_teacher,inside_out_2015_teacher,Teacher,Teacher,Teacher,1,F,,0,0,1,,5,5,0,91,91,0,inside_out_2015_s005,327,
+inside_out_2015,inside_out_2015_young_riley,inside_out_2015_young_riley,Young Riley,Young Riley,Young Riley,1,F,,0,0,0,inside_out_2015_riley,5,4,1,18,7,11,inside_out_2015_s001,21,alias of Riley
+inside_out_2015,inside_out_2015_meg,inside_out_2015_meg,Meg,Meg,Meg,1,F,,1,0,0,,4,4,0,59,59,0,inside_out_2015_s010,522,Riley's friend from Minnesota
+inside_out_2015,inside_out_2015_mom_s_anger,inside_out_2015_mom_s_anger,Mom's Anger,Mom's Anger,Mom's Anger,1,F,,0,0,0,,4,4,0,24,24,0,inside_out_2015_s007,395,
+inside_out_2015,inside_out_2015_mom_s_disgust,inside_out_2015_mom_s_disgust,Mom's Disgust,Mom's Disgust,Mom's Disgust,1,F,,0,0,0,,4,4,0,21,21,0,inside_out_2015_s007,394,
+inside_out_2015,inside_out_2015_hockey_coach,inside_out_2015_hockey_coach,Hockey Coach,Hockey Coach,Hockey Coach,1,M,,0,0,0,,3,3,0,20,20,0,inside_out_2015_s014,673,
+inside_out_2015,inside_out_2015_imaginary_boyfriend,inside_out_2015_imaginary_boyfriend,Imaginary Boyfriend,Imaginary Boyfriend,IMAGINARY BOYFRIEND,1,M,,0,0,0,,3,3,0,19,19,0,inside_out_2015_s013,659,
+inside_out_2015,inside_out_2015_another_memory,inside_out_2015_another_memory,Another Memory,Another Memory,Another memory,1,F,,0,0,0,,2,2,0,7,7,0,inside_out_2015_s022,915,
+inside_out_2015,inside_out_2015_brazilian_helicopter_pilot,inside_out_2015_brazilian_helicopter_pilot,Brazilian Helicopter Pilot,Brazilian Helicopter Pilot,Brazilian Helicopter Pilot,1,M,,0,0,0,,2,2,0,10,10,0,inside_out_2015_s007,448,
+inside_out_2015,inside_out_2015_female_mind_worker,inside_out_2015_female_mind_worker,Female Mind Worker,Female Mind Worker,Female Mind Worker,1,F,,0,0,0,,2,2,0,30,30,0,inside_out_2015_s012,603,
+inside_out_2015,inside_out_2015_house_of_cards_worker,inside_out_2015_house_of_cards_worker,House Of Cards Worker,House Of Cards Worker,HOUSE OF CARDS WORKER,1,M,,0,0,0,,2,2,0,27,27,0,inside_out_2015_s013,655,
+inside_out_2015,inside_out_2015_memory,inside_out_2015_memory,Memory,Memory,MEMORY,1,F,,0,0,0,,2,2,0,22,22,0,inside_out_2015_s009,518,
+inside_out_2015,inside_out_2015_memory_young_meg,inside_out_2015_memory_young_meg,Memory Young Meg,Memory Young Meg,Memory Young Meg,1,F,,0,0,0,,2,2,0,2,2,0,inside_out_2015_s001,45,
+inside_out_2015,inside_out_2015_mom_s_joy,inside_out_2015_mom_s_joy,Mom's Joy,Mom's Joy,Mom's Joy,1,F,,0,0,0,,2,2,0,3,3,0,inside_out_2015_s007,393,
+inside_out_2015,inside_out_2015_pizza_girl_s_anger,inside_out_2015_pizza_girl_s_anger,Pizza Girl's Anger,Pizza Girl's Anger,Pizza Girl's Anger,1,F,,0,0,0,,2,2,0,9,9,0,inside_out_2015_s026,1043,
+inside_out_2015,inside_out_2015_pizza_girl_s_disgust,inside_out_2015_pizza_girl_s_disgust,Pizza Girl's Disgust,Pizza Girl's Disgust,Pizza Girl's Disgust,1,F,,0,0,0,,2,2,0,9,9,0,inside_out_2015_s026,1042,
+inside_out_2015,inside_out_2015_bing_bong_joy,inside_out_2015_bing_bong_joy,Bing Bong/Joy,Bing Bong/Joy,BING BONG/JOY,1,Both,,0,0,0,,1,1,0,4,4,0,inside_out_2015_s011,569,parser artifact
+inside_out_2015,inside_out_2015_both,inside_out_2015_both,Both,Both,Both,1,Both,,0,0,0,,1,1,0,2,2,0,inside_out_2015_s012,610,parser artifact
+inside_out_2015,inside_out_2015_boyfriend_generator_worker,inside_out_2015_boyfriend_generator_worker,Boyfriend Generator Worker,Boyfriend Generator Worker,BOYFRIEND GENERATOR WORKER,1,M,,0,0,0,,1,1,0,2,2,0,inside_out_2015_s013,658,
+inside_out_2015,inside_out_2015_bus_driver_s_red_anger,inside_out_2015_bus_driver_s_red_anger,Bus Driver's Red Anger,Bus Driver's Red Anger,Bus Driver's Red Anger,1,M,,0,0,0,,1,1,0,18,18,0,inside_out_2015_s026,1054,
+inside_out_2015,inside_out_2015_cloud_man,inside_out_2015_cloud_man,Cloud Man,Cloud Man,CLOUD MAN,1,M,,0,0,0,,1,1,0,16,16,0,inside_out_2015_s013,648,
+inside_out_2015,inside_out_2015_cloud_witness,inside_out_2015_cloud_witness,Cloud Witness,Cloud Witness,CLOUD WITNESS,1,M,,0,0,0,,1,1,0,23,23,0,inside_out_2015_s023,950,
+inside_out_2015,inside_out_2015_cool_girl,inside_out_2015_cool_girl,Cool Girl,Cool Girl,Cool Girl,1,F,,0,0,0,,1,1,0,3,3,0,inside_out_2015_s026,1048,
+inside_out_2015,inside_out_2015_cool_girl_s_anger,inside_out_2015_cool_girl_s_anger,Cool Girl's Anger,Cool Girl's Anger,Cool Girl's Anger,1,F,,0,0,0,,1,1,0,7,7,0,inside_out_2015_s026,1050,
+inside_out_2015,inside_out_2015_cool_girl_s_fear,inside_out_2015_cool_girl_s_fear,Cool Girl's Fear,Cool Girl's Fear,Cool Girl's Fear,1,F,,0,0,0,,1,1,0,12,12,0,inside_out_2015_s026,1049,
+inside_out_2015,inside_out_2015_cool_girl_s_sadness,inside_out_2015_cool_girl_s_sadness,Cool Girl's Sadness,Cool Girl's Sadness,Cool Girl's Sadness,1,F,,0,0,0,,1,1,0,5,5,0,inside_out_2015_s026,1051,
+inside_out_2015,inside_out_2015_dream_bear,inside_out_2015_dream_bear,Dream Bear,Dream Bear,Dream Bear,1,M,,0,0,0,,1,1,0,5,5,0,inside_out_2015_s004,279,
+inside_out_2015,inside_out_2015_dream_mouse,inside_out_2015_dream_mouse,Dream Mouse,Dream Mouse,Dream Mouse,1,M,,0,0,0,,1,1,0,6,6,0,inside_out_2015_s004,278,
+inside_out_2015,inside_out_2015_dream_mr_andersen,inside_out_2015_dream_mr_andersen,Dream Mr. Andersen,Dream Mr. Andersen,Dream Mr. Andersen,1,M,,0,0,0,,1,1,0,7,7,0,inside_out_2015_s004,277,
+inside_out_2015,inside_out_2015_dream_pizza,inside_out_2015_dream_pizza,Dream Pizza,Dream Pizza,Dream Pizza,1,M,,0,0,0,,1,1,0,4,4,0,inside_out_2015_s004,280,non-character object
+inside_out_2015,inside_out_2015_dream_productions_cop,inside_out_2015_dream_productions_cop,Dream Productions Cop,Dream Productions Cop,DREAM PRODUCTIONS COP,1,M,,0,0,0,,1,1,0,22,22,0,inside_out_2015_s017,795,
+inside_out_2015,inside_out_2015_emotions,inside_out_2015_emotions,Emotions,Emotions,Emotions,1,Both,,0,0,0,,1,1,0,1,1,0,inside_out_2015_s026,1014,group label
+inside_out_2015,inside_out_2015_fear_and_sadness,inside_out_2015_fear_and_sadness,Fear And Sadness,Fear And Sadness,Fear and Sadness,1,Both,,0,0,0,,1,1,0,1,1,0,inside_out_2015_s001,32,parser artifact
+inside_out_2015,inside_out_2015_hockey_announcer,inside_out_2015_hockey_announcer,Hockey Announcer,Hockey Announcer,Hockey Announcer,1,M,,0,0,0,,1,1,0,10,10,0,inside_out_2015_s007,407,
+inside_out_2015,inside_out_2015_imaginary_boyfriends,inside_out_2015_imaginary_boyfriends,Imaginary Boyfriends,Imaginary Boyfriends,IMAGINARY BOYFRIENDS,1,M,,0,0,0,,1,1,0,2,2,0,inside_out_2015_s024,974,
+inside_out_2015,inside_out_2015_jangles_joy,inside_out_2015_jangles_joy,Jangles' Joy,Jangles' Joy,Jangles' Joy,1,F,,0,0,0,,1,1,0,7,7,0,inside_out_2015_s026,1053,
+inside_out_2015,inside_out_2015_male_mind_worker,inside_out_2015_male_mind_worker,Male Mind Worker,Male Mind Worker,Male Mind Worker,1,M,,0,0,0,,1,1,0,2,2,0,inside_out_2015_s012,604,
+inside_out_2015,inside_out_2015_memory_mr_andersen,inside_out_2015_memory_mr_andersen,Memory Mr. Andersen,Memory Mr. Andersen,Memory Mr. Andersen,1,M,,0,0,0,,1,1,0,7,7,0,inside_out_2015_s001,6,
+inside_out_2015,inside_out_2015_mind_worker,inside_out_2015_mind_worker,Mind Worker,Mind Worker,Mind Worker,1,M,,0,0,0,,1,1,0,6,6,0,inside_out_2015_s020,891,
+inside_out_2015,inside_out_2015_mom_s_fear,inside_out_2015_mom_s_fear,Mom's Fear,Mom's Fear,Mom's Fear,1,F,,0,0,0,,1,1,0,8,8,0,inside_out_2015_s007,417,
+inside_out_2015,inside_out_2015_pizza_girl,inside_out_2015_pizza_girl,Pizza Girl,Pizza Girl,Pizza Girl,1,F,,0,0,0,,1,1,0,4,4,0,inside_out_2015_s026,1041,
+inside_out_2015,inside_out_2015_pizza_girl_s_fear,inside_out_2015_pizza_girl_s_fear,Pizza Girl's Fear,Pizza Girl's Fear,Pizza Girl's Fear,1,F,,0,0,0,,1,1,0,2,2,0,inside_out_2015_s026,1047,
+inside_out_2015,inside_out_2015_pizza_girl_s_joy,inside_out_2015_pizza_girl_s_joy,Pizza Girl's Joy,Pizza Girl's Joy,Pizza Girl's Joy,1,F,,0,0,0,,1,1,0,2,2,0,inside_out_2015_s026,1046,
+inside_out_2015,inside_out_2015_riley_voice,inside_out_2015_riley_voice,Riley Voice,Riley Voice,RILEY VOICE,1,F,,0,0,0,inside_out_2015_riley,1,1,0,13,13,0,inside_out_2015_s017,765,alias of Riley
+inside_out_2015,inside_out_2015_teacher_s_disgust,inside_out_2015_teacher_s_disgust,Teacher's Disgust,Teacher's Disgust,Teacher's Disgust,1,F,,0,0,0,,1,1,0,5,5,0,inside_out_2015_s026,1037,
+inside_out_2015,inside_out_2015_teacher_s_joy,inside_out_2015_teacher_s_joy,Teacher's Joy,Teacher's Joy,Teacher's Joy,1,F,,0,0,0,,1,1,0,10,10,0,inside_out_2015_s026,1039,
+inside_out_2015,inside_out_2015_teacher_s_sadness,inside_out_2015_teacher_s_sadness,Teacher's Sadness,Teacher's Sadness,Teacher's Sadness,1,F,,0,0,0,,1,1,0,10,10,0,inside_out_2015_s026,1038,
+inside_out_2015,inside_out_2015_train_engineer,inside_out_2015_train_engineer,Train Engineer,Train Engineer,TRAIN ENGINEER,1,M,,0,0,0,,1,1,0,8,8,0,inside_out_2015_s017,730,voiced by Patrick Seitz
+inside_out_2015,inside_out_2015_worker_fritz,inside_out_2015_worker_fritz,Worker Fritz,Worker Fritz,WORKER FRITZ,1,M,,1,0,0,,1,1,0,15,15,0,inside_out_2015_s026,1013,voiced by John Ratzenberger

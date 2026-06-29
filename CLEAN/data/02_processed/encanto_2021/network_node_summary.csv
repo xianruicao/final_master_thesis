@@ -1,0 +1,14 @@
+character,name,betweenness,degree_centrality,in_degree,out_degree,clustering
+encanto_2021_mirabel,Mirabel,0.75,1.6667,10,10,0.0098
+encanto_2021_isabela,Isabela,0.0682,0.25,2,1,0.1995
+encanto_2021_antonio,Antonio,0.0,0.25,1,2,0.1982
+encanto_2021_agustin,Agustin,0.0,0.0833,1,0,0.0
+encanto_2021_abuela_alma,Abuela Alma,0.0,0.25,1,2,0.2472
+encanto_2021_innocent_cecilia,Innocent Cecilia,0.0,0.0833,0,1,0.0
+encanto_2021_dolores,Dolores,0.0,0.1667,1,1,0.0
+encanto_2021_kids_town,Kids/Town,0.0,0.0833,0,1,0.0
+encanto_2021_julieta,Julieta,0.0,0.1667,1,1,0.0
+encanto_2021_luisa,Luisa,0.0,0.1667,1,1,0.0
+encanto_2021_mariano,Mariano,0.0,0.1667,1,1,0.1995
+encanto_2021_pepa,Pepa,0.0,0.25,2,1,0.2472
+encanto_2021_tio_bruno,Tio Bruno,0.0,0.25,2,1,0.1982

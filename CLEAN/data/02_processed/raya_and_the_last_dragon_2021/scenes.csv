@@ -1,0 +1,78 @@
+film_id,scene_id,scene_number,scene_header,marker_type,start_line,end_line,scene_position_pct,utterance_count,spoken_utterance_count,song_utterance_count
+raya_and_the_last_dragon_2021,raya_and_the_last_dragon_2021_s001,1,EXT. DYSTOPIC KUMANDRA - DAY,slug_line,7,89,0.0,13,13,0
+raya_and_the_last_dragon_2021,raya_and_the_last_dragon_2021_s002,2,INT. DARK ROOM - NIGHT,slug_line,90,101,0.0132,2,2,0
+raya_and_the_last_dragon_2021,raya_and_the_last_dragon_2021_s003,3,EXT. HEART PALACE GROUNDS - CONTINUOUS,slug_line,102,105,0.0263,0,0,0
+raya_and_the_last_dragon_2021,raya_and_the_last_dragon_2021_s004,4,INT. DRAGON TEMPLE - CONTINUOUS,slug_line,106,146,0.0395,6,6,0
+raya_and_the_last_dragon_2021,raya_and_the_last_dragon_2021_s005,5,INT. CHAMBER OF THE DRAGON GEM - CONTINUOUS,slug_line,147,247,0.0526,15,15,0
+raya_and_the_last_dragon_2021,raya_and_the_last_dragon_2021_s006,6,EXT. HEART PALACE - DAY,slug_line,248,253,0.0658,0,0,0
+raya_and_the_last_dragon_2021,raya_and_the_last_dragon_2021_s007,7,INT. PALACE HALLWAY - DAY,slug_line,254,315,0.0789,12,12,0
+raya_and_the_last_dragon_2021,raya_and_the_last_dragon_2021_s008,8,INT. KITCHEN - DAY.,slug_line,316,375,0.0921,13,13,0
+raya_and_the_last_dragon_2021,raya_and_the_last_dragon_2021_s009,9,EXT. BRIDGE - NEW DAY,slug_line,376,457,0.1053,17,17,0
+raya_and_the_last_dragon_2021,raya_and_the_last_dragon_2021_s010,10,INT. PALACE - NIGHT,slug_line,458,563,0.1184,27,27,0
+raya_and_the_last_dragon_2021,raya_and_the_last_dragon_2021_s011,11,INT. DRAGON TEMPLE - NIGHT,slug_line,564,591,0.1316,4,4,0
+raya_and_the_last_dragon_2021,raya_and_the_last_dragon_2021_s012,12,INT. PALACE - DAY,slug_line,592,600,0.1447,1,1,0
+raya_and_the_last_dragon_2021,raya_and_the_last_dragon_2021_s013,13,INT. DRAGON TEMPLE - NIGHT,slug_line,601,687,0.1579,15,15,0
+raya_and_the_last_dragon_2021,raya_and_the_last_dragon_2021_s014,14,EXT. HEART BRIDGE - DAY,slug_line,688,733,0.1711,12,12,0
+raya_and_the_last_dragon_2021,raya_and_the_last_dragon_2021_s015,15,EXT. TAIL DESERT - DAY,slug_line,734,741,0.1842,0,0,0
+raya_and_the_last_dragon_2021,raya_and_the_last_dragon_2021_s016,16,EXT. TAIL OUTSKIRTS - DAY,slug_line,742,775,0.1974,4,4,0
+raya_and_the_last_dragon_2021,raya_and_the_last_dragon_2021_s017,17,EXT. DRIED UP OCEAN BASIN - DAY,slug_line,776,788,0.2105,2,2,0
+raya_and_the_last_dragon_2021,raya_and_the_last_dragon_2021_s018,18,INT. SHIP WRECKAGE - DAY,slug_line,789,913,0.2237,24,24,0
+raya_and_the_last_dragon_2021,raya_and_the_last_dragon_2021_s019,19,EXT. THE BOAT - CONTINUOUS,slug_line,914,918,0.2368,1,1,0
+raya_and_the_last_dragon_2021,raya_and_the_last_dragon_2021_s020,20,INT. THE BOAT - CONTINUOUS,slug_line,919,1009,0.25,28,27,1
+raya_and_the_last_dragon_2021,raya_and_the_last_dragon_2021_s021,21,EXT. TAIL DESERT - DAY,slug_line,1010,1034,0.2632,3,3,0
+raya_and_the_last_dragon_2021,raya_and_the_last_dragon_2021_s022,22,EXT. TAIL RUINS - DAY,slug_line,1035,1086,0.2763,11,11,0
+raya_and_the_last_dragon_2021,raya_and_the_last_dragon_2021_s023,23,INT. THE TAIL DRAGON TEMPLE - DAY,slug_line,1087,1152,0.2895,17,17,0
+raya_and_the_last_dragon_2021,raya_and_the_last_dragon_2021_s024,24,INT. TAIL RUINS INMOST CHAMBER - MOMENTS LATER,slug_line,1153,1282,0.3026,29,29,0
+raya_and_the_last_dragon_2021,raya_and_the_last_dragon_2021_s025,25,EXT. TAIL RUINS - CONTINUOUS,slug_line,1283,1287,0.3158,1,1,0
+raya_and_the_last_dragon_2021,raya_and_the_last_dragon_2021_s026,26,EXT. SLOT CANYONS - DAY,slug_line,1288,1326,0.3289,9,8,1
+raya_and_the_last_dragon_2021,raya_and_the_last_dragon_2021_s027,27,INT. SHRIMP BOAT - DAY,slug_line,1327,1416,0.3421,21,21,0
+raya_and_the_last_dragon_2021,raya_and_the_last_dragon_2021_s028,28,EXT. KUMANDRAN RIVER - ESTABLISHING - DAY,slug_line,1417,1423,0.3553,0,0,0
+raya_and_the_last_dragon_2021,raya_and_the_last_dragon_2021_s029,29,EXT. BOUN’S SHRIMP BOAT - DAY,slug_line,1424,1527,0.3684,24,24,0
+raya_and_the_last_dragon_2021,raya_and_the_last_dragon_2021_s030,30,EXT. DRAGON GRAVEYARD - DAY,slug_line,1528,1534,0.3816,0,0,0
+raya_and_the_last_dragon_2021,raya_and_the_last_dragon_2021_s031,31,EXT. THE RIVER - EARLY EVENING,slug_line,1535,1580,0.3947,8,8,0
+raya_and_the_last_dragon_2021,raya_and_the_last_dragon_2021_s032,32,EXT. CITY OF TALON - ESTABLISHING - NIGHT,slug_line,1581,1593,0.4079,3,3,0
+raya_and_the_last_dragon_2021,raya_and_the_last_dragon_2021_s033,33,EXT. SHRIMP BOAT - NIGHT,slug_line,1594,1609,0.4211,4,4,0
+raya_and_the_last_dragon_2021,raya_and_the_last_dragon_2021_s034,34,INT. GANGSTER’S LAIR - FANTASY,slug_line,1610,1643,0.4342,9,9,0
+raya_and_the_last_dragon_2021,raya_and_the_last_dragon_2021_s035,35,EXT. TALON DOCK - CONTINUOUS,slug_line,1644,1652,0.4474,2,2,0
+raya_and_the_last_dragon_2021,raya_and_the_last_dragon_2021_s036,36,EXT. TALON STREET - NIGHT,slug_line,1653,1694,0.4605,8,8,0
+raya_and_the_last_dragon_2021,raya_and_the_last_dragon_2021_s037,37,EXT. SHRIMP BOAT - CONTINUOUS,slug_line,1695,1722,0.4737,6,6,0
+raya_and_the_last_dragon_2021,raya_and_the_last_dragon_2021_s038,38,EXT. TALON MARKET - NIGHT,slug_line,1723,1781,0.4868,12,12,0
+raya_and_the_last_dragon_2021,raya_and_the_last_dragon_2021_s039,39,EXT. TALON STREET - NIGHT,slug_line,1782,1816,0.5,5,5,0
+raya_and_the_last_dragon_2021,raya_and_the_last_dragon_2021_s040,40,EXT. TALON CHIEF HOME - NIGHT,slug_line,1817,1848,0.5132,6,6,0
+raya_and_the_last_dragon_2021,raya_and_the_last_dragon_2021_s041,41,EXT. TALON GATES - NIGHT,slug_line,1849,1883,0.5263,7,7,0
+raya_and_the_last_dragon_2021,raya_and_the_last_dragon_2021_s042,42,EXT. TALON JUNGLE - NIGHT,slug_line,1884,1937,0.5395,12,12,0
+raya_and_the_last_dragon_2021,raya_and_the_last_dragon_2021_s043,43,EXT. DOCKYARDS - NIGHT,slug_line,1938,2002,0.5526,19,19,0
+raya_and_the_last_dragon_2021,raya_and_the_last_dragon_2021_s044,44,INT. FANG THRONE ROOM - DAY,slug_line,2003,2073,0.5658,14,14,0
+raya_and_the_last_dragon_2021,raya_and_the_last_dragon_2021_s045,45,EXT. KUMANDRAN RIVER - ESTABLISHING - DAY,slug_line,2074,2075,0.5789,0,0,0
+raya_and_the_last_dragon_2021,raya_and_the_last_dragon_2021_s046,46,EXT. SHRIMP BOAT - DAY,slug_line,2076,2180,0.5921,27,27,0
+raya_and_the_last_dragon_2021,raya_and_the_last_dragon_2021_s047,47,EXT. SPINE VILLAGE - NIGHT,slug_line,2181,2206,0.6053,6,6,0
+raya_and_the_last_dragon_2021,raya_and_the_last_dragon_2021_s048,48,INT. TONG’S CABIN - NIGHT,slug_line,2207,2311,0.6184,29,29,0
+raya_and_the_last_dragon_2021,raya_and_the_last_dragon_2021_s049,49,EXT. SPINE VILLAGE - CONTINUOUS,slug_line,2312,2317,0.6316,1,1,0
+raya_and_the_last_dragon_2021,raya_and_the_last_dragon_2021_s050,50,INT. TONG’S CABIN - CONTINUOUS,slug_line,2318,2357,0.6447,7,7,0
+raya_and_the_last_dragon_2021,raya_and_the_last_dragon_2021_s051,51,EXT. SPINE GATES,slug_line,2358,2449,0.6579,17,17,0
+raya_and_the_last_dragon_2021,raya_and_the_last_dragon_2021_s052,52,EXT. RIVER - ESTABLISHING - NIGHT,slug_line,2450,2451,0.6711,0,0,0
+raya_and_the_last_dragon_2021,raya_and_the_last_dragon_2021_s053,53,EXT. BOUN’S SHIP - LATER- NIGHT,slug_line,2452,2522,0.6842,14,14,0
+raya_and_the_last_dragon_2021,raya_and_the_last_dragon_2021_s054,54,EXT. KUMANDRAN RIVER - DAY,slug_line,2523,2567,0.6974,9,9,0
+raya_and_the_last_dragon_2021,raya_and_the_last_dragon_2021_s055,55,INT. FANG PALACE - CONTINUOUS,slug_line,2568,2582,0.7105,3,3,0
+raya_and_the_last_dragon_2021,raya_and_the_last_dragon_2021_s056,56,EXT. BOUN’S BOAT - DAY,slug_line,2583,2659,0.7237,21,21,0
+raya_and_the_last_dragon_2021,raya_and_the_last_dragon_2021_s057,57,EXT. SKY (OVER HEART) - DAY,slug_line,2660,2668,0.7368,2,2,0
+raya_and_the_last_dragon_2021,raya_and_the_last_dragon_2021_s058,58,INT. CHAMBER OF THE DRAGON GEM - CONTINUOUS,slug_line,2669,2759,0.75,17,17,0
+raya_and_the_last_dragon_2021,raya_and_the_last_dragon_2021_s059,59,EXT. HEART BRIDGE - DAY,slug_line,2760,2806,0.7632,12,12,0
+raya_and_the_last_dragon_2021,raya_and_the_last_dragon_2021_s060,60,EXT. FANG COURTYARD OR FIELD - DAY,slug_line,2807,2874,0.7763,16,16,0
+raya_and_the_last_dragon_2021,raya_and_the_last_dragon_2021_s061,61,EXT. FANG OUTSKIRTS - DAY,slug_line,2875,2912,0.7895,8,8,0
+raya_and_the_last_dragon_2021,raya_and_the_last_dragon_2021_s062,62,INT. NAMAARI’S CHAMBERS - NIGHT,slug_line,2913,2923,0.8026,1,1,0
+raya_and_the_last_dragon_2021,raya_and_the_last_dragon_2021_s063,63,INT. SHRIMP BOAT - NIGHT,slug_line,2924,2998,0.8158,19,19,0
+raya_and_the_last_dragon_2021,raya_and_the_last_dragon_2021_s064,64,EXT. FANG CLIFFSIDE - NIGHT,slug_line,2999,3093,0.8289,25,25,0
+raya_and_the_last_dragon_2021,raya_and_the_last_dragon_2021_s065,65,INT. FANG CITY - THRONE ROOM,slug_line,3094,3096,0.8421,0,0,0
+raya_and_the_last_dragon_2021,raya_and_the_last_dragon_2021_s066,66,EXT. FANG CLIFFSIDE - NIGHT,slug_line,3097,3106,0.8553,1,1,0
+raya_and_the_last_dragon_2021,raya_and_the_last_dragon_2021_s067,67,EXT. FANG OUTSKIRTS - ESTABLISHING - DAY,slug_line,3107,3115,0.8684,0,0,0
+raya_and_the_last_dragon_2021,raya_and_the_last_dragon_2021_s068,68,EXT. FANG CITY - CONTINUOUS,slug_line,3116,3121,0.8816,0,0,0
+raya_and_the_last_dragon_2021,raya_and_the_last_dragon_2021_s069,69,EXT. FANG THRONE ROOM - DAY,slug_line,3122,3134,0.8947,2,2,0
+raya_and_the_last_dragon_2021,raya_and_the_last_dragon_2021_s070,70,EXT. FANG CITY ENTRANCE - CONTINUOUS,slug_line,3135,3177,0.9079,7,7,0
+raya_and_the_last_dragon_2021,raya_and_the_last_dragon_2021_s071,71,INT. FANG CITY - THRONE ROOM - CONTINUOUS,slug_line,3178,3217,0.9211,6,6,0
+raya_and_the_last_dragon_2021,raya_and_the_last_dragon_2021_s072,72,EXT. FANG CITY - MOMENTS LATER,slug_line,3218,3365,0.9342,25,25,0
+raya_and_the_last_dragon_2021,raya_and_the_last_dragon_2021_s073,73,EXT. KUMANDRA (VARIOUS LOCATIONS) - DAY,slug_line,3366,3368,0.9474,0,0,0
+raya_and_the_last_dragon_2021,raya_and_the_last_dragon_2021_s074,74,EXT. FANG CITY - THRONE ROOM STEPS - CONTINUOUS,slug_line,3369,3371,0.9605,0,0,0
+raya_and_the_last_dragon_2021,raya_and_the_last_dragon_2021_s075,75,EXT. FANG COURTYARD - CONTINUOUS,slug_line,3372,3379,0.9737,1,1,0
+raya_and_the_last_dragon_2021,raya_and_the_last_dragon_2021_s076,76,EXT. RIVER - NIGHT,slug_line,3380,3429,0.9868,10,10,0
+raya_and_the_last_dragon_2021,raya_and_the_last_dragon_2021_s077,77,EXT. HEART BRIDGE - DAY,slug_line,3430,3469,1.0,6,6,0

@@ -1,0 +1,2 @@
+film_id,protagonist,n_edges,n_null_samples,homophily_obs_edge,null_mean,null_std,z_score,percentile,p_more_same_gender,p_less_same_gender,protag_samesex_obs,protag_samesex_null,protag_samesex_z,protag_samesex_pct,protag_samesex_p_more,protag_samesex_p_less
+monsters_inc_2001,Sulley,30,2000,0.6667,0.6838,0.0311,-0.552,0.0,1.0,0.7556,0.625,0.7256,-1.489,1.0,0.9905,0.0935

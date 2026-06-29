@@ -1,0 +1,78 @@
+film_id,parser_character_id,review_character_id,parser_canonical_name,canonical_name,raw_speaker_labels,raw_speaker_label_variant_count,gender,gender_rationale,is_named,is_protagonist,included_in_network,merge_into_character_id,utterance_count,spoken_utterance_count,song_utterance_count,word_count_total,word_count_spoken_only,word_count_song_only,first_scene_id,first_event_id,review_notes
+coco_2017,coco_2017_miguel,coco_2017_miguel,Miguel,Miguel,MIGUEL | MIGUEL (CONT'D) | MIGUEL (O.S.) | MIGUEL (V.O) | MIGUEL (V.O.),5,M,,1,1,1,,343,329,14,2754,2424,330,coco_2017_s001,1,Miguel Rivera
+coco_2017,coco_2017_h_ctor,coco_2017_h_ctor,H Ctor,Héctor,H CTOR | H CTOR (CONT'D) | H CTOR (O.S.) | H CTOR (V.O.) | YOUNG H CTOR,5,M,,1,False,1,,182,177,5,1816,1692,124,coco_2017_s029,294,Héctor (accent stripped by parser)
+coco_2017,coco_2017_de_la_cruz,coco_2017_de_la_cruz,De La Cruz,De La Cruz,DE LA CRUZ | DE LA CRUZ (CONT'D) | DE LA CRUZ (FILM CLIP) | YOUNG DE LA CRUZ | YOUNG DE LA CRUZ (CONT'D),5,M,,1,0,1,,89,81,8,894,746,148,coco_2017_s009,53,Ernesto de la Cruz
+coco_2017,coco_2017_mam_imelda,coco_2017_mam_imelda,Mam Imelda,Mam Imelda,MAM  IMELDA | MAM  IMELDA (CONT'D),2,F,,1,0,1,,69,63,6,571,503,68,coco_2017_s031,314,Mamá Imelda
+coco_2017,coco_2017_abuelita,coco_2017_abuelita,Abuelita,Abuelita,ABUELITA | ABUELITA (CONT'D) | ABUELITA (O.S.),3,F,,1,0,1,,51,51,0,406,406,0,coco_2017_s004,22,
+coco_2017,coco_2017_pap,coco_2017_pap,Pap,Pap,PAP | PAP  (O.S.),2,M,,1,0,1,,22,22,0,146,146,0,coco_2017_s013,95,Papá (Miguel's father)
+coco_2017,coco_2017_pap_julio,coco_2017_pap_julio,Pap Julio,Pap Julio,PAP  JULIO | PAP  JULIO (CONT'D),2,M,,1,0,1,,18,18,0,83,83,0,coco_2017_s027,241,Papá Julio
+coco_2017,coco_2017_chicharr_n,coco_2017_chicharr_n,Chicharr N,Chicharrón,CHICHARR N,1,M,,1,0,1,,13,13,0,89,89,0,coco_2017_s049,516,Chicharrón (accent stripped)
+coco_2017,coco_2017_clerk,coco_2017_clerk,Clerk,Clerk,CLERK,1,M,,0,0,1,,13,13,0,143,143,0,coco_2017_s031,324,voiced by Gabriel Iglesias
+coco_2017,coco_2017_frida,coco_2017_frida,Frida,Frida,FRIDA | FRIDA (CONT'D),2,F,,1,0,1,,13,13,0,177,177,0,coco_2017_s045,450,Frida Kahlo
+coco_2017,coco_2017_mam_coco,coco_2017_mam_coco,Mam Coco,Mam Coco,MAM  COCO | MAM  COCO (CONT'D),2,F,,1,0,1,,13,13,0,67,67,0,coco_2017_s001,16,Mamá Coco
+coco_2017,coco_2017_t_a_rosita,coco_2017_t_a_rosita,T A Rosita,Tía Rosita,T A ROSITA,1,F,,1,0,1,,13,13,0,65,65,0,coco_2017_s027,242,Tía Rosita
+coco_2017,coco_2017_mam,coco_2017_mam,Mam,Mam,MAM | MAM  (CONT'D),2,F,,1,0,1,,10,10,0,73,73,0,coco_2017_s009,37,Mamá — Miguel's mother
+coco_2017,coco_2017_departures_agent,coco_2017_departures_agent,Departures Agent,Departures Agent,DEPARTURES AGENT | DEPARTURES AGENT (CONT'D),2,F,,0,0,1,,9,9,0,53,53,0,coco_2017_s029,286,voiced by Carla Medina
+coco_2017,coco_2017_plaza_mariachi,coco_2017_plaza_mariachi,Plaza Mariachi,Plaza Mariachi,PLAZA MARIACHI | PLAZA MARIACHI (CONT'D),2,M,,0,0,1,,9,9,0,124,124,0,coco_2017_s011,61,voiced by Lombardo Boyar
+coco_2017,coco_2017_t_a_victoria,coco_2017_t_a_victoria,T A Victoria,Tía Victoria,T A VICTORIA,1,F,,1,0,1,,8,8,0,37,37,0,coco_2017_s027,243,Tía Victoria
+coco_2017,coco_2017_t_o_oscar,coco_2017_t_o_oscar,T O Oscar,Tío Oscar,T O OSCAR,1,M,,1,0,1,,8,8,0,33,33,0,coco_2017_s027,258,Tío Oscar
+coco_2017,coco_2017_emcee,coco_2017_emcee,Emcee,Emcee,EMCEE | EMCEE (CONT'D) | EMCEE (O.S.),3,F,,0,0,1,,7,7,0,101,101,0,coco_2017_s051,556,voiced by Blanca Araceli
+coco_2017,coco_2017_security_guard,coco_2017_security_guard,Security Guard,Security Guard,SECURITY GUARD,1,M,,0,0,1,,7,7,0,31,31,0,coco_2017_s055,650,
+coco_2017,coco_2017_t_o_felipe,coco_2017_t_o_felipe,T O Felipe,Tío Felipe,T O FELIPE,1,M,,1,0,1,,6,6,0,27,27,0,coco_2017_s027,257,Tío Felipe
+coco_2017,coco_2017_corrections_officer,coco_2017_corrections_officer,Corrections Officer,Corrections Officer,CORRECTIONS OFFICER,1,M,,0,0,1,,5,5,0,53,53,0,coco_2017_s035,386,
+coco_2017,coco_2017_t_o_berto,coco_2017_t_o_berto,T O Berto,Tío Berto,T O BERTO,1,M,,1,0,1,,5,5,0,32,32,0,coco_2017_s011,84,Tío Berto
+coco_2017,coco_2017_arrivals_agent,coco_2017_arrivals_agent,Arrivals Agent,Arrivals Agent,ARRIVALS AGENT | ARRIVALS AGENT (O.S.),2,M,,0,0,0,,4,4,0,16,16,0,coco_2017_s029,282,
+coco_2017,coco_2017_crowd,coco_2017_crowd,Crowd,Crowd,CROWD,1,Both,,0,0,0,,4,4,0,8,8,0,coco_2017_s052,570,group
+coco_2017,coco_2017_crowd_member,coco_2017_crowd_member,Crowd Member,Crowd Member,CROWD MEMBER,1,M,,0,0,0,,4,4,0,8,8,0,coco_2017_s077,888,
+coco_2017,coco_2017_gustavo,coco_2017_gustavo,Gustavo,Gustavo,GUSTAVO,1,M,,1,0,0,,4,4,0,62,62,0,coco_2017_s045,474,
+coco_2017,coco_2017_patrolman,coco_2017_patrolman,Patrolman,Patrolman,PATROLMAN,1,M,,0,0,0,,4,4,0,19,19,0,coco_2017_s033,382,
+coco_2017,coco_2017_stagehand,coco_2017_stagehand,Stagehand,Stagehand,STAGEHAND,1,M,,0,0,0,,4,4,0,29,29,0,coco_2017_s052,569,
+coco_2017,coco_2017_canned_loop,coco_2017_canned_loop,Canned Loop,Canned Loop,CANNED LOOP (V.O.),1,M,,0,0,0,,3,3,0,48,48,0,coco_2017_s029,281,
+coco_2017,coco_2017_don_hidalgo,coco_2017_don_hidalgo,Don Hidalgo,Don Hidalgo,DON HIDALGO (FILM CLIP),1,M,,1,0,0,,3,3,0,27,27,0,coco_2017_s059,699,
+coco_2017,coco_2017_nun,coco_2017_nun,Nun,Nun,NUN (FILM CLIP),1,F,,0,0,0,,3,3,0,22,22,0,coco_2017_s016,145,
+coco_2017,coco_2017_tour_guide,coco_2017_tour_guide,Tour Guide,Tour Guide,TOUR GUIDE | TOUR GUIDE (CONT'D) | TOUR GUIDE (O.S.),3,M,,0,0,0,,3,3,0,69,69,0,coco_2017_s009,49,
+coco_2017,coco_2017_woman,coco_2017_woman,Woman,Woman,WOMAN | WOMAN (CONT'D),2,F,,0,0,0,,3,3,0,15,15,0,coco_2017_s009,40,
+coco_2017,coco_2017_audience_member,coco_2017_audience_member,Audience Member,Audience Member,AUDIENCE MEMBER | AUDIENCE MEMBER (O.S.),2,M,,0,0,0,,2,2,0,9,9,0,coco_2017_s052,599,
+coco_2017,coco_2017_band_leader,coco_2017_band_leader,Band Leader,Band Leader,BAND LEADER,1,M,,0,0,0,,2,2,0,20,20,0,coco_2017_s055,658,
+coco_2017,coco_2017_cecilia,coco_2017_cecilia,Cecilia,Cecilia,CECILIA,1,F,,1,0,0,,2,2,0,30,30,0,coco_2017_s042,442,
+coco_2017,coco_2017_dante,coco_2017_dante,Dante,Dante,DANTE (O.S) | DANTE (O.S.),2,M,,1,0,0,,2,2,0,3,3,0,coco_2017_s071,821,Miguel's dog
+coco_2017,coco_2017_de_la_cruz_mam_imelda,coco_2017_de_la_cruz_mam_imelda,De La Cruz/Mam Imelda,De La Cruz/Mam Imelda,DE LA CRUZ/MAM  IMELDA,1,Both,,0,0,0,,2,0,2,21,0,21,coco_2017_s077,898,parser artifact — two speakers
+coco_2017,coco_2017_groundskeeper,coco_2017_groundskeeper,Groundskeeper,Groundskeeper,GROUNDSKEEPER,1,M,,0,0,0,,2,2,0,7,7,0,coco_2017_s026,223,
+coco_2017,coco_2017_guest,coco_2017_guest,Guest,Guest,GUEST,1,M,,0,0,0,,2,2,0,6,6,0,coco_2017_s055,651,
+coco_2017,coco_2017_musicians,coco_2017_musicians,Musicians,Musicians,MUSICIANS,1,Both,,0,0,0,,2,1,1,9,5,4,coco_2017_s008,32,group
+coco_2017,coco_2017_skeleton_head,coco_2017_skeleton_head,Skeleton Head,Skeleton Head,SKELETON HEAD,1,M,,0,0,0,,2,2,0,4,4,0,coco_2017_s027,233,
+coco_2017,coco_2017_stage_manager,coco_2017_stage_manager,Stage Manager,Stage Manager,STAGE MANAGER,1,M,,0,0,0,,2,2,0,21,21,0,coco_2017_s023,210,
+coco_2017,coco_2017_t_a_chelo,coco_2017_t_a_chelo,T A Chelo,Tía Chelo,T A CHELO,1,F,,1,0,0,,2,2,0,15,15,0,coco_2017_s048,509,Tía Chelo
+coco_2017,coco_2017_announcer,coco_2017_announcer,Announcer,Announcer,ANNOUNCER (O.S.),1,M,,0,0,0,,1,1,0,12,12,0,coco_2017_s077,887,
+coco_2017,coco_2017_audience,coco_2017_audience,Audience,Audience,AUDIENCE,1,Both,,0,0,0,,1,1,0,3,3,0,coco_2017_s052,612,group
+coco_2017,coco_2017_case_worker,coco_2017_case_worker,Case Worker,Case Worker,CASE WORKER,1,M,,0,0,0,,1,1,0,13,13,0,coco_2017_s031,315,
+coco_2017,coco_2017_coco,coco_2017_coco,Coco,Coco,YOUNG COCO,1,F,,1,0,0,coco_2017_mam_coco,1,1,0,2,2,0,coco_2017_s070,812,young Coco — alias of Mamá Coco
+coco_2017,coco_2017_crowd_members,coco_2017_crowd_members,Crowd Members,Crowd Members,CROWD MEMBERS,1,Both,,0,0,0,,1,1,0,21,21,0,coco_2017_s053,635,group
+coco_2017,coco_2017_distressed_traveler,coco_2017_distressed_traveler,Distressed Traveler,Distressed Traveler,DISTRESSED TRAVELER,1,M,,0,0,0,,1,1,0,13,13,0,coco_2017_s031,312,
+coco_2017,coco_2017_elderly_couple,coco_2017_elderly_couple,Elderly Couple,Elderly Couple,ELDERLY COUPLE,1,Both,,0,0,0,,1,1,0,1,1,0,coco_2017_s029,288,group
+coco_2017,coco_2017_family,coco_2017_family,Family,Family,FAMILY,1,Both,,0,0,0,,1,1,0,24,24,0,coco_2017_s074,832,group
+coco_2017,coco_2017_interviewer,coco_2017_interviewer,Interviewer,Interviewer,INTERVIEWER (FILM CLIP),1,M,,0,0,0,,1,1,0,15,15,0,coco_2017_s016,150,
+coco_2017,coco_2017_juan_ortodoncia,coco_2017_juan_ortodoncia,Juan Ortodoncia,Juan Ortodoncia,JUAN ORTODONCIA,1,M,,1,0,0,,1,1,0,1,1,0,coco_2017_s029,292,
+coco_2017,coco_2017_lola,coco_2017_lola,Lola,Lola,LOLA (FILM CLIP),1,F,,1,0,0,,1,1,0,9,9,0,coco_2017_s016,148,
+coco_2017,coco_2017_miffed_wife,coco_2017_miffed_wife,Miffed Wife,Miffed Wife,MIFFED WIFE,1,F,,0,0,0,,1,1,0,12,12,0,coco_2017_s031,313,
+coco_2017,coco_2017_miguel_de_la_cruz,coco_2017_miguel_de_la_cruz,Miguel & De La Cruz,Miguel & De La Cruz,MIGUEL & DE LA CRUZ,1,Both,,0,0,0,,1,0,1,12,0,12,coco_2017_s057,678,parser artifact — two speakers
+coco_2017,coco_2017_officer,coco_2017_officer,Officer,Officer,OFFICER,1,M,,0,0,0,,1,1,0,1,1,0,coco_2017_s029,301,
+coco_2017,coco_2017_opera_singers,coco_2017_opera_singers,Opera Singers,Opera Singers,OPERA SINGERS,1,Both,,0,0,0,,1,0,1,8,0,8,coco_2017_s052,566,group
+coco_2017,coco_2017_pap_franco,coco_2017_pap_franco,Pap Franco,Pap Franco,PAP  FRANCO,1,M,,1,0,0,,1,1,0,2,2,0,coco_2017_s013,102,Papá Franco
+coco_2017,coco_2017_patrolwoman,coco_2017_patrolwoman,Patrolwoman,Patrolwoman,PATROLWOMAN,1,F,,0,0,0,,1,1,0,9,9,0,coco_2017_s033,380,
+coco_2017,coco_2017_prima_rosa,coco_2017_prima_rosa,Prima Rosa,Prima Rosa,PRIMA ROSA,1,F,,1,0,0,,1,1,0,12,12,0,coco_2017_s013,107,
+coco_2017,coco_2017_primo_abel,coco_2017_primo_abel,Primo Abel,Primo Abel,PRIMO ABEL,1,M,,1,0,0,,1,1,0,8,8,0,coco_2017_s013,108,
+coco_2017,coco_2017_ratty_group,coco_2017_ratty_group,Ratty Group,Ratty Group,RATTY GROUP,1,Both,,0,0,0,,1,1,0,3,3,0,coco_2017_s048,503,group
+coco_2017,coco_2017_ratty_member,coco_2017_ratty_member,Ratty Member,Ratty Member,RATTY MEMBER,1,M,,0,0,0,,1,1,0,2,2,0,coco_2017_s048,505,
+coco_2017,coco_2017_skeleton_abuela,coco_2017_skeleton_abuela,Skeleton Abuela,Skeleton Abuela,SKELETON ABUELA,1,F,,0,0,0,,1,1,0,5,5,0,coco_2017_s027,237,
+coco_2017,coco_2017_skeleton_mother,coco_2017_skeleton_mother,Skeleton Mother,Skeleton Mother,SKELETON MOTHER,1,F,,0,0,0,,1,1,0,11,11,0,coco_2017_s028,276,
+coco_2017,coco_2017_skeleton_musician,coco_2017_skeleton_musician,Skeleton Musician,Skeleton Musician,SKELETON MUSICIAN,1,M,,0,0,0,,1,0,1,10,0,10,coco_2017_s052,565,
+coco_2017,coco_2017_street_vendor,coco_2017_street_vendor,Street Vendor,Street Vendor,STREET VENDOR,1,M,,0,0,0,,1,1,0,3,3,0,coco_2017_s009,43,
+coco_2017,coco_2017_t_a_gloria,coco_2017_t_a_gloria,T A Gloria,Tía Gloria,T A GLORIA,1,F,,1,0,0,,1,1,0,6,6,0,coco_2017_s021,190,Tía Gloria
+coco_2017,coco_2017_t_o_felipe_t_o_oscar,coco_2017_t_o_felipe_t_o_oscar,T O Felipe/T O Oscar,Tío Felipe/Tío Oscar,T O FELIPE/T O OSCAR,1,Both,,0,0,0,,1,1,0,8,8,0,coco_2017_s052,609,parser artifact — two speakers
+coco_2017,coco_2017_t_o_oscar_t_o_felipe,coco_2017_t_o_oscar_t_o_felipe,T O Oscar/T O Felipe,Tío Oscar/Tío Felipe,T O OSCAR/T O FELIPE,1,Both,,0,0,0,,1,1,0,1,1,0,coco_2017_s077,929,parser artifact — two speakers
+coco_2017,coco_2017_tias,coco_2017_tias,Tias,Tias,OLD TIAS,1,F,,0,0,0,,1,1,0,2,2,0,coco_2017_s048,511,group
+coco_2017,coco_2017_traveler,coco_2017_traveler,Traveler,Traveler,TRAVELER,1,M,,0,0,0,,1,1,0,5,5,0,coco_2017_s029,283,
+coco_2017,coco_2017_vendor,coco_2017_vendor,Vendor,Vendor,VENDOR,1,M,,0,0,0,,1,1,0,5,5,0,coco_2017_s050,555,
+coco_2017,coco_2017_voice_over_p_a,coco_2017_voice_over_p_a,Voice Over P.A.,Voice Over P.A.,VOICE OVER P.A.,1,M,,0,0,0,,1,1,0,10,10,0,coco_2017_s030,309,
+coco_2017,coco_2017_voices,coco_2017_voices,Voices,Voices,VOICES (O.S.),1,Both,,0,0,0,,1,1,0,14,14,0,coco_2017_s026,222,group

@@ -1,0 +1,2 @@
+film_id,protagonist,n_edges,n_null_samples,homophily_obs_edge,null_mean,null_std,z_score,percentile,p_more_same_gender,p_less_same_gender,protag_samesex_obs,protag_samesex_null,protag_samesex_z,protag_samesex_pct,protag_samesex_p_more,protag_samesex_p_less
+coco_2017,Miguel,37,2000,0.5135,0.4909,0.0472,0.479,46.2,0.5377,0.8646,0.5333,0.5793,-1.187,3.8,0.9625,0.2219

@@ -1,0 +1,2 @@
+film_id,protagonist,betweenness,degree_centrality,in_degree,out_degree,n_alters,alter_edges,ego_density,homophily_obs,homophily_expected,homophily_excess,keystone_removed,keystone_gender,keystone_betweenness,components_after_removal,largest_component_size,n_isolated_after_removal,lead_gender,n_samegender_alters
+monsters_inc_2001,Mike,0.1213,0.7647,6,7,7,11,0.2619,0.6812,0.7288,-0.0477,Sulley,M,0.1507,6,9,2,M,4

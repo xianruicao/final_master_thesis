@@ -1,0 +1,10 @@
+character,name,betweenness,degree_centrality,in_degree,out_degree,clustering
+up_carl,Carl,0.625,1.25,5,5,0.0646
+up_dug,Dug,0.3393,0.625,3,2,0.0779
+up_alpha,Alpha,0.2143,0.75,4,2,0.0
+up_beta,Beta,0.0,0.125,0,1,0.0
+up_construction_foreman_tom,Construction Foreman Tom,0.0,0.25,1,1,0.0
+up_ellie,Ellie,0.0,0.375,1,2,0.2049
+up_gamma,Gamma,0.0,0.125,0,1,0.0
+up_muntz,Muntz,0.0,0.75,3,3,0.0692
+up_russell,Russell,0.0,0.75,3,3,0.1077
