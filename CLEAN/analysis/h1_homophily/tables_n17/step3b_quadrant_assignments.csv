@@ -1,18 +1,18 @@
 film_id,film_title,protagonist,lead_gender,protag_betw_z,protag_samesex_z,quadrant
-beautyandthebeast_1991,Beauty & the Beast (1991),Belle,F,1.481,1.528,HighBridge_HighEmbed
-mulan_1998,Mulan (1998),Mulan,F,-0.306,-0.656,LowBridge_LowEmbed
-frozen_2013,Frozen (2013),Anna,F,2.632,1.837,HighBridge_HighEmbed
+beautyandthebeast_1991,Beauty & the Beast (1991),Belle,F,1.497,1.558,HighBridge_HighEmbed
+mulan_1998,Mulan (1998),Mulan,F,-0.339,-0.64,LowBridge_LowEmbed
+frozen_2013,Frozen (2013),Anna,F,2.671,1.865,HighBridge_HighEmbed
 inside_out_2015,Inside Out (2015),Joy,F,0.017,-0.805,HighBridge_LowEmbed
-zootopia_2016,Zootopia (2016),Hopps,F,1.188,-1.239,HighBridge_LowEmbed
-encanto_2021,Encanto (2021),Mirabel,F,0.894,0.383,HighBridge_HighEmbed
-raya_and_the_last_dragon_2021,Raya (2021),Raya,F,3.009,-1.374,HighBridge_LowEmbed
+zootopia_2016,Zootopia (2016),Hopps,F,1.204,-1.306,HighBridge_LowEmbed
+encanto_2021,Encanto (2021),Mirabel,F,0.945,0.351,HighBridge_HighEmbed
+raya_and_the_last_dragon_2021,Raya (2021),Raya,F,2.954,-1.447,HighBridge_LowEmbed
 elemental_2023,Elemental (2023),Ember,F,2.276,1.562,HighBridge_HighEmbed
-toy_story_1995,Toy Story (1995),Woody,M,1.472,4.191,HighBridge_HighEmbed
-monsters_inc_2001,Monsters Inc (2001),Sulley,M,-2.414,-1.489,LowBridge_LowEmbed
-findingnemo,Finding Nemo (2003),Marlin,M,-0.508,0.673,LowBridge_HighEmbed
-up,Up (2009),Carl,M,2.174,-1.189,HighBridge_LowEmbed
-toy_story_3_2010,Toy Story 3 (2010),Woody,M,1.087,0.325,HighBridge_HighEmbed
-cars2,Cars 2 (2011),Mater,M,-0.331,0.442,LowBridge_HighEmbed
-coco_2017,Coco (2017),Miguel,M,1.853,-1.186,HighBridge_LowEmbed
-incredibles_2_2018,Incredibles 2 (2018),Bob,M,2.043,0.647,HighBridge_HighEmbed
-onward_2020,Onward (2020),Ian,M,2.354,0.955,HighBridge_HighEmbed
+toy_story_1995,Toy Story (1995),Woody,M,1.412,4.225,HighBridge_HighEmbed
+monsters_inc_2001,Monsters Inc (2001),Sulley,M,-2.449,-1.489,LowBridge_LowEmbed
+findingnemo,Finding Nemo (2003),Marlin,M,-0.561,0.707,LowBridge_HighEmbed
+up,Up (2009),Carl,M,2.161,-1.207,HighBridge_LowEmbed
+toy_story_3_2010,Toy Story 3 (2010),Woody,M,1.1,0.329,HighBridge_HighEmbed
+cars2,Cars 2 (2011),Mater,M,-0.37,0.385,LowBridge_HighEmbed
+coco_2017,Coco (2017),Miguel,M,1.856,-1.187,HighBridge_LowEmbed
+incredibles_2_2018,Incredibles 2 (2018),Bob,M,2.083,0.664,HighBridge_HighEmbed
+onward_2020,Onward (2020),Ian,M,2.38,0.971,HighBridge_HighEmbed

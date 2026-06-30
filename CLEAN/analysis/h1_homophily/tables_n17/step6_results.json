@@ -16,29 +16,29 @@
           "era": "2010+",
           "lead_gender": "F",
           "n": 6,
-          "median_samesex_z": -0.211,
-          "median_betw_z": 1.732
+          "median_samesex_z": -0.227,
+          "median_betw_z": 1.74
         },
         {
           "era": "2010+",
           "lead_gender": "M",
           "n": 5,
-          "median_samesex_z": 0.442,
-          "median_betw_z": 1.853
+          "median_samesex_z": 0.385,
+          "median_betw_z": 1.856
         },
         {
           "era": "pre-2010",
           "lead_gender": "F",
           "n": 2,
-          "median_samesex_z": 0.436,
-          "median_betw_z": 0.588
+          "median_samesex_z": 0.459,
+          "median_betw_z": 0.579
         },
         {
           "era": "pre-2010",
           "lead_gender": "M",
           "n": 4,
-          "median_samesex_z": -0.258,
-          "median_betw_z": 0.482
+          "median_samesex_z": -0.25,
+          "median_betw_z": 0.425
         }
       ]
     },
@@ -58,29 +58,29 @@
           "era": "2013+",
           "lead_gender": "F",
           "n": 6,
-          "median_samesex_z": -0.211,
-          "median_betw_z": 1.732
+          "median_samesex_z": -0.227,
+          "median_betw_z": 1.74
         },
         {
           "era": "2013+",
           "lead_gender": "M",
           "n": 3,
-          "median_samesex_z": 0.647,
-          "median_betw_z": 2.043
+          "median_samesex_z": 0.664,
+          "median_betw_z": 2.083
         },
         {
           "era": "pre-2013",
           "lead_gender": "F",
           "n": 2,
-          "median_samesex_z": 0.436,
-          "median_betw_z": 0.588
+          "median_samesex_z": 0.459,
+          "median_betw_z": 0.579
         },
         {
           "era": "pre-2013",
           "lead_gender": "M",
           "n": 6,
-          "median_samesex_z": 0.384,
-          "median_betw_z": 0.378
+          "median_samesex_z": 0.357,
+          "median_betw_z": 0.365
         }
       ]
     }
@@ -91,10 +91,10 @@
       "label": "protag_samesex_z, pre-2013",
       "n_F": 2,
       "n_M": 6,
-      "median_F": 0.436,
-      "median_M": 0.3835,
-      "mean_F": 0.436,
-      "mean_M": 0.4921666666666667,
+      "median_F": 0.459,
+      "median_M": 0.357,
+      "mean_F": 0.459,
+      "mean_M": 0.4916666666666667,
       "mw_two_sided": {
         "U": 7.0,
         "p": 0.8571428571428571
@@ -106,40 +106,40 @@
       "rank_biserial": -0.16666666666666674,
       "cliffs_delta": 0.16666666666666666,
       "perm_median": {
-        "obs_diff": 0.05249999999999999,
+        "obs_diff": 0.10200000000000004,
         "p_two_sided": 1.0,
         "p_one_sided_x_less_y": 0.5312,
-        "null_mean": 0.24560515000000005,
-        "null_std": 1.3455548014818484
+        "null_mean": 0.2596098499999999,
+        "null_std": 1.3510566002213518
       },
       "perm_mean": {
-        "obs_diff": -0.0561666666666667,
-        "p_two_sided": 0.9514,
-        "p_one_sided_x_less_y": 0.5533,
-        "null_mean": 0.018419866666666646,
-        "null_std": 1.485286337637821
+        "obs_diff": -0.03266666666666668,
+        "p_two_sided": 0.9704,
+        "p_one_sided_x_less_y": 0.5362,
+        "null_mean": 0.018926933333333312,
+        "null_std": 1.4968655948087504
       },
       "boot_median_diff_ci": {
-        "diff_point": 0.05249999999999999,
-        "ci_lo": -1.996,
-        "ci_hi": 2.717,
-        "boot_mean": 0.21187015
+        "diff_point": 0.10200000000000004,
+        "ci_lo": -2.0069999999999997,
+        "ci_hi": 2.765,
+        "boot_mean": 0.24659790000000004
       },
       "boot_mean_diff_ci": {
-        "diff_point": -0.0561666666666667,
-        "ci_lo": -2.1413333333333333,
-        "ci_hi": 1.9825,
-        "boot_mean": -0.051223149999999995
+        "diff_point": -0.03266666666666668,
+        "ci_lo": -2.147,
+        "ci_hi": 2.018666666666667,
+        "boot_mean": -0.027590099999999892
       }
     },
     "2013+": {
       "label": "protag_samesex_z, 2013+",
       "n_F": 6,
       "n_M": 3,
-      "median_F": -0.21100000000000002,
-      "median_M": 0.647,
-      "mean_F": 0.06066666666666665,
-      "mean_M": 0.1386666666666667,
+      "median_F": -0.22700000000000004,
+      "median_M": 0.664,
+      "mean_F": 0.03666666666666666,
+      "mean_M": 0.14933333333333332,
       "mw_two_sided": {
         "U": 8.0,
         "p": 0.9047619047619047
@@ -151,30 +151,30 @@
       "rank_biserial": 0.11111111111111116,
       "cliffs_delta": -0.1111111111111111,
       "perm_median": {
-        "obs_diff": -0.8580000000000001,
+        "obs_diff": -0.891,
         "p_two_sided": 0.8108,
         "p_one_sided_x_less_y": 0.4098,
-        "null_mean": -0.0013573999999999956,
-        "null_std": 1.4472148556448279
+        "null_mean": 0.0016757500000000214,
+        "null_std": 1.4612975818597704
       },
       "perm_mean": {
-        "obs_diff": -0.07800000000000004,
-        "p_two_sided": 0.9466,
-        "p_one_sided_x_less_y": 0.486,
-        "null_mean": -0.0005980999999999988,
-        "null_std": 0.8881808132875306
+        "obs_diff": -0.11266666666666666,
+        "p_two_sided": 0.9376,
+        "p_one_sided_x_less_y": 0.4897,
+        "null_mean": -0.0003500166666666658,
+        "null_std": 0.9067055414530496
       },
       "boot_median_diff_ci": {
-        "diff_point": -0.8580000000000001,
-        "ci_lo": -2.0445,
-        "ci_hi": 2.748,
-        "boot_mean": -0.29928740000000004
+        "diff_point": -0.891,
+        "ci_lo": -2.111,
+        "ci_hi": 2.749,
+        "boot_mean": -0.3337722
       },
       "boot_mean_diff_ci": {
-        "diff_point": -0.07800000000000004,
-        "ci_lo": -1.4935041666666666,
-        "ci_hi": 1.4889999999999999,
-        "boot_mean": -0.07586400000000004
+        "diff_point": -0.11266666666666666,
+        "ci_lo": -1.5531666666666666,
+        "ci_hi": 1.4778333333333336,
+        "boot_mean": -0.11055196666666668
       }
     }
   },
@@ -262,17 +262,17 @@
     }
   },
   "top_spearman_vs_samesex_z": {
-    "protag_samesex_p": -0.9209,
+    "protag_samesex_p": -0.9216,
     "protag_betweenness": 0.4118,
+    "protag_betw_p": -0.2696,
     "keystone_changes_at_rung2_y": -0.2684,
     "keystone_changes_at_rung2_x": -0.2684,
-    "protag_betw_p": -0.2526,
     "protag_betw_z": 0.2377,
     "alter_importance_ratio": 0.2027,
     "female_alter_betw_z": 0.1985,
-    "homophily_p": -0.1776,
+    "homophily_p": -0.1825,
     "mean_clustering": 0.174,
-    "homophily_z": 0.1691,
+    "homophily_z": 0.1471,
     "n_nodes": -0.117,
     "density": 0.1152,
     "protag_samesex": 0.0969,

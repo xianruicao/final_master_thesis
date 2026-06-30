@@ -4,7 +4,7 @@ N=17 corpus.
 What this does
 --------------
 Prerequisite:
-  `data/02_processed/film_features_all_n17.csv` must already exist as the current
+  `data/04_features/film_features_all_n17.csv` must already exist as the current
   N=17 film-list snapshot. This script uses that file only to decide which
   films/protagonists to run through Notebook 06.
 
@@ -17,7 +17,7 @@ For each (film_id, protagonist, year, lead_gender) in that snapshot:
         data/02_processed/{film_id}/protagonist_metrics.csv  (+ new rung columns)
         data/02_processed/{film_id}/film_features.csv         (+ new rung columns)
         data/02_processed/{film_id}/figures/*.png             (refreshed)
-     plus the per-film upsert into data/02_processed/film_features_all.csv.
+     plus the per-film upsert into data/04_features/film_features_all.csv.
 
 What this does NOT do
 ---------------------
@@ -40,7 +40,8 @@ CLEAN_ROOT  = Path(__file__).resolve().parents[1]
 NOTEBOOKS   = CLEAN_ROOT / "notebooks"
 NB_PATH     = NOTEBOOKS / "06_network_analysis_PAU.ipynb"
 PROC        = CLEAN_ROOT / "data" / "02_processed"
-N17_FILE    = PROC / "film_features_all_n17.csv"
+FEAT        = CLEAN_ROOT / "data" / "04_features"
+N17_FILE    = FEAT / "film_features_all_n17.csv"
 
 # Monsters Inc has co-leads (Sulley & Mike); convention is Sulley only.
 DROP_PROTAG = {("monsters_inc_2001", "Mike")}

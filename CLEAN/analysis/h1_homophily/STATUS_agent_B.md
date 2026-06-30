@@ -1,0 +1,26 @@
+# Agent B status log (Steps 1, 2, 3, 4, 6)
+
+- 2026-06-30 01:41 — Started orchestrator (Steps 1,2,3,4,6)
+- 2026-06-30 01:41 — Loaded N=17. F=8, M=9
+- 2026-06-30 01:41 — Step 1 done — raw δ=-0.889, adj δ=+0.000, raw MW-1s p=0.0005
+- 2026-06-30 01:41 — Step 2 done — z Spearman ρ=+0.860, keystone agree=52.9%, F-led addr-cross=6/9, F-led cooc-cross=4/9
+- 2026-06-30 01:41 — Step 3 done — Fisher keystone p=0.1534, betw_z δ=+0.222
+- 2026-06-30 01:41 — Step 4 done — female_alter_z δ=+0.194, burt_constraint δ=-0.333
+- 2026-06-30 01:41 — Step 6 done — best k=2 silhouette=0.316, era cutoff=2013
+- 2026-06-30 01:41 — Markdown written: /Users/oceane/Downloads/final_master_thesis/CLEAN/analysis/h1_homophily/UNIFIED_RESULTS_N18_steps1_4_6.md
+- 2026-06-30 01:43 — Started orchestrator (Steps 1,2,3,4,6)
+- 2026-06-30 01:43 — Loaded N=17. F=8, M=9
+- 2026-06-30 01:43 — Step 1 done — raw δ=-0.889, adj δ=+0.000, raw MW-1s p=0.0005
+- 2026-06-30 01:43 — Step 2 done — z Spearman ρ=+0.858, keystone agree=47.1%, F-led addr-cross=6/9, F-led cooc-cross=3/9
+- 2026-06-30 01:43 — Step 3 done — Fisher keystone p=0.1534, betw_z δ=+0.222
+- 2026-06-30 01:43 — Step 4 done — female_alter_z δ=+0.194, burt_constraint δ=-0.333
+- 2026-06-30 01:43 — Step 6 done — best k=2 silhouette=0.316, era cutoff=2013
+- 2026-06-30 01:43 — Markdown written: /Users/oceane/Downloads/final_master_thesis/CLEAN/analysis/h1_homophily/UNIFIED_RESULTS_N18_steps1_4_6.md
+- 2026-06-30 01:51 — Started orchestrator (Steps 1,2,3,4,6)
+- 2026-06-30 01:51 — Loaded N=17. F=8, M=9
+- 2026-06-30 01:51 — Step 1 done — raw δ=-0.889, adj δ=+0.000, raw MW-1s p=0.0005
+- 2026-06-30 01:51 — Step 2 done — z Spearman ρ=+0.885, keystone agree=47.1%, F-led addr-cross=6/8, F-led cooc-cross=3/8
+- 2026-06-30 01:51 — Step 3 done — Fisher keystone p=0.1534, betw_z δ=+0.222
+- 2026-06-30 01:51 — Step 4 done — female_alter_z δ=+0.194, burt_constraint δ=-0.333
+- 2026-06-30 01:51 — Step 6 done — best k=2 silhouette=0.316, era cutoff=2013
+- 2026-06-30 01:51 — Markdown written: /Users/oceane/Downloads/final_master_thesis/CLEAN/analysis/h1_homophily/UNIFIED_RESULTS_N17_steps1_4_6.md

@@ -2,15 +2,15 @@ film_id,film_title,year,lead_gender,protagonist,ego_density
 raya_and_the_last_dragon_2021,Raya (2021),2021,F,Raya,0.4
 onward_2020,Onward (2020),2020,M,Ian,0.2321
 incredibles_2_2018,Incredibles 2 (2018),2018,M,Bob,0.2222
-monsters_inc_2001,Monsters Inc (2001),2001,M,Sulley,0.2143
 frozen_2013,Frozen (2013),2013,F,Anna,0.2143
+monsters_inc_2001,Monsters Inc (2001),2001,M,Sulley,0.2143
 up,Up (2009),2009,M,Carl,0.2
 beautyandthebeast_1991,Beauty & the Beast (1991),1991,F,Belle,0.1905
 inside_out_2015,Inside Out (2015),2015,F,Joy,0.1905
 cars2,Cars 2 (2011),2011,M,Mater,0.1091
 elemental_2023,Elemental (2023),2023,F,Ember,0.1071
-findingnemo,Finding Nemo (2003),2003,M,Marlin,0.0833
 mulan_1998,Mulan (1998),1998,F,Mulan,0.0833
+findingnemo,Finding Nemo (2003),2003,M,Marlin,0.0833
 toy_story_3_2010,Toy Story 3 (2010),2010,M,Woody,0.0667
 coco_2017,Coco (2017),2017,M,Miguel,0.0476
 zootopia_2016,Zootopia (2016),2016,F,Hopps,0.0458

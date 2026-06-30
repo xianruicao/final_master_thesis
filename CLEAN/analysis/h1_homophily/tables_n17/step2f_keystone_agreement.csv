@@ -2,7 +2,7 @@ film_title,protagonist,lead_gender,keystone_addr,keystone_addr_gender,keystone_c
 Beauty & the Beast (1991),Belle,F,Beast,M,Mantleclock,M,False,False
 Mulan (1998),Mulan,F,Shang,M,Mushu,M,False,False
 Frozen (2013),Anna,F,Elsa,F,Elsa,F,True,False
-Inside Out (2015),Joy,F,Anger,M,Anger,M,True,False
+Inside Out (2015),Joy,F,Anger,M,Disgust,F,False,True
 Zootopia (2016),Hopps,F,Bogo,M,Bonnie Hopps,F,False,True
 Encanto (2021),Mirabel,F,Tio Bruno,M,Luisa,F,False,True
 Raya (2021),Raya,F,Sisu,F,Namaari,F,False,False

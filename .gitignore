@@ -13,19 +13,9 @@ uv.lock
 # API keys — never commit these
 .env
 
-# scripts
-raw_scripts/
+# OS files
+.DS_Store
 
 # Generated artefacts — not needed in repo
-CLEAN/data/processed/**/addressee_cache_scene/
-CLEAN/analysis/h1_homophily/figures/nb09_*.png
-CLEAN/analysis/h1_homophily/figures/nb09_*.pdf
-CLEAN/analysis/h1_homophily/figures/fig26_*.png
-CLEAN/analysis/h1_homophily/figures/fig26_*.pdf
-CLEAN/analysis/h1_homophily/figures/fig27_*.png
-CLEAN/analysis/h1_homophily/figures/fig27_*.pdf
-CLEAN/analysis/h1_homophily/tables_n17/nb09*.csv
-CLEAN/analysis/h1_homophily/tables/nb09*.csv
-CLEAN/analysis/h1_homophily/tables/phase6_summary_stats.csv
-CLEAN/admin/EXPERIMENT_RESULTS.md
+CLEAN/data/02_processed/**/addressee_cache_scene/
 .claude/

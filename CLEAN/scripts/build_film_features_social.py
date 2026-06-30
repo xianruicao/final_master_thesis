@@ -4,7 +4,7 @@ Formulas were reverse-engineered from the original 12-row csv and verified on
 Mulan + Frozen (all 9 metrics matched within +/- 0.1pp). See verification table
 in UNIFIED_RESULTS_N18_step5_social.md.
 
-Output: CLEAN/data/02_processed/film_features_social.csv
+Output: CLEAN/data/04_features/film_features_social.csv
   - one row per (film_id, protagonist) pair where protagonist is the film's lead
   - covers all 18 films; Monsters Inc has both Mike and Sulley rows so Conventions
     can pick either at load time
@@ -18,8 +18,9 @@ import numpy as np
 
 ROOT = Path(__file__).resolve().parents[1]
 PROC = ROOT / "data" / "02_processed"
-ALL_CSV = PROC / "film_features_all.csv"
-OUT_CSV = PROC / "film_features_social.csv"
+FEAT = ROOT / "data" / "04_features"
+ALL_CSV = FEAT / "film_features_all.csv"
+OUT_CSV = FEAT / "film_features_social.csv"
 
 
 def find_protag_id(film_id: str, protag_name: str, chars: pd.DataFrame) -> str | None:

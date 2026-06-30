@@ -1,0 +1,18 @@
+film_title,protagonist,lead_gender,keystone_addr,keystone_addr_gender,keystone_cooc,keystone_cooc_gender,keystone_agree,gender_flip,ks_dirw,ks_dirw_g,addr_dirw_agree,flip_ad
+Beauty & the Beast (1991),Belle,F,Beast,M,Mantleclock,M,False,False,,,False,False
+Mulan (1998),Mulan,F,Shang,M,Mushu,M,False,False,,,False,False
+Frozen (2013),Anna,F,Elsa,F,Elsa,F,True,False,,,False,False
+Inside Out (2015),Joy,F,Anger,M,Disgust,F,False,True,,,False,False
+Zootopia (2016),Hopps,F,Bogo,M,Bonnie Hopps,F,False,True,,,False,False
+Encanto (2021),Mirabel,F,Tio Bruno,M,Luisa,F,False,True,,,False,False
+Raya (2021),Raya,F,Sisu,F,Namaari,F,False,False,,,False,False
+Elemental (2023),Ember,F,Wade,M,Wade,M,True,False,,,False,False
+Toy Story (1995),Woody,M,Andy,M,Andy,M,True,False,,,False,False
+Monsters Inc (2001),Sulley,M,Mike,M,Mike,M,True,False,,,False,False
+Finding Nemo (2003),Marlin,M,Nemo,M,Nemo,M,True,False,,,False,False
+Up (2009),Carl,M,Dug,M,Muntz,M,False,False,,,False,False
+Toy Story 3 (2010),Woody,M,Lotso,M,Buzz,M,False,False,,,False,False
+Cars 2 (2011),Mater,M,Mcqueen,M,Mcqueen,M,True,False,,,False,False
+Coco (2017),Miguel,M,Héctor,M,Pap Julio,M,False,False,,,False,False
+Incredibles 2 (2018),Bob,M,Elastigirl,F,Elastigirl,F,True,False,,,False,False
+Onward (2020),Ian,M,Laurel,F,Laurel,F,True,False,,,False,False

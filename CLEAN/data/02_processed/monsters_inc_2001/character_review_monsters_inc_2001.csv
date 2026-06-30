@@ -1,5 +1,5 @@
 film_id,parser_character_id,review_character_id,parser_canonical_name,canonical_name,raw_speaker_labels,raw_speaker_label_variant_count,gender,gender_rationale,is_named,is_protagonist,included_in_network,merge_into_character_id,utterance_count,spoken_utterance_count,song_utterance_count,word_count_total,word_count_spoken_only,word_count_song_only,first_scene_id,first_event_id,review_notes
-monsters_inc_2001,monsters_inc_2001_mike,monsters_inc_2001_mike,Mike,Mike,Mike,1,M,,1,False,1,,312,302,10,3441,3282,159,monsters_inc_2001_s002,18,
+monsters_inc_2001,monsters_inc_2001_mike,monsters_inc_2001_mike,Mike,Mike,Mike,1,M,,1,0,1,,312,302,10,3441,3282,159,monsters_inc_2001_s002,18,
 monsters_inc_2001,monsters_inc_2001_sulley,monsters_inc_2001_sulley,Sulley,Sulley,Sulley,1,M,,1,1,1,,260,254,6,1664,1631,33,monsters_inc_2001_s002,19,
 monsters_inc_2001,monsters_inc_2001_waternoose,monsters_inc_2001_waternoose,Waternoose,Waternoose,Waternoose,1,M,,1,0,1,,73,71,2,804,775,29,monsters_inc_2001_s001,12,
 monsters_inc_2001,monsters_inc_2001_randall,monsters_inc_2001_randall,Randall,Randall,Randall,1,M,,1,0,1,,64,61,3,559,538,21,monsters_inc_2001_s005,133,

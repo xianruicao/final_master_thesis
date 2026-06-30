@@ -1,65 +1,65 @@
 film_id,parser_character_id,review_character_id,parser_canonical_name,canonical_name,raw_speaker_labels,raw_speaker_label_variant_count,gender,gender_rationale,is_named,is_protagonist,included_in_network,merge_into_character_id,utterance_count,spoken_utterance_count,song_utterance_count,word_count_total,word_count_spoken_only,word_count_song_only,first_scene_id,first_event_id,review_notes
-findingnemo,findingnemo_marlin,findingnemo_marlin,Marlin,Marlin,MARLIN,1,M,,TRUE,TRUE,TRUE,,366,366,0,3322,3322,0,findingnemo_s001,1,
-findingnemo,findingnemo_dory,findingnemo_dory,Dory,Dory,DORY,1,F,,TRUE,FALSE,TRUE,,248,248,0,1808,1808,0,findingnemo_s004,203,
-findingnemo,findingnemo_nemo,findingnemo_nemo,Nemo,Nemo,NEMO,1,M,,TRUE,FALSE,TRUE,,153,153,0,647,647,0,findingnemo_s002,40,
-findingnemo,findingnemo_gill,findingnemo_gill,Gill,Gill,GILL,1,M,,TRUE,FALSE,TRUE,,89,89,0,760,760,0,findingnemo_s006,440,
-findingnemo,findingnemo_bloat,findingnemo_bloat,Bloat,Bloat,BLOAT,1,M,,TRUE,FALSE,TRUE,,42,42,0,469,469,0,findingnemo_s006,373,
-findingnemo,findingnemo_gurgle,findingnemo_gurgle,Gurgle,Gurgle,GURGLE,1,M,,TRUE,FALSE,TRUE,,39,39,0,194,194,0,findingnemo_s006,379,
-findingnemo,findingnemo_peach,findingnemo_peach,Peach,Peach,PEACH,1,F,,TRUE,FALSE,TRUE,,39,39,0,291,291,0,findingnemo_s006,369,
-findingnemo,findingnemo_bruce,findingnemo_bruce,Bruce,Bruce,BRUCE,1,M,,TRUE,FALSE,TRUE,,38,38,0,280,280,0,findingnemo_s004,238,
-findingnemo,findingnemo_nigel,findingnemo_nigel,Nigel,Nigel,NIGEL,1,M,,TRUE,FALSE,TRUE,,35,35,0,426,426,0,findingnemo_s006,421,
-findingnemo,findingnemo_crush,findingnemo_crush,Crush,Crush,CRUSH,1,M,,TRUE,FALSE,TRUE,,29,29,0,272,272,0,findingnemo_s011,770,
-findingnemo,findingnemo_dentist,findingnemo_dentist,Dentist,Dentist,DENTIST,1,M,,TRUE,FALSE,TRUE,,29,29,0,324,324,0,findingnemo_s006,360,referred to by role; named character (Philip Sherman)
-findingnemo,findingnemo_deb,findingnemo_deb,Deb,Deb,DEB,1,F,,TRUE,FALSE,TRUE,,24,24,0,120,120,0,findingnemo_s006,374,
-findingnemo,findingnemo_mr_ray,findingnemo_mr_ray,Mr. Ray,Mr. Ray,MR. RAY,1,M,,TRUE,FALSE,TRUE,,21,21,0,320,320,0,findingnemo_s003,121,
-findingnemo,findingnemo_chum,findingnemo_chum,Chum,Chum,CHUM,1,M,,TRUE,FALSE,TRUE,,18,18,0,126,126,0,findingnemo_s004,255,
-findingnemo,findingnemo_coral,findingnemo_coral,Coral,Coral,CORAL,1,F,,TRUE,FALSE,TRUE,,17,17,0,128,128,0,findingnemo_s001,2,
-findingnemo,findingnemo_moonfish_leader,findingnemo_moonfish_leader,Moonfish Leader,Moonfish Leader,MOONFISH LEADER,1,M,,FALSE,FALSE,FALSE,,16,16,0,188,188,0,findingnemo_s009,594,"descriptive label, not a proper name"
-findingnemo,findingnemo_darla,findingnemo_darla,Darla,Darla,DARLA,1,F,,TRUE,FALSE,TRUE,,15,15,0,52,52,0,findingnemo_s019,1177,
-findingnemo,findingnemo_anchor,findingnemo_anchor,Anchor,Anchor,ANCHOR,1,M,,TRUE,FALSE,TRUE,,14,14,0,64,64,0,findingnemo_s004,252,
-findingnemo,findingnemo_bubbles,findingnemo_bubbles,Bubbles,Bubbles,BUBBLES,1,M,,TRUE,FALSE,TRUE,,14,14,0,47,47,0,findingnemo_s006,368,
-findingnemo,findingnemo_squirt,findingnemo_squirt,Squirt,Squirt,SQUIRT,1,M,,TRUE,FALSE,TRUE,,12,12,0,92,92,0,findingnemo_s011,799,
-findingnemo,findingnemo_crab,findingnemo_crab,Crab,Crab,CRAB | CRAB 1 | CRAB 2,3,M,,FALSE,FALSE,FALSE,,11,11,0,85,85,0,findingnemo_s011,860,
-findingnemo,findingnemo_jacques,findingnemo_jacques,Jacques,Jacques,JACQUES,1,M,,TRUE,FALSE,TRUE,,11,11,0,25,25,0,findingnemo_s006,371,
-findingnemo,findingnemo_bob,findingnemo_bob,Bob,Bob,BOB,1,M,,TRUE,FALSE,TRUE,,10,10,0,56,56,0,findingnemo_s003,93,
-findingnemo,findingnemo_tad,findingnemo_tad,Tad,Tad,TAD,1,M,,TRUE,FALSE,TRUE,,9,9,0,51,51,0,findingnemo_s003,113,
-findingnemo,findingnemo_gulls,findingnemo_gulls,Gulls,Gulls,GULLS,1,M,,FALSE,FALSE,FALSE,,8,8,0,45,45,0,findingnemo_s011,851,collective
-findingnemo,findingnemo_marlin_dory,findingnemo_marlin_dory,Marlin/Dory,Marlin/Dory,MARLIN/DORY,1,Both,,FALSE,FALSE,FALSE,,7,7,0,13,13,0,findingnemo_s005,332,combined-speaker label
-findingnemo,findingnemo_turtle_kid,findingnemo_turtle_kid,Turtle Kid,Turtle Kid,TURTLE KID | TURTLE KID 1 | TURTLE KID 2 | TURTLE KID 3 | TURTLE KID 4 | TURTLE KID 5 | TURTLE KID 6,7,Unknown,,FALSE,FALSE,FALSE,,7,7,0,44,44,0,findingnemo_s011,821,
-findingnemo,findingnemo_pearl,findingnemo_pearl,Pearl,Pearl,PEARL,1,F,,TRUE,FALSE,TRUE,,6,6,0,47,47,0,findingnemo_s003,112,
-findingnemo,findingnemo_pelican,findingnemo_pelican,Pelican,Pelican,PELICAN,1,M,,FALSE,FALSE,FALSE,,6,6,0,47,47,0,findingnemo_s005,358,
-findingnemo,findingnemo_barbara,findingnemo_barbara,Barbara,Barbara,BARBARA,1,F,,TRUE,FALSE,TRUE,,5,5,0,15,15,0,findingnemo_s006,361,
-findingnemo,findingnemo_fish,findingnemo_fish,Fish,Fish,FISH,1,Unknown,,FALSE,FALSE,FALSE,,5,5,0,27,27,0,findingnemo_s023,1292,
-findingnemo,findingnemo_sheldon,findingnemo_sheldon,Sheldon,Sheldon,SHELDON,1,M,,TRUE,FALSE,TRUE,,5,5,0,33,33,0,findingnemo_s003,114,
-findingnemo,findingnemo_bill,findingnemo_bill,Bill,Bill,BILL,1,M,,TRUE,FALSE,FALSE,,4,4,0,42,42,0,findingnemo_s003,99,
-findingnemo,findingnemo_bloat_bubbles_gurgle,findingnemo_bloat_bubbles_gurgle,Bloat/Bubbles/Gurgle,Bloat/Bubbles/Gurgle,BLOAT/BUBBLES/GURGLE,1,M,,FALSE,FALSE,FALSE,,4,4,0,46,46,0,findingnemo_s008,537,combined-speaker label
-findingnemo,findingnemo_crab_1_crab,findingnemo_crab_1_crab,Crab 1/Crab,Crab 1/Crab,CRAB 1/CRAB 2,1,M,,FALSE,FALSE,FALSE,,4,4,0,18,18,0,findingnemo_s021,1253,combined-speaker label
-findingnemo,findingnemo_gull,findingnemo_gull,Gull,Gull,GULL,1,M,,FALSE,FALSE,FALSE,,4,4,0,4,4,0,findingnemo_s011,861,
-findingnemo,findingnemo_kids,findingnemo_kids,Kids,Kids,KIDS,1,Both,,FALSE,FALSE,FALSE,,4,4,0,7,7,0,findingnemo_s003,107,collective
-findingnemo,findingnemo_patient,findingnemo_patient,Patient,Patient,PATIENT,1,Unknown,,FALSE,FALSE,FALSE,,4,4,0,15,15,0,findingnemo_s006,367,
-findingnemo,findingnemo_ted,findingnemo_ted,Ted,Ted,TED,1,M,,TRUE,FALSE,FALSE,,4,4,0,7,7,0,findingnemo_s003,98,
-findingnemo,findingnemo_bruce_anchor_chum,findingnemo_bruce_anchor_chum,Bruce/Anchor/Chum,Bruce/Anchor/Chum,BRUCE/ANCHOR/CHUM,1,M,,FALSE,FALSE,FALSE,,3,3,0,30,30,0,findingnemo_s005,259,combined-speaker label
-findingnemo,findingnemo_male_bird,findingnemo_male_bird,Male Bird,Male Bird,MALE BIRD 1 | MALE BIRD 2 | MALE BIRD 3,3,M,,FALSE,FALSE,FALSE,,3,3,0,36,36,0,findingnemo_s011,848,
-findingnemo,findingnemo_turtle_kids,findingnemo_turtle_kids,Turtle Kids,Turtle Kids,TURTLE KIDS,1,Both,,FALSE,FALSE,FALSE,,3,3,0,7,7,0,findingnemo_s011,819,collective
-findingnemo,findingnemo_anchor_chum,findingnemo_anchor_chum,Anchor/Chum,Anchor/Chum,ANCHOR/CHUM,1,M,,FALSE,FALSE,FALSE,,2,2,0,3,3,0,findingnemo_s005,270,combined-speaker label
-findingnemo,findingnemo_small_fish,findingnemo_small_fish,Small Fish,Small Fish,SMALL FISH,1,Unknown,,FALSE,FALSE,FALSE,,2,2,0,17,17,0,findingnemo_s011,841,
-findingnemo,findingnemo_big_fish,findingnemo_big_fish,Big Fish,Big Fish,BIG FISH,1,Unknown,,FALSE,FALSE,FALSE,,1,1,0,3,3,0,findingnemo_s011,842,
-findingnemo,findingnemo_bob_ted,findingnemo_bob_ted,Bob/Ted,Bob/Ted,BOB/TED,1,M,,FALSE,FALSE,FALSE,,1,1,0,9,9,0,findingnemo_s003,100,combined-speaker label
-findingnemo,findingnemo_bob_ted_bill,findingnemo_bob_ted_bill,Bob/Ted/Bill,Bob/Ted/Bill,BOB/TED/BILL,1,M,,FALSE,FALSE,FALSE,,1,1,0,6,6,0,findingnemo_s024,1374,combined-speaker label
-findingnemo,findingnemo_crab_kid,findingnemo_crab_kid,Crab Kid,Crab Kid,CRAB KID,1,Unknown,,FALSE,FALSE,FALSE,,1,1,0,9,9,0,findingnemo_s003,90,
-findingnemo,findingnemo_crush_squirt,findingnemo_crush_squirt,Crush/Squirt,Crush/Squirt,CRUSH/SQUIRT,1,M,,FALSE,FALSE,FALSE,,1,1,0,1,1,0,findingnemo_s011,804,combined-speaker label
-findingnemo,findingnemo_deb_bloat_gurgle,findingnemo_deb_bloat_gurgle,Deb/Bloat/Gurgle,Deb/Bloat/Gurgle,DEB/BLOAT/GURGLE,1,Both,,FALSE,FALSE,FALSE,,1,1,0,1,1,0,findingnemo_s012,889,combined-speaker label
-findingnemo,findingnemo_diver,findingnemo_diver,Diver,Diver,DIVER,1,M,,FALSE,FALSE,FALSE,,1,1,0,3,3,0,findingnemo_s004,200,
-findingnemo,findingnemo_dolphin,findingnemo_dolphin,Dolphin,Dolphin,DOLPHIN,1,Unknown,,FALSE,FALSE,FALSE,,1,1,0,16,16,0,findingnemo_s011,846,
-findingnemo,findingnemo_female_bird,findingnemo_female_bird,Female Bird,Female Bird,FEMALE BIRD,1,F,,FALSE,FALSE,FALSE,,1,1,0,18,18,0,findingnemo_s011,847,
-findingnemo,findingnemo_fish_kid,findingnemo_fish_kid,Fish Kid,Fish Kid,FISH KID,1,Unknown,,FALSE,FALSE,FALSE,,1,1,0,8,8,0,findingnemo_s004,190,
-findingnemo,findingnemo_fish_kids,findingnemo_fish_kids,Fish Kids,Fish Kids,FISH KIDS,1,Both,,FALSE,FALSE,FALSE,,1,1,0,2,2,0,findingnemo_s003,88,collective
-findingnemo,findingnemo_fish_mom,findingnemo_fish_mom,Fish Mom,Fish Mom,FISH MOM,1,F,,FALSE,FALSE,FALSE,,1,1,0,6,6,0,findingnemo_s003,89,
-findingnemo,findingnemo_jimmy,findingnemo_jimmy,Jimmy,Jimmy,JIMMY,1,M,,TRUE,FALSE,FALSE,,1,1,0,2,2,0,findingnemo_s003,140,
-findingnemo,findingnemo_krill,findingnemo_krill,Krill,Krill,KRILL,1,Unknown,,FALSE,FALSE,FALSE,,1,1,0,2,2,0,findingnemo_s014,1010,
-findingnemo,findingnemo_lobster,findingnemo_lobster,Lobster,Lobster,LOBSTER,1,Unknown,,FALSE,FALSE,FALSE,,1,1,0,31,31,0,findingnemo_s011,844,
-findingnemo,findingnemo_moonfish_ted,findingnemo_moonfish_ted,Moonfish Ted,Moonfish Ted,MOONFISH TED,1,M,,FALSE,FALSE,FALSE,,1,1,0,2,2,0,findingnemo_s009,631,combined-speaker label
-findingnemo,findingnemo_mr_johanssen,findingnemo_mr_johanssen,Mr. Johanssen,Mr. Johanssen,MR. JOHANSSEN,1,M,,TRUE,FALSE,FALSE,,1,1,0,16,16,0,findingnemo_s003,108,
-findingnemo,findingnemo_nemo_squirt,findingnemo_nemo_squirt,Nemo/Squirt,Nemo/Squirt,NEMO/SQUIRT,1,M,,FALSE,FALSE,FALSE,,1,1,0,1,1,0,findingnemo_s024,1379,combined-speaker label
-findingnemo,findingnemo_pelicans,findingnemo_pelicans,Pelicans,Pelicans,PELICANS,1,M,,FALSE,FALSE,FALSE,,1,1,0,3,3,0,findingnemo_s018,1148,collective
-findingnemo,findingnemo_swordfish,findingnemo_swordfish,Swordfish,Swordfish,SWORDFISH,1,Unknown,,FALSE,FALSE,FALSE,,1,1,0,24,24,0,findingnemo_s011,845,
+findingnemo,findingnemo_marlin,findingnemo_marlin,Marlin,Marlin,MARLIN,1,M,,1,1,1,,366,366,0,3322,3322,0,findingnemo_s001,1,
+findingnemo,findingnemo_dory,findingnemo_dory,Dory,Dory,DORY,1,F,,1,0,1,,248,248,0,1808,1808,0,findingnemo_s004,203,
+findingnemo,findingnemo_nemo,findingnemo_nemo,Nemo,Nemo,NEMO,1,M,,1,0,1,,153,153,0,647,647,0,findingnemo_s002,40,
+findingnemo,findingnemo_gill,findingnemo_gill,Gill,Gill,GILL,1,M,,1,0,1,,89,89,0,760,760,0,findingnemo_s006,440,
+findingnemo,findingnemo_bloat,findingnemo_bloat,Bloat,Bloat,BLOAT,1,M,,1,0,1,,42,42,0,469,469,0,findingnemo_s006,373,
+findingnemo,findingnemo_gurgle,findingnemo_gurgle,Gurgle,Gurgle,GURGLE,1,M,,1,0,1,,39,39,0,194,194,0,findingnemo_s006,379,
+findingnemo,findingnemo_peach,findingnemo_peach,Peach,Peach,PEACH,1,F,,1,0,1,,39,39,0,291,291,0,findingnemo_s006,369,
+findingnemo,findingnemo_bruce,findingnemo_bruce,Bruce,Bruce,BRUCE,1,M,,1,0,1,,38,38,0,280,280,0,findingnemo_s004,238,
+findingnemo,findingnemo_nigel,findingnemo_nigel,Nigel,Nigel,NIGEL,1,M,,1,0,1,,35,35,0,426,426,0,findingnemo_s006,421,
+findingnemo,findingnemo_crush,findingnemo_crush,Crush,Crush,CRUSH,1,M,,1,0,1,,29,29,0,272,272,0,findingnemo_s011,770,
+findingnemo,findingnemo_dentist,findingnemo_dentist,Dentist,Dentist,DENTIST,1,M,,1,0,1,,29,29,0,324,324,0,findingnemo_s006,360,referred to by role; named character (Philip Sherman)
+findingnemo,findingnemo_deb,findingnemo_deb,Deb,Deb,DEB,1,F,,1,0,1,,24,24,0,120,120,0,findingnemo_s006,374,
+findingnemo,findingnemo_mr_ray,findingnemo_mr_ray,Mr. Ray,Mr. Ray,MR. RAY,1,M,,1,0,1,,21,21,0,320,320,0,findingnemo_s003,121,
+findingnemo,findingnemo_chum,findingnemo_chum,Chum,Chum,CHUM,1,M,,1,0,1,,18,18,0,126,126,0,findingnemo_s004,255,
+findingnemo,findingnemo_coral,findingnemo_coral,Coral,Coral,CORAL,1,F,,1,0,1,,17,17,0,128,128,0,findingnemo_s001,2,
+findingnemo,findingnemo_moonfish_leader,findingnemo_moonfish_leader,Moonfish Leader,Moonfish Leader,MOONFISH LEADER,1,M,,0,0,0,,16,16,0,188,188,0,findingnemo_s009,594,"descriptive label, not a proper name"
+findingnemo,findingnemo_darla,findingnemo_darla,Darla,Darla,DARLA,1,F,,1,0,1,,15,15,0,52,52,0,findingnemo_s019,1177,
+findingnemo,findingnemo_anchor,findingnemo_anchor,Anchor,Anchor,ANCHOR,1,M,,1,0,1,,14,14,0,64,64,0,findingnemo_s004,252,
+findingnemo,findingnemo_bubbles,findingnemo_bubbles,Bubbles,Bubbles,BUBBLES,1,M,,1,0,1,,14,14,0,47,47,0,findingnemo_s006,368,
+findingnemo,findingnemo_squirt,findingnemo_squirt,Squirt,Squirt,SQUIRT,1,M,,1,0,1,,12,12,0,92,92,0,findingnemo_s011,799,
+findingnemo,findingnemo_crab,findingnemo_crab,Crab,Crab,CRAB | CRAB 1 | CRAB 2,3,M,,0,0,0,,11,11,0,85,85,0,findingnemo_s011,860,
+findingnemo,findingnemo_jacques,findingnemo_jacques,Jacques,Jacques,JACQUES,1,M,,1,0,1,,11,11,0,25,25,0,findingnemo_s006,371,
+findingnemo,findingnemo_bob,findingnemo_bob,Bob,Bob,BOB,1,M,,1,0,1,,10,10,0,56,56,0,findingnemo_s003,93,
+findingnemo,findingnemo_tad,findingnemo_tad,Tad,Tad,TAD,1,M,,1,0,1,,9,9,0,51,51,0,findingnemo_s003,113,
+findingnemo,findingnemo_gulls,findingnemo_gulls,Gulls,Gulls,GULLS,1,M,,0,0,0,,8,8,0,45,45,0,findingnemo_s011,851,collective
+findingnemo,findingnemo_marlin_dory,findingnemo_marlin_dory,Marlin/Dory,Marlin/Dory,MARLIN/DORY,1,Both,,0,0,0,,7,7,0,13,13,0,findingnemo_s005,332,combined-speaker label
+findingnemo,findingnemo_turtle_kid,findingnemo_turtle_kid,Turtle Kid,Turtle Kid,TURTLE KID | TURTLE KID 1 | TURTLE KID 2 | TURTLE KID 3 | TURTLE KID 4 | TURTLE KID 5 | TURTLE KID 6,7,Unknown,,0,0,0,,7,7,0,44,44,0,findingnemo_s011,821,
+findingnemo,findingnemo_pearl,findingnemo_pearl,Pearl,Pearl,PEARL,1,F,,1,0,1,,6,6,0,47,47,0,findingnemo_s003,112,
+findingnemo,findingnemo_pelican,findingnemo_pelican,Pelican,Pelican,PELICAN,1,M,,0,0,0,,6,6,0,47,47,0,findingnemo_s005,358,
+findingnemo,findingnemo_barbara,findingnemo_barbara,Barbara,Barbara,BARBARA,1,F,,1,0,1,,5,5,0,15,15,0,findingnemo_s006,361,
+findingnemo,findingnemo_fish,findingnemo_fish,Fish,Fish,FISH,1,Unknown,,0,0,0,,5,5,0,27,27,0,findingnemo_s023,1292,
+findingnemo,findingnemo_sheldon,findingnemo_sheldon,Sheldon,Sheldon,SHELDON,1,M,,1,0,1,,5,5,0,33,33,0,findingnemo_s003,114,
+findingnemo,findingnemo_bill,findingnemo_bill,Bill,Bill,BILL,1,M,,1,0,0,,4,4,0,42,42,0,findingnemo_s003,99,
+findingnemo,findingnemo_bloat_bubbles_gurgle,findingnemo_bloat_bubbles_gurgle,Bloat/Bubbles/Gurgle,Bloat/Bubbles/Gurgle,BLOAT/BUBBLES/GURGLE,1,M,,0,0,0,,4,4,0,46,46,0,findingnemo_s008,537,combined-speaker label
+findingnemo,findingnemo_crab_1_crab,findingnemo_crab_1_crab,Crab 1/Crab,Crab 1/Crab,CRAB 1/CRAB 2,1,M,,0,0,0,,4,4,0,18,18,0,findingnemo_s021,1253,combined-speaker label
+findingnemo,findingnemo_gull,findingnemo_gull,Gull,Gull,GULL,1,M,,0,0,0,,4,4,0,4,4,0,findingnemo_s011,861,
+findingnemo,findingnemo_kids,findingnemo_kids,Kids,Kids,KIDS,1,Both,,0,0,0,,4,4,0,7,7,0,findingnemo_s003,107,collective
+findingnemo,findingnemo_patient,findingnemo_patient,Patient,Patient,PATIENT,1,Unknown,,0,0,0,,4,4,0,15,15,0,findingnemo_s006,367,
+findingnemo,findingnemo_ted,findingnemo_ted,Ted,Ted,TED,1,M,,1,0,0,,4,4,0,7,7,0,findingnemo_s003,98,
+findingnemo,findingnemo_bruce_anchor_chum,findingnemo_bruce_anchor_chum,Bruce/Anchor/Chum,Bruce/Anchor/Chum,BRUCE/ANCHOR/CHUM,1,M,,0,0,0,,3,3,0,30,30,0,findingnemo_s005,259,combined-speaker label
+findingnemo,findingnemo_male_bird,findingnemo_male_bird,Male Bird,Male Bird,MALE BIRD 1 | MALE BIRD 2 | MALE BIRD 3,3,M,,0,0,0,,3,3,0,36,36,0,findingnemo_s011,848,
+findingnemo,findingnemo_turtle_kids,findingnemo_turtle_kids,Turtle Kids,Turtle Kids,TURTLE KIDS,1,Both,,0,0,0,,3,3,0,7,7,0,findingnemo_s011,819,collective
+findingnemo,findingnemo_anchor_chum,findingnemo_anchor_chum,Anchor/Chum,Anchor/Chum,ANCHOR/CHUM,1,M,,0,0,0,,2,2,0,3,3,0,findingnemo_s005,270,combined-speaker label
+findingnemo,findingnemo_small_fish,findingnemo_small_fish,Small Fish,Small Fish,SMALL FISH,1,Unknown,,0,0,0,,2,2,0,17,17,0,findingnemo_s011,841,
+findingnemo,findingnemo_big_fish,findingnemo_big_fish,Big Fish,Big Fish,BIG FISH,1,Unknown,,0,0,0,,1,1,0,3,3,0,findingnemo_s011,842,
+findingnemo,findingnemo_bob_ted,findingnemo_bob_ted,Bob/Ted,Bob/Ted,BOB/TED,1,M,,0,0,0,,1,1,0,9,9,0,findingnemo_s003,100,combined-speaker label
+findingnemo,findingnemo_bob_ted_bill,findingnemo_bob_ted_bill,Bob/Ted/Bill,Bob/Ted/Bill,BOB/TED/BILL,1,M,,0,0,0,,1,1,0,6,6,0,findingnemo_s024,1374,combined-speaker label
+findingnemo,findingnemo_crab_kid,findingnemo_crab_kid,Crab Kid,Crab Kid,CRAB KID,1,Unknown,,0,0,0,,1,1,0,9,9,0,findingnemo_s003,90,
+findingnemo,findingnemo_crush_squirt,findingnemo_crush_squirt,Crush/Squirt,Crush/Squirt,CRUSH/SQUIRT,1,M,,0,0,0,,1,1,0,1,1,0,findingnemo_s011,804,combined-speaker label
+findingnemo,findingnemo_deb_bloat_gurgle,findingnemo_deb_bloat_gurgle,Deb/Bloat/Gurgle,Deb/Bloat/Gurgle,DEB/BLOAT/GURGLE,1,Both,,0,0,0,,1,1,0,1,1,0,findingnemo_s012,889,combined-speaker label
+findingnemo,findingnemo_diver,findingnemo_diver,Diver,Diver,DIVER,1,M,,0,0,0,,1,1,0,3,3,0,findingnemo_s004,200,
+findingnemo,findingnemo_dolphin,findingnemo_dolphin,Dolphin,Dolphin,DOLPHIN,1,Unknown,,0,0,0,,1,1,0,16,16,0,findingnemo_s011,846,
+findingnemo,findingnemo_female_bird,findingnemo_female_bird,Female Bird,Female Bird,FEMALE BIRD,1,F,,0,0,0,,1,1,0,18,18,0,findingnemo_s011,847,
+findingnemo,findingnemo_fish_kid,findingnemo_fish_kid,Fish Kid,Fish Kid,FISH KID,1,Unknown,,0,0,0,,1,1,0,8,8,0,findingnemo_s004,190,
+findingnemo,findingnemo_fish_kids,findingnemo_fish_kids,Fish Kids,Fish Kids,FISH KIDS,1,Both,,0,0,0,,1,1,0,2,2,0,findingnemo_s003,88,collective
+findingnemo,findingnemo_fish_mom,findingnemo_fish_mom,Fish Mom,Fish Mom,FISH MOM,1,F,,0,0,0,,1,1,0,6,6,0,findingnemo_s003,89,
+findingnemo,findingnemo_jimmy,findingnemo_jimmy,Jimmy,Jimmy,JIMMY,1,M,,1,0,0,,1,1,0,2,2,0,findingnemo_s003,140,
+findingnemo,findingnemo_krill,findingnemo_krill,Krill,Krill,KRILL,1,Unknown,,0,0,0,,1,1,0,2,2,0,findingnemo_s014,1010,
+findingnemo,findingnemo_lobster,findingnemo_lobster,Lobster,Lobster,LOBSTER,1,Unknown,,0,0,0,,1,1,0,31,31,0,findingnemo_s011,844,
+findingnemo,findingnemo_moonfish_ted,findingnemo_moonfish_ted,Moonfish Ted,Moonfish Ted,MOONFISH TED,1,M,,0,0,0,,1,1,0,2,2,0,findingnemo_s009,631,combined-speaker label
+findingnemo,findingnemo_mr_johanssen,findingnemo_mr_johanssen,Mr. Johanssen,Mr. Johanssen,MR. JOHANSSEN,1,M,,1,0,0,,1,1,0,16,16,0,findingnemo_s003,108,
+findingnemo,findingnemo_nemo_squirt,findingnemo_nemo_squirt,Nemo/Squirt,Nemo/Squirt,NEMO/SQUIRT,1,M,,0,0,0,,1,1,0,1,1,0,findingnemo_s024,1379,combined-speaker label
+findingnemo,findingnemo_pelicans,findingnemo_pelicans,Pelicans,Pelicans,PELICANS,1,M,,0,0,0,,1,1,0,3,3,0,findingnemo_s018,1148,collective
+findingnemo,findingnemo_swordfish,findingnemo_swordfish,Swordfish,Swordfish,SWORDFISH,1,Unknown,,0,0,0,,1,1,0,24,24,0,findingnemo_s011,845,

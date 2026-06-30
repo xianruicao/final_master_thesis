@@ -4,22 +4,22 @@ N=17 Unified Orchestrator (Agent B: Steps 1, 2, 3, 4, 6)
 
 Single entry point that runs Pillar A (the measure), Pillar B (the method),
 structural context, descriptive extensions, and exploratory analysis on the
-17-film analytic sample (9F + 8M) after applying the 6 Conventions defined
+17-film analytic sample (8F + 9M) after applying the 6 Conventions defined
 in CLEAN/admin/AGENT_INSTRUCTION_run_analysis_N18.md.
 
 Conventions filters applied at load time:
   C1. Drop `soul_2020` (genderless 22/souls make same-gender share incoherent).
   C2. One protagonist per film (no co-leads).
   C3. Monsters Inc — keep Sulley, drop Mike (Sulley is the narrative lead).
-  C4. Resulting N = 17 (9F + 8M), uniform across film-level and protag-level steps.
+  C4. Resulting N = 17 (8F + 9M), uniform across film-level and protag-level steps.
   C5. N=12 comparisons may carry small caveats where Soul affected the prior result.
 
 Outputs:
   - tables_n17/         all CSVs and JSON test panels
   - figures_n17/        all PNG + PDF figures
-  - UNIFIED_RESULTS_N18_steps1_4_6.md  (single markdown)
-  - data/processed/film_features_all_n17.csv      (derived working filter)
-  - data/processed/film_features_extended_n17.csv (derived working filter)
+  - UNIFIED_RESULTS_N17_steps1_4_6.md  (single markdown)
+  - data/04_features/film_features_all_n17.csv      (derived working filter)
+  - data/04_features/film_features_extended_n17.csv (derived working filter)
 
 This script does NOT modify the upstream csvs.
 """
@@ -69,14 +69,14 @@ from phase3_crossfilm_addressee_value import (  # noqa: E402
 # ----------------------------------------------------------------------------
 HERE = Path(__file__).parent
 CLEAN = HERE.parents[1]
-PROC = CLEAN / "data" / "processed"
+FEAT = CLEAN / "data" / "04_features"
 FIG_DIR_N17 = HERE / "figures_n17"
 TBL_DIR_N17 = HERE / "tables_n17"
 FIG_DIR_N17.mkdir(parents=True, exist_ok=True)
 TBL_DIR_N17.mkdir(parents=True, exist_ok=True)
 
 STATUS_FILE = HERE / "STATUS_agent_B.md"
-OUTPUT_MD = HERE / "UNIFIED_RESULTS_N18_steps1_4_6.md"
+OUTPUT_MD = HERE / "UNIFIED_RESULTS_N17_steps1_4_6.md"
 
 DISPLAY_N17 = {
     "mulan_1998": "Mulan (1998)",
@@ -126,16 +126,16 @@ def apply_conventions(df: pd.DataFrame) -> pd.DataFrame:
 
 
 def load_n17_all() -> pd.DataFrame:
-    df = pd.read_csv(PROC / "film_features_all.csv")
+    df = pd.read_csv(FEAT / "film_features_all.csv")
     out = apply_conventions(df)
-    out.to_csv(PROC / "film_features_all_n17.csv", index=False)
+    out.to_csv(FEAT / "film_features_all_n17.csv", index=False)
     return out
 
 
 def load_n17_extended() -> pd.DataFrame:
-    df = pd.read_csv(PROC / "film_features_extended.csv")
+    df = pd.read_csv(FEAT / "film_features_extended.csv")
     out = apply_conventions(df)
-    out.to_csv(PROC / "film_features_extended_n17.csv", index=False)
+    out.to_csv(FEAT / "film_features_extended_n17.csv", index=False)
     return out
 
 
@@ -255,7 +255,7 @@ def step1_pillar_a(df: pd.DataFrame) -> dict:
     ax.axvline(1.645, color="grey", linestyle="--", linewidth=0.7, alpha=0.7)
     ax.axvline(-1.645, color="grey", linestyle="--", linewidth=0.7, alpha=0.7)
     ax.set_xlabel("Protagonist same-gender homophily z (cast-adjusted)")
-    ax.set_title(f"H1 — per-protagonist cast-adjusted z (N=17, 9F+8M)")
+    ax.set_title(f"H1 — per-protagonist cast-adjusted z (N=17, 8F+9M)")
     legend = [plt.Line2D([0], [0], marker="o", color="w", markerfacecolor=c,
                           markeredgecolor="black", markersize=10, label=g)
               for g, c in GENDER_PALETTE.items()]
@@ -962,7 +962,7 @@ def write_markdown(df_all, df_ext, results1, results2, results3, results4, resul
     A("# Unified Results — Steps 1, 2, 3, 4, 6 (Agent B, N=17)")
     A("")
     A("> Source-of-truth plan: `CLEAN/admin/AGENT_INSTRUCTION_run_analysis_N18.md`.")
-    A("> Analytic sample: **N=17 (9 F-led + 8 M-led)** after Conventions filters "
+    A("> Analytic sample: **N=17 (8 F-led + 9 M-led)** after Conventions filters "
       "(Soul dropped — Convention 1; Mike row of Monsters Inc dropped, Sulley kept — Convention 3).")
     A("> RNG_SEED = 20260622. Pillar B null = label-shuffling, n=2000 permutations.")
     A("> Tables: `tables_n17/`. Figures: `figures_n17/`. Orchestrator: `n17_orchestrator.py`.")
@@ -1203,10 +1203,10 @@ def write_markdown(df_all, df_ext, results1, results2, results3, results4, resul
       f"(Inside Out: Anger→Disgust; Zootopia: Bogo→Hopps; Encanto: Bruno→Luisa).")
     A("")
     A(f"At N=17:")
-    A(f"- **F-led films with cross-gender (male) keystone, ADDRESSEE method:** {t3['F_led_addr_cross_gender']}/9")
-    A(f"- **F-led films with cross-gender (male) keystone, CO-OCCURRENCE method:** {t3['F_led_cooc_cross_gender']}/9")
-    A(f"- **M-led films with cross-gender (female) keystone, ADDRESSEE method:** {t3['M_led_addr_cross_gender']}/8")
-    A(f"- **M-led films with cross-gender (female) keystone, CO-OCCURRENCE method:** {t3['M_led_cooc_cross_gender']}/8")
+    A(f"- **F-led films with cross-gender (male) keystone, ADDRESSEE method:** {t3['F_led_addr_cross_gender']}/8")
+    A(f"- **F-led films with cross-gender (male) keystone, CO-OCCURRENCE method:** {t3['F_led_cooc_cross_gender']}/8")
+    A(f"- **M-led films with cross-gender (female) keystone, ADDRESSEE method:** {t3['M_led_addr_cross_gender']}/9")
+    A(f"- **M-led films with cross-gender (female) keystone, CO-OCCURRENCE method:** {t3['M_led_cooc_cross_gender']}/9")
     A("")
     A(f"**F-led films where addressee picks M but co-occurrence picks F** "
       f"(the N=12 pattern, n = {len(t3['F_led_flip_addrM_coocF'])}):")
@@ -1255,8 +1255,8 @@ def write_markdown(df_all, df_ext, results1, results2, results3, results4, resul
           f"gender-flips are still in the same direction (addressee picks M, co-occurrence "
           f"picks F). There are **zero** F-led flips in the opposite direction and **"
           f"{n_flips_M}** M-led flips. The F-led cross-gender keystone count drops from "
-          f"{t3['F_led_addr_cross_gender']}/9 under addressee to "
-          f"{t3['F_led_cooc_cross_gender']}/9 under co-occurrence — a difference of "
+          f"{t3['F_led_addr_cross_gender']}/8 under addressee to "
+          f"{t3['F_led_cooc_cross_gender']}/8 under co-occurrence — a difference of "
           f"{t3['F_led_addr_cross_gender'] - t3['F_led_cooc_cross_gender']} films. Under "
           f"the cheaper co-occurrence pipeline, the keystone-cross-gender finding for "
           f"F-led films (§4.3) would be materially weakened. This is the single strongest "
@@ -1266,9 +1266,9 @@ def write_markdown(df_all, df_ext, results1, results2, results3, results4, resul
         A(f"**At N=17 the N=12 directional pattern is qualified.** {n_flips_F_addrM} "
           f"F-led films flip addr→M / cooc→F, {n_flips_F_addrF} flip in the opposite "
           f"direction, and {n_flips_M} M-led films flip. The F-led cross-gender keystone "
-          f"count under co-occurrence ({t3['F_led_cooc_cross_gender']}/9) is "
+          f"count under co-occurrence ({t3['F_led_cooc_cross_gender']}/8) is "
           f"{'still markedly lower than' if t3['F_led_addr_cross_gender'] - t3['F_led_cooc_cross_gender'] >= 2 else 'similar to'} "
-          f"under addressee ({t3['F_led_addr_cross_gender']}/9).")
+          f"under addressee ({t3['F_led_addr_cross_gender']}/8).")
     A("")
 
     # 2g Test 4 complexity
@@ -1583,7 +1583,7 @@ def write_markdown(df_all, df_ext, results1, results2, results3, results4, resul
               f"Cliff's δ = {panel['cliffs_delta']:+.3f}, "
               f"MW two-sided p = {panel['mw_two_sided']['p']:.4f}.")
             A("")
-    A("**Confound note.** The post-2010 corpus skew (most films post-2010, all 9 F-leds "
+    A("**Confound note.** The post-2010 corpus skew (most films post-2010, all 8 F-leds "
       "from 1991, 1998 and 2013–2023) means year and gender are partially confounded. "
       "Any year × gender interpretation should be read with this in mind.")
     A("")
@@ -1624,7 +1624,7 @@ def write_markdown(df_all, df_ext, results1, results2, results3, results4, resul
     # ====================================================================
     A("## 8. Limitations (Agent B portion)")
     A("")
-    A("- **N is small (17 films, 9F+8M).** Mann-Whitney has very limited power for medium "
+    A("- **N is small (17 films, 8F+9M).** Mann-Whitney has very limited power for medium "
       "effects (Cliff's δ ≈ 0.33 detected at < 30% power at α = 0.05). We rely on effect "
       "sizes and bootstrap intervals, not on p-values, for substantive claims.")
     A("- **Two films dropped relative to the upstream 18-film pipeline:** Soul (Convention 1, "
@@ -1659,20 +1659,22 @@ def write_markdown(df_all, df_ext, results1, results2, results3, results4, resul
       "Run with `python n17_orchestrator.py`.")
     A("- `CLEAN/analysis/h1_homophily/_common.py` — shared helpers (palette, stats, IO).")
     A("- `CLEAN/notebooks/06_network_analysis_PAU.ipynb` - per-film network production.")
-    A("- `CLEAN/analysis/h1_homophily/phase3_crossfilm_method_validation.py` - batch "
-      "addressee/co-occurrence method validation.")
-    A("- `CLEAN/analysis/h1_homophily/phase3_crossfilm_addressee_value.py` - batch "
-      "edge-divergence, reciprocity, keystone, and scene-complexity helpers.")
+    A("- `CLEAN/analysis/h1_homophily/phase3_crossfilm_method_validation.py` — shared "
+      "helper module (addressee/co-occurrence network builders, label-shuffle null) "
+      "imported by this orchestrator; not run directly.")
+    A("- `CLEAN/analysis/h1_homophily/phase3_crossfilm_addressee_value.py` — shared "
+      "helper module (edge-divergence, reciprocity, keystone, scene-complexity) "
+      "imported by this orchestrator; not run directly.")
     A("- `CLEAN/notebooks/09_analysis.ipynb` - cross-film reporting notebook.")
     A("")
     A("**Derived working data (filtered, not modified upstream):**")
-    A("- `CLEAN/data/processed/film_features_all_n17.csv` (17 rows, conventions applied)")
-    A("- `CLEAN/data/processed/film_features_extended_n17.csv` (17 rows, conventions applied)")
+    A("- `CLEAN/data/04_features/film_features_all_n17.csv` (17 rows, conventions applied)")
+    A("- `CLEAN/data/04_features/film_features_extended_n17.csv` (17 rows, conventions applied)")
     A("")
     A("**Outputs:**")
     A("- Tables: `CLEAN/analysis/h1_homophily/tables_n17/`")
     A("- Figures: `CLEAN/analysis/h1_homophily/figures_n17/` (PNG + PDF)")
-    A("- This document: `CLEAN/analysis/h1_homophily/UNIFIED_RESULTS_N18_steps1_4_6.md`")
+    A(f"- This document: `CLEAN/analysis/h1_homophily/{OUTPUT_MD.name}`")
     A("- Status log: `CLEAN/analysis/h1_homophily/STATUS_agent_B.md`")
     A("")
     A("**Seeds.** `RNG_SEED = 20260622` for permutations (10,000 iters for H1 panels), "
@@ -1686,7 +1688,7 @@ def write_markdown(df_all, df_ext, results1, results2, results3, results4, resul
     A("1. Drop `soul_2020` from the analytic sample (genderless souls make the same-gender share metric incoherent).")
     A("2. One protagonist per film — no co-leads added as second rows.")
     A("3. Monsters Inc — keep Sulley, drop Mike (Sulley is the narrative lead; overrides notebook 09's Mike-keep choice).")
-    A("4. Uniform N = 17 (9F + 8M) across film-level and protagonist-level analyses.")
+    A("4. Uniform N = 17 (8F + 9M) across film-level and protagonist-level analyses.")
     A("5. When citing N=12 reference values, note small caveats where Soul (Joe) affected the "
       "prior number (e.g. Soul had 0 phantom edges, so the drop does not change Test 1 directly; "
       "Soul's Terry was F so its inclusion at N=12 already counted as an F-keystone for an M-led "
@@ -1717,6 +1719,10 @@ def main():
     df_ext = load_n17_extended()
     assert len(df_all) == 17, f"Expected 17 rows, got {len(df_all)}"
     assert len(df_ext) == 17, f"Expected 17 rows, got {len(df_ext)}"
+    # Guard composition, not just the count: a swapped/duplicated row can still total 17.
+    assert df_all.film_id.is_unique, "n17 has >1 row for some film — check apply_conventions C2/C3"
+    _split = df_all.lead_gender.value_counts().to_dict()
+    assert _split.get("F") == 8 and _split.get("M") == 9, f"Expected 8F/9M, got {_split}"
     status(f"Loaded N=17. F={int((df_all.lead_gender=='F').sum())}, "
             f"M={int((df_all.lead_gender=='M').sum())}")
 
@@ -1730,8 +1736,8 @@ def main():
     r2 = step2_pillar_b(df_all)
     status(f"Step 2 done — z Spearman ρ={r2['agreement']['z_spearman_rho']:+.3f}, "
             f"keystone agree={r2['test3']['agree_rate']:.1%}, "
-            f"F-led addr-cross={r2['test3']['F_led_addr_cross_gender']}/9, "
-            f"F-led cooc-cross={r2['test3']['F_led_cooc_cross_gender']}/9")
+            f"F-led addr-cross={r2['test3']['F_led_addr_cross_gender']}/8, "
+            f"F-led cooc-cross={r2['test3']['F_led_cooc_cross_gender']}/8")
 
     # Step 3
     r3 = step3_structural(df_all, df_ext)

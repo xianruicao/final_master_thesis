@@ -4,7 +4,7 @@ Cross-film batch method validation for Phase 3.
 Pipeline role:
   1. Notebook 06 (`CLEAN/notebooks/06_network_analysis_PAU.ipynb`) is the
      per-film production layer. It builds each film's directed addressee
-     network and writes `data/processed/{film_id}/network_edges.csv`.
+     network and writes `data/02_processed/{film_id}/network_edges.csv`.
   2. This script is the cross-film batch layer. It consumes Notebook 06 outputs
      and rebuilds a scene co-occurrence baseline for method comparison.
   3. Notebook 09 (`CLEAN/notebooks/09_analysis.ipynb`) is the reporting layer.
@@ -49,7 +49,7 @@ from _common import (
 )
 
 CLEAN = Path(__file__).resolve().parents[2]
-PROC  = CLEAN / "data" / "processed"
+PROC  = CLEAN / "data" / "02_processed"
 MIN_EDGE_COUNT = 3
 N_NULL = 2000
 
@@ -301,6 +301,7 @@ def per_film_row(film_id: str, protagonist: str, lead_gender: str) -> dict:
 
 
 def main():
+    TBL_DIR.mkdir(parents=True, exist_ok=True)
     set_style()
     df = load_df()
 

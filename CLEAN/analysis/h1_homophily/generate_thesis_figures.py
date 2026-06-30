@@ -20,7 +20,7 @@ from pathlib import Path
 OUT = Path(__file__).parent / "figures_n17"
 OUT.mkdir(exist_ok=True)
 
-DATA = Path(__file__).parent.parent.parent / "data/processed/frozen_2013"
+DATA = Path(__file__).parent.parent.parent / "data/02_processed/frozen_2013"
 
 COLOR_F = "#D66B5A"   # warm red for female
 COLOR_M = "#4A7FB5"   # blue for male

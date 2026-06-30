@@ -12,11 +12,11 @@ from scipy import stats
 
 HERE = Path(__file__).parent
 ROOT = HERE.parents[1]                                   # CLEAN
-DATA_PATH = ROOT / "data" / "processed" / "film_features_all.csv"
+DATA_PATH = ROOT / "data" / "04_features" / "film_features_all.csv"
 FIG_DIR = HERE / "figures"
 TBL_DIR = HERE / "tables"
-FIG_DIR.mkdir(parents=True, exist_ok=True)
-TBL_DIR.mkdir(parents=True, exist_ok=True)
+# NB: these dirs are created lazily by their writers (savefig / phase3 main()),
+# not at import time — so merely importing this module leaves no empty folders.
 
 # Warm/cool, colour-blind friendly, avoids the pink/blue gender clichés.
 GENDER_PALETTE = {"F": "#D97706", "M": "#0EA5E9"}        # amber / sky
@@ -36,6 +36,12 @@ DISPLAY_TITLES = {
     "coco_2017":                        "Coco (2017)",
     "onward_2020":                      "Onward (2020)",
     "soul_2020":                        "Soul (2020)",
+    "beautyandthebeast_1991":           "Beauty & the Beast (1991)",
+    "incredibles_2_2018":               "Incredibles 2 (2018)",
+    "findingnemo":                      "Finding Nemo (2003)",
+    "toy_story_3_2010":                 "Toy Story 3 (2010)",
+    "cars2":                            "Cars 2 (2011)",
+    "elemental_2023":                   "Elemental (2023)",
 }
 
 
@@ -70,6 +76,7 @@ def dedup_films(df: pd.DataFrame) -> pd.DataFrame:
 
 
 def savefig(fig: plt.Figure, name: str) -> None:
+    FIG_DIR.mkdir(parents=True, exist_ok=True)
     fig.savefig(FIG_DIR / f"{name}.png")
     fig.savefig(FIG_DIR / f"{name}.pdf")
     plt.close(fig)

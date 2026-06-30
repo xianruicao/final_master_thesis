@@ -1,18 +1,18 @@
 film_id,film_title,protagonist,lead_gender,year,protag_samesex,protag_samesex_z,protag_samesex_p,sig_alpha05
-monsters_inc_2001,Monsters Inc (2001),Sulley,M,2001,0.625,-1.489,0.992,False
-raya_and_the_last_dragon_2021,Raya (2021),Raya,F,2021,0.4,-1.374,0.9405,False
-zootopia_2016,Zootopia (2016),Hopps,F,2016,0.25,-1.239,0.93,False
-up,Up (2009),Carl,M,2009,0.8,-1.189,1.0,False
-coco_2017,Coco (2017),Miguel,M,2017,0.5333,-1.186,0.961,False
+monsters_inc_2001,Monsters Inc (2001),Sulley,M,2001,0.625,-1.489,0.9905,False
+raya_and_the_last_dragon_2021,Raya (2021),Raya,F,2021,0.4,-1.447,0.9495,False
+zootopia_2016,Zootopia (2016),Hopps,F,2016,0.25,-1.306,0.937,False
+up,Up (2009),Carl,M,2009,0.8,-1.207,1.0,False
+coco_2017,Coco (2017),Miguel,M,2017,0.5333,-1.187,0.9625,False
 inside_out_2015,Inside Out (2015),Joy,F,2015,0.4286,-0.805,0.8586,False
-mulan_1998,Mulan (1998),Mulan,F,1998,0.1111,-0.656,0.7201,False
-toy_story_3_2010,Toy Story 3 (2010),Woody,M,2010,0.6667,0.325,0.4433,False
-encanto_2021,Encanto (2021),Mirabel,F,2021,0.6364,0.383,0.8721,False
-cars2,Cars 2 (2011),Mater,M,2011,0.9091,0.442,0.4953,False
-incredibles_2_2018,Incredibles 2 (2018),Bob,M,2018,0.6,0.647,0.2174,False
-findingnemo,Finding Nemo (2003),Marlin,M,2003,0.7778,0.673,0.2174,False
-onward_2020,Onward (2020),Ian,M,2020,0.5,0.955,0.2809,False
-beautyandthebeast_1991,Beauty & the Beast (1991),Belle,F,1991,0.2857,1.528,0.0735,False
+mulan_1998,Mulan (1998),Mulan,F,1998,0.1111,-0.64,0.7286,False
+toy_story_3_2010,Toy Story 3 (2010),Woody,M,2010,0.6667,0.329,0.4393,False
+encanto_2021,Encanto (2021),Mirabel,F,2021,0.6364,0.351,0.8906,False
+cars2,Cars 2 (2011),Mater,M,2011,0.9091,0.385,0.5237,False
+incredibles_2_2018,Incredibles 2 (2018),Bob,M,2018,0.6,0.664,0.2259,False
+findingnemo,Finding Nemo (2003),Marlin,M,2003,0.7778,0.707,0.2084,False
+onward_2020,Onward (2020),Ian,M,2020,0.5,0.971,0.2864,False
+beautyandthebeast_1991,Beauty & the Beast (1991),Belle,F,1991,0.2857,1.558,0.076,False
 elemental_2023,Elemental (2023),Ember,F,2023,0.4286,1.562,0.2909,False
-frozen_2013,Frozen (2013),Anna,F,2013,0.2857,1.837,0.0175,True
-toy_story_1995,Toy Story (1995),Woody,M,1995,0.8889,4.191,0.0065,True
+frozen_2013,Frozen (2013),Anna,F,2013,0.2857,1.865,0.0165,True
+toy_story_1995,Toy Story (1995),Woody,M,1995,0.8889,4.225,0.0055,True

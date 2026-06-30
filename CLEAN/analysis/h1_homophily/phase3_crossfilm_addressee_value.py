@@ -167,6 +167,7 @@ def scene_complexity(film_id: str, remap: dict, valid: set[str]) -> dict:
 # -------- main ---------------------------------------------------------------
 
 def main():
+    TBL_DIR.mkdir(parents=True, exist_ok=True)
     set_style()
     df = load_df()
 

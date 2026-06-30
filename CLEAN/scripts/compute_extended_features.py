@@ -34,8 +34,9 @@ from pathlib import Path
 
 CLEAN_ROOT = Path(__file__).resolve().parent.parent
 PROCESSED  = CLEAN_ROOT / "data" / "02_processed"
+FEAT       = CLEAN_ROOT / "data" / "04_features"
 
-feat_all = pd.read_csv(PROCESSED / "film_features_all.csv")
+feat_all = pd.read_csv(FEAT / "film_features_all.csv")
 
 rows = []
 
@@ -133,7 +134,7 @@ print(out[["film_id", "burt_constraint", "female_alter_betw_z", "ego_density"]].
 
 # merge with main film_features
 merged = feat_all.merge(out, on=["film_id", "protagonist"], how="left")
-out_path = PROCESSED / "film_features_extended.csv"
+out_path = FEAT / "film_features_extended.csv"
 merged.to_csv(out_path, index=False)
 print(f"\nSaved → {out_path}")
 print(f"Shape: {merged.shape}")

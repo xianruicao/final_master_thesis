@@ -1,24 +1,24 @@
 film_id,parser_character_id,review_character_id,parser_canonical_name,canonical_name,raw_speaker_labels,raw_speaker_label_variant_count,gender,gender_rationale,is_named,is_protagonist,included_in_network,merge_into_character_id,utterance_count,spoken_utterance_count,song_utterance_count,word_count_total,word_count_spoken_only,word_count_song_only,first_scene_id,first_event_id,review_notes
-up,up_carl,up_carl,Carl,Carl,CARL | CARL (O.S.) | YOUNG CARL,3,M,,True,True,True,,245,245,0,1547,1547,0,up_s001,12,
-up,up_russell,up_russell,Russell,Russell,RUSSELL | RUSSELL (O.S.),2,M,,True,False,True,,208,208,0,1515,1515,0,up_s048,78,
-up,up_muntz,up_muntz,Muntz,Muntz,MUNTZ | MUNTZ (O.S.),2,M,,True,False,True,,57,57,0,594,594,0,up_s001,6,
-up,up_dug,up_dug,Dug,Dug,DUG | DUG (O.S.),2,M,,True,False,True,,49,49,0,483,483,0,up_s096,304,
-up,up_ellie,up_ellie,Ellie,Ellie,YOUNG ELLIE | YOUNG ELLIE (O.S.),2,F,,True,False,True,,31,31,0,325,325,0,up_s004,28,
-up,up_alpha,up_alpha,Alpha,Alpha,ALPHA | ALPHA (CONT'D),2,M,,True,False,True,,22,22,0,250,250,0,up_s097,330,
-up,up_newsreel_announcer,up_newsreel_announcer,Newsreel Announcer,Newsreel Announcer,NEWSREEL ANNOUNCER (O.S.) | NEWSREEL ANNOUNCER (V.O.),2,M,,False,False,False,,17,17,0,184,184,0,up_s001,1,
-up,up_gamma,up_gamma,Gamma,Gamma,GAMMA | GAMMA (O.S.),2,M,,True,False,True,,15,15,0,83,83,0,up_s097,326,
-up,up_beta,up_beta,Beta,Beta,BETA,1,M,,True,False,True,,12,12,0,103,103,0,up_s097,327,
-up,up_voice,up_voice,Voice,Voice,VOICE | VOICE (O.S.),2,Unknown,,False,False,False,,8,8,0,68,68,0,up_s096,285,
-up,up_construction_foreman_tom,up_construction_foreman_tom,Construction Foreman Tom,Construction Foreman Tom,CONSTRUCTION FOREMAN TOM,1,M,,True,False,True,,7,7,0,74,74,0,up_s046,65,
-up,up_dog_walla,up_dog_walla,Dog Walla,Dog Walla,DOG WALLA,1,Unknown,,False,False,False,,6,6,0,59,59,0,up_s110,455,"film sound term (background dog murmur), not a character"
-up,up_camp_master_strauch,up_camp_master_strauch,Camp Master Strauch,Camp Master Strauch,CAMP MASTER STRAUCH,1,M,,True,False,True,,5,5,0,62,62,0,up_s179,685,
-up,up_construction_worker_steve,up_construction_worker_steve,Construction Worker Steve,Construction Worker Steve,CONSTRUCTION WORKER STEVE,1,M,,True,False,False,,4,4,0,26,26,0,up_s049,113,
-up,up_girl_s_voice,up_girl_s_voice,Girl'S Voice,Girl'S Voice,GIRL'S VOICE (O.S.),1,F,,False,False,False,,4,4,0,48,48,0,up_s002,24,
-up,up_nurse_george,up_nurse_george,Nurse George,Nurse George,NURSE GEORGE,1,M,,True,False,False,,3,3,0,25,25,0,up_s058,125,
-up,up_dogs,up_dogs,Dogs,Dogs,DOGS,1,Both,,False,False,False,,2,2,0,21,21,0,up_s147,622,collective
-up,up_officer_edith,up_officer_edith,Officer Edith,Officer Edith,OFFICER EDITH,1,F,,True,False,False,,2,2,0,30,30,0,up_s053,121,
-up,up_omega,up_omega,Omega,Omega,OMEGA,1,M,,True,False,False,,2,2,0,8,8,0,up_s154,638,
-up,up_carl_russell,up_carl_russell,Carl/Russell,Carl/Russell,CARL/RUSSELL,1,M,,False,False,False,,1,1,0,1,1,0,up_s176,678,combined-speaker label
-up,up_crowd,up_crowd,Crowd,Crowd,CROWD,1,Both,,False,False,False,,1,1,0,1,1,0,up_s001,9,collective
-up,up_misc_dog,up_misc_dog,Misc Dog,Misc Dog,MISC DOG,1,Unknown,,False,False,False,,1,1,0,6,6,0,up_s163,647,
-up,up_nurse_a_j,up_nurse_a_j,Nurse A.J.,Nurse A.J.,NURSE A.J.,1,M,,True,False,False,,1,1,0,11,11,0,up_s058,129,
+up,up_carl,up_carl,Carl,Carl,CARL | CARL (O.S.) | YOUNG CARL,3,M,,1,1,1,,245,245,0,1547,1547,0,up_s001,12,
+up,up_russell,up_russell,Russell,Russell,RUSSELL | RUSSELL (O.S.),2,M,,1,0,1,,208,208,0,1515,1515,0,up_s048,78,
+up,up_muntz,up_muntz,Muntz,Muntz,MUNTZ | MUNTZ (O.S.),2,M,,1,0,1,,57,57,0,594,594,0,up_s001,6,
+up,up_dug,up_dug,Dug,Dug,DUG | DUG (O.S.),2,M,,1,0,1,,49,49,0,483,483,0,up_s096,304,
+up,up_ellie,up_ellie,Ellie,Ellie,YOUNG ELLIE | YOUNG ELLIE (O.S.),2,F,,1,0,1,,31,31,0,325,325,0,up_s004,28,
+up,up_alpha,up_alpha,Alpha,Alpha,ALPHA | ALPHA (CONT'D),2,M,,1,0,1,,22,22,0,250,250,0,up_s097,330,
+up,up_newsreel_announcer,up_newsreel_announcer,Newsreel Announcer,Newsreel Announcer,NEWSREEL ANNOUNCER (O.S.) | NEWSREEL ANNOUNCER (V.O.),2,M,,0,0,0,,17,17,0,184,184,0,up_s001,1,
+up,up_gamma,up_gamma,Gamma,Gamma,GAMMA | GAMMA (O.S.),2,M,,1,0,1,,15,15,0,83,83,0,up_s097,326,
+up,up_beta,up_beta,Beta,Beta,BETA,1,M,,1,0,1,,12,12,0,103,103,0,up_s097,327,
+up,up_voice,up_voice,Voice,Voice,VOICE | VOICE (O.S.),2,Unknown,,0,0,0,,8,8,0,68,68,0,up_s096,285,
+up,up_construction_foreman_tom,up_construction_foreman_tom,Construction Foreman Tom,Construction Foreman Tom,CONSTRUCTION FOREMAN TOM,1,M,,1,0,1,,7,7,0,74,74,0,up_s046,65,
+up,up_dog_walla,up_dog_walla,Dog Walla,Dog Walla,DOG WALLA,1,Unknown,,0,0,0,,6,6,0,59,59,0,up_s110,455,"film sound term (background dog murmur), not a character"
+up,up_camp_master_strauch,up_camp_master_strauch,Camp Master Strauch,Camp Master Strauch,CAMP MASTER STRAUCH,1,M,,1,0,1,,5,5,0,62,62,0,up_s179,685,
+up,up_construction_worker_steve,up_construction_worker_steve,Construction Worker Steve,Construction Worker Steve,CONSTRUCTION WORKER STEVE,1,M,,1,0,0,,4,4,0,26,26,0,up_s049,113,
+up,up_girl_s_voice,up_girl_s_voice,Girl'S Voice,Girl'S Voice,GIRL'S VOICE (O.S.),1,F,,0,0,0,,4,4,0,48,48,0,up_s002,24,
+up,up_nurse_george,up_nurse_george,Nurse George,Nurse George,NURSE GEORGE,1,M,,1,0,0,,3,3,0,25,25,0,up_s058,125,
+up,up_dogs,up_dogs,Dogs,Dogs,DOGS,1,Both,,0,0,0,,2,2,0,21,21,0,up_s147,622,collective
+up,up_officer_edith,up_officer_edith,Officer Edith,Officer Edith,OFFICER EDITH,1,F,,1,0,0,,2,2,0,30,30,0,up_s053,121,
+up,up_omega,up_omega,Omega,Omega,OMEGA,1,M,,1,0,0,,2,2,0,8,8,0,up_s154,638,
+up,up_carl_russell,up_carl_russell,Carl/Russell,Carl/Russell,CARL/RUSSELL,1,M,,0,0,0,,1,1,0,1,1,0,up_s176,678,combined-speaker label
+up,up_crowd,up_crowd,Crowd,Crowd,CROWD,1,Both,,0,0,0,,1,1,0,1,1,0,up_s001,9,collective
+up,up_misc_dog,up_misc_dog,Misc Dog,Misc Dog,MISC DOG,1,Unknown,,0,0,0,,1,1,0,6,6,0,up_s163,647,
+up,up_nurse_a_j,up_nurse_a_j,Nurse A.J.,Nurse A.J.,NURSE A.J.,1,M,,1,0,0,,1,1,0,11,11,0,up_s058,129,
